@@ -10,7 +10,11 @@
 - 英文：[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 5. 
 - 英文：[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
-6. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
+- 中文：[Airbnb AI将草图原型转代码了](https://zhuanlan.zhihu.com/p/31790771)
+6.
+- 中文：[Code2Pix-用于图形用户界面的深度学习编译器](https://zhuanlan.zhihu.com/p/48039719)
+- 英文：[Code2Pix — Deep Learning Compiler for Graphical User Interfaces](https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b)
+7. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
 
 
 
