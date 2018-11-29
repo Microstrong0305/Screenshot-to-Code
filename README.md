@@ -8,7 +8,9 @@
 4. 
 - 中文：[深度学习自动前端开发：从草图到HTML只需5秒（附代码）](https://zhuanlan.zhihu.com/p/35177965)
 - 英文：[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
-5. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
+5. 
+- 英文：[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
+6. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
 
 
 
