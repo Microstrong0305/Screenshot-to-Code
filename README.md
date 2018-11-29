@@ -1,21 +1,25 @@
-# Screenshot-to-Code
-*Description: Generating Code from a Graphical User Interface Screenshot
+ï»¿# Screenshot-to-Code
+* Description: Generating Code from a Graphical User Interface Screenshot
 1. Beltramelli T. pix2code: Generating code from a graphical user interface screenshot[C]//Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems. ACM, 2018: 3.
-2. [ÈıÄêºó£¬ÈË¹¤ÖÇÄÜ½«³¹µ×¸Ä±äÇ°¶Ë¿ª·¢£¿](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
+2. [ä¸‰å¹´åï¼Œäººå·¥æ™ºèƒ½å°†å½»åº•æ”¹å˜å‰ç«¯å¼€å‘ï¼Ÿ](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
 3.
-- ÖĞÎÄ£º[Ç°¶ËÒªÍê£¡ÈË¹¤ÖÇÄÜÒÑ¾­ÄÜÊµÏÖ×Ô¶¯±àĞ´ HTML ºÍ CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
-- Ó¢ÎÄ£º[Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+- ä¸­æ–‡ï¼š[å‰ç«¯è¦å®Œï¼äººå·¥æ™ºèƒ½å·²ç»èƒ½å®ç°è‡ªåŠ¨ç¼–å†™ HTML å’Œ CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
+- è‹±æ–‡ï¼š[Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 4. 
-- ÖĞÎÄ£º[Éî¶ÈÑ§Ï°×Ô¶¯Ç°¶Ë¿ª·¢£º´Ó²İÍ¼µ½HTMLÖ»Ğè5Ãë£¨¸½´úÂë£©](https://zhuanlan.zhihu.com/p/35177965)
-- Ó¢ÎÄ£º[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
+- ä¸­æ–‡ï¼š[æ·±åº¦å­¦ä¹ è‡ªåŠ¨å‰ç«¯å¼€å‘ï¼šä»è‰å›¾åˆ°HTMLåªéœ€5ç§’ï¼ˆé™„ä»£ç ï¼‰](https://zhuanlan.zhihu.com/p/35177965)
+- è‹±æ–‡ï¼š[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 5. 
-- Ó¢ÎÄ£º[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
-- ÖĞÎÄ£º[Airbnb AI½«²İÍ¼Ô­ĞÍ×ª´úÂëÁË](https://zhuanlan.zhihu.com/p/31790771)
+- è‹±æ–‡ï¼š[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
+- ä¸­æ–‡ï¼š[Airbnb AIå°†è‰å›¾åŸå‹è½¬ä»£ç äº†](https://zhuanlan.zhihu.com/p/31790771)
 6.
-- ÖĞÎÄ£º[Code2Pix-ÓÃÓÚÍ¼ĞÎÓÃ»§½çÃæµÄÉî¶ÈÑ§Ï°±àÒëÆ÷](https://zhuanlan.zhihu.com/p/48039719)
-- Ó¢ÎÄ£º[Code2Pix ¡ª Deep Learning Compiler for Graphical User Interfaces](https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b)
+- ä¸­æ–‡ï¼š[Code2Pix-ç”¨äºå›¾å½¢ç”¨æˆ·ç•Œé¢çš„æ·±åº¦å­¦ä¹ ç¼–è¯‘å™¨](https://zhuanlan.zhihu.com/p/48039719)
+- è‹±æ–‡ï¼š[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b)
 7. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
 
+# Computer Vision
+* Classic papers in the field of computer vision
+1. VGG16ï¼šSimonyan K, Zisserman A. Very deep convolutional networks for large-scale image recognition[J]. arXiv preprint arXiv:1409.1556, 2014.
+2. Resnet: He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778.
 
 
 
