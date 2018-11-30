@@ -28,5 +28,16 @@
 - Inception v4：Szegedy C, Ioffe S, Vanhoucke V, et al. Inception-v4, inception-resnet and the impact of residual connections on learning[C]//AAAI. 2017, 4: 12.
 4. Resnet：He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778.
 
+# NLP
+## 注意力机制
+1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
 
+# RNN
+## Improved article on RNN
+1. Convolutional sequence to sequence learning
+- 2017年5月，Facebook AI实验室发表了一篇《Convolutional Sequence to Sequence Learning》，发现在机器翻译任务上比以往循环神经网络效果更好，同时大大提高了运行速度。此论文提出的卷积序列学习模型在具有时间序列的数据上表现的效果比其他序列模型更好，因此可以尝试将RNN模型替换成卷积序列学习模型。
+- Gehring J, Auli M, Grangier D, et al. Convolutional sequence to sequence learning[J]. arXiv preprint arXiv:1705.03122, 2017.
+2. TCN
+- 2018年3月，CMU提出一种通用的卷积网络架构TCN，并通过实验证明TCN在大多数序列学习任务上比RNN（LSTM）要好。因此，可以尝试RNN模型替换成TCN模型。
+- Bai S, Kolter J Z, Koltun V. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling[J]. arXiv preprint arXiv:1803.01271, 2018.
 
