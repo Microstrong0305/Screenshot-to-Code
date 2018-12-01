@@ -31,6 +31,9 @@
 # NLP
 ## 注意力机制
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
+## Evaluation Measures
+1. BLEU
+- Papineni K, Roukos S, Ward T, et al. BLEU: a method for automatic evaluation of machine translation[C]//Proceedings of the 40th annual meeting on association for computational linguistics. Association for Computational Linguistics, 2002: 311-318.
 
 # RNN
 ## Improved article on RNN
