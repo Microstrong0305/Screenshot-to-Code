@@ -1,5 +1,5 @@
 # Screenshot-to-Code
-* Description: Generating Code from a Graphical User Interface Screenshot
+Description: Generating Code from a Graphical User Interface Screenshot
 1. Beltramelli T. pix2code: Generating code from a graphical user interface screenshot[C]//Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems. ACM, 2018: 3.
 2. [三年后，人工智能将彻底改变前端开发？](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
 3. 
@@ -18,7 +18,7 @@
 8. Ellis K, Ritchie D, Solar-Lezama A, et al. Learning to infer graphics programs from hand-drawn images[C]//Advances in Neural Information Processing Systems. 2018: 6060-6069.
 
 # Computer Vision
-* Classic papers in the field of computer vision
+Description: Classic papers in the field of computer vision
 ##  image recognition and image classficiation
 1. AlexNet：Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]//Advances in neural information processing systems. 2012: 1097-1105.
 2. VGG16 and VGG19：Simonyan K, Zisserman A. Very deep convolutional networks for large-scale image recognition[J]. arXiv preprint arXiv:1409.1556, 2014.
@@ -43,6 +43,13 @@
 - Papineni K, Roukos S, Ward T, et al. BLEU: a method for automatic evaluation of machine translation[C]//Proceedings of the 40th annual meeting on association for computational linguistics. Association for Computational Linguistics, 2002: 311-318.
 ## Dialogue Systems
 1. Chen H, Liu X, Yin D, et al. A survey on dialogue systems: Recent advances and new frontiers[J]. ACM SIGKDD Explorations Newsletter, 2017, 19(2): 25-35.
+2. Song Y, Yan R, Li C T, et al. An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems[J]. 2018.
+3. Kannan A, Kurach K, Ravi S, et al. Smart reply: Automated response suggestion for email[C]//Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2016: 955-964.
+4. Divya M S, Goyal S K. ElasticSearch: An advanced and quick search technique to handle voluminous data[J]. Compusoft, 2013, 2(6): 171.
+5. Shang L, Lu Z, Li H. Neural responding machine for short-text conversation[J]. arXiv preprint arXiv:1503.02364, 2015.
+6. Ji Z, Lu Z, Li H. An information retrieval approach to short text conversation[J]. arXiv preprint arXiv:1408.6988, 2014.
+7. Wang H, Lu Z, Li H, et al. A dataset for research on short-text conversations[C]//Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing. 2013: 935-945.
+8. 庞亮, 兰艳艳, 徐君, 等. 深度文本匹配综述[J]. 计算机学报, 2017, 40(4): 985-1003.
 
 # RNN
 ## Improved article on RNN
