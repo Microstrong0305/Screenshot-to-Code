@@ -3,17 +3,17 @@ Description: Generating Code from a Graphical User Interface Screenshot
 1. Beltramelli T. pix2code: Generating code from a graphical user interface screenshot[C]//Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems. ACM, 2018: 3.
 2. [三年后，人工智能将彻底改变前端开发？](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
 3. 
-- 中文：[前端要完！人工智能已经能实现自动编写 HTML 和 CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
-- 英文：[Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+	- 中文：[前端要完！人工智能已经能实现自动编写 HTML 和 CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
+	- 英文：[Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 4. 
-- 中文：[深度学习自动前端开发：从草图到HTML只需5秒（附代码）](https://zhuanlan.zhihu.com/p/35177965)
-- 英文：[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
+	- 中文：[深度学习自动前端开发：从草图到HTML只需5秒（附代码）](https://zhuanlan.zhihu.com/p/35177965)
+	- 英文：[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 5. 
-- 英文：[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
-- 中文：[Airbnb AI将草图原型转代码了](https://zhuanlan.zhihu.com/p/31790771)
+	- 英文：[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
+	- 中文：[Airbnb AI将草图原型转代码了](https://zhuanlan.zhihu.com/p/31790771)
 6. 
-- 中文：[Code2Pix-用于图形用户界面的深度学习编译器](https://zhuanlan.zhihu.com/p/48039719)
-- 英文：[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b)
+	- 中文：[Code2Pix-用于图形用户界面的深度学习编译器](https://zhuanlan.zhihu.com/p/48039719)
+	- 英文：[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b)
 7. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
 8. Ellis K, Ritchie D, Solar-Lezama A, et al. Learning to infer graphics programs from hand-drawn images[C]//Advances in Neural Information Processing Systems. 2018: 6060-6069.
 
@@ -38,9 +38,12 @@ Description: Classic papers in the field of computer vision
 # NLP
 ## 注意力机制
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
+2. [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)
+
 ## Evaluation Measures
 1. BLEU
 - Papineni K, Roukos S, Ward T, et al. BLEU: a method for automatic evaluation of machine translation[C]//Proceedings of the 40th annual meeting on association for computational linguistics. Association for Computational Linguistics, 2002: 311-318.
+
 ## Dialogue Systems
 1. Chen H, Liu X, Yin D, et al. A survey on dialogue systems: Recent advances and new frontiers[J]. ACM SIGKDD Explorations Newsletter, 2017, 19(2): 25-35.
 2. Song Y, Yan R, Li C T, et al. An Ensemble of Retrieval-Based and Generation-Based Human-Computer Conversation Systems[J]. 2018.
@@ -54,9 +57,8 @@ Description: Classic papers in the field of computer vision
 # RNN
 ## Improved article on RNN
 1. Convolutional sequence to sequence learning
-- 2017年5月，Facebook AI实验室发表了一篇《Convolutional Sequence to Sequence Learning》，发现在机器翻译任务上比以往循环神经网络效果更好，同时大大提高了运行速度。此论文提出的卷积序列学习模型在具有时间序列的数据上表现的效果比其他序列模型更好，因此可以尝试将RNN模型替换成卷积序列学习模型。
-- Gehring J, Auli M, Grangier D, et al. Convolutional sequence to sequence learning[J]. arXiv preprint arXiv:1705.03122, 2017.
+	- 2017年5月，Facebook AI实验室发表了一篇《Convolutional Sequence to Sequence Learning》，发现在机器翻译任务上比以往循环神经网络效果更好，同时大大提高了运行速度。此论文提出的卷积序列学习模型在具有时间序列的数据上表现的效果比其他序列模型更好，因此可以尝试将RNN模型替换成卷积序列学习模型。
+	- Gehring J, Auli M, Grangier D, et al. Convolutional sequence to sequence learning[J]. arXiv preprint arXiv:1705.03122, 2017.
 2. TCN
-- 2018年3月，CMU提出一种通用的卷积网络架构TCN，并通过实验证明TCN在大多数序列学习任务上比RNN（LSTM）要好。因此，可以尝试RNN模型替换成TCN模型。
-- Bai S, Kolter J Z, Koltun V. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling[J]. arXiv preprint arXiv:1803.01271, 2018.
-
+	- 2018年3月，CMU提出一种通用的卷积网络架构TCN，并通过实验证明TCN在大多数序列学习任务上比RNN（LSTM）要好。因此，可以尝试RNN模型替换成TCN模型。
+	- Bai S, Kolter J Z, Koltun V. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling[J]. arXiv preprint arXiv:1803.01271, 2018.
