@@ -41,6 +41,7 @@ Description: Classic papers in the field of computer vision
 2. [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)
 3. Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[C]//Advances in Neural Information Processing Systems. 2017: 5998-6008.
 	- 2017年，Google机器翻译团队发表的《Attention is all you need》中大量使用了自注意力（self-attention）机制来学习文本表示。自注意力机制成为了大家近期的研究热点，并在各种NLP任务上进行探索，纷纷都取得了很好的性能。
+	- 《Attention is All You Need》[中文解读](https://mp.weixin.qq.com/s/7RgCIFxPGnREiBk8PcxOBg)
 4. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)
 
 ## Evaluation Measures
@@ -58,14 +59,15 @@ Description: Classic papers in the field of computer vision
 8. 庞亮, 兰艳艳, 徐君, 等. 深度文本匹配综述[J]. 计算机学报, 2017, 40(4): 985-1003.
 
 ## Neural Machine Translation
-1. Bahdanau D, Cho K, Bengio Y. Neural machine translation by jointly learning to align and translate[J]. arXiv preprint arXiv:1409.0473, 2014.
-	- 此论文使用类似Attention的机制在机器翻译任务上将翻译和对齐同时进行，Bahdanau等人的工作算是第一个将Attention机制应用到NLP领域中。
 
 ### Seq-to-Seq
 1. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
 2. Sutskever I, Vinyals O, Le Q V. Sequence to sequence learning with neural networks[C]//Advances in neural information processing systems. 2014: 3104-3112.
+	- 与Cho等人[1]提出模型最大的区别在于其source编码后的向量C直接作为Decoder阶段RNN的初始化state，而不是在每次decode时都作为RNN cell的输入。此外，decode时RNN的输入是目标值，而不是前一时刻的输出。
 
-### Seq-to-Seq with Attention
+### Seq-to-Seq with Attention(NMT)
+1. Bahdanau D, Cho K, Bengio Y. Neural machine translation by jointly learning to align and translate[J]. arXiv preprint arXiv:1409.0473, 2014.
+	- 此论文使用类似Attention的机制在机器翻译任务上将翻译和对齐同时进行，Bahdanau等人的工作算是第一个将Attention机制应用到NLP领域中。
 
 
 # RNN
