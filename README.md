@@ -31,6 +31,7 @@ Description: Classic papers in the field of computer vision
 
 ## image caption
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
+2. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
 
 ## train trick
 1. Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
@@ -42,7 +43,7 @@ Description: Classic papers in the field of computer vision
 3. Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[C]//Advances in Neural Information Processing Systems. 2017: 5998-6008.
 	- 2017年，Google机器翻译团队发表的《Attention is all you need》中大量使用了自注意力（self-attention）机制来学习文本表示。自注意力机制成为了大家近期的研究热点，并在各种NLP任务上进行探索，纷纷都取得了很好的性能。
 	- 《Attention is All You Need》[中文解读](https://mp.weixin.qq.com/s/7RgCIFxPGnREiBk8PcxOBg)
-4. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)
+4. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)【推荐阅读】
 
 ## Evaluation Measures
 1. BLEU
@@ -69,6 +70,15 @@ Description: Classic papers in the field of computer vision
 1. Bahdanau D, Cho K, Bengio Y. Neural machine translation by jointly learning to align and translate[J]. arXiv preprint arXiv:1409.0473, 2014.
 	- 此论文使用类似Attention的机制在机器翻译任务上将翻译和对齐同时进行，Bahdanau等人的工作算是第一个将Attention机制应用到NLP领域中。
 
+### Seq-to-Seq with Attention各种变形
+1.  Luong M T, Pham H, Manning C D. Effective approaches to attention-based neural machine translation[J]. arXiv preprint arXiv:1508.04025, 2015.
+	- 这篇论文提出了两种Seq-to-Seq模型，分别是global Attention和local Attention。
+2. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.【Hard Attention】
+	- 目前存在两种Attention方式soft Attention和hard Attention。上面提到的global模型属于soft Attention，这种方法的缺点是每次decode时都要计算所有的向量，导致计算复杂度较高，而且很容易可以想到，其实有些source跟本次decode根本没有任何关系，所以计算他们之间的相似度有些多余；除此之外，当source序列较长时，这种方法的效果也会有所下降。而hard Attention，每次仅选择一个相关的source进行计算，这种方法的缺点是不可微，没有办法进行反向传播，只能借助强化学习等手段进行训练。这部分内容可以参考论文“Show, Attend and Tell: Neural Image Caption Generation with Visual Attention”。
+
+### Seq-to-Seq with Beam-Search
+1. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)
+2. [seq2seq中的beam search算法过程](https://zhuanlan.zhihu.com/p/28048246) 
 
 # RNN
 ## Improved article on RNN
