@@ -10,4 +10,15 @@ Kaggle 竞赛分成几个类别，最常见的类别是：
 
 ## Kaggle经典项目
 
-- [泰坦尼克号](https://www.kaggle.com/c/titanic#tutorials)
+### [泰坦尼克号](https://www.kaggle.com/c/titanic#tutorials)
+- [数据分析-kaggle泰坦尼克号生存率分析（入门）个人总结](https://www.jianshu.com/p/06c2ee7e5c68)
+- [14案例实战：泰坦尼克获救预测](https://www.bilibili.com/video/av29440114/?p=3)
+
+
+## Reference
+
+- [如何在 Kaggle 首战中进入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+
+## 遇到问题
+- [修改Jupyter工作路径（已安装Anaconda）](https://blog.csdn.net/Jane_Ginkgo/article/details/79110958)
+
