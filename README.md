@@ -46,6 +46,9 @@ Description: Classic papers in the field of computer vision
 	- 《Attention is All You Need》[中文解读](https://mp.weixin.qq.com/s/7RgCIFxPGnREiBk8PcxOBg)
 4. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)【推荐阅读】
 5. [深度学习中的注意力机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzc0NjkwNA==&mid=2650783542&idx=1&sn=3846652d54d48e315e31b59507e34e9e&chksm=87fad601b08d5f17f41b27bb21829ed2c2e511cf2049ba6f5c7244c6e4e1bd7144715faa8f67&mpshare=1&scene=1&srcid=1113JZIMxK3XhM9ViyBbYR76#rd)
+6. Mnih V, Heess N, Graves A. Recurrent models of visual attention[C]//Advances in neural information processing systems. 2014: 2204-2212.
+	-  Attention机制最早是在视觉图像领域提出来的，应该是在九几年思想就提出来了，但是真正火起来应该算是google mind团队的这篇论文《Recurrent Models of Visual Attention》，他们在RNN模型上使用了attention机制来进行图像分类。
+7. [注意力机制（Attention Mechanism）](https://blog.csdn.net/yimingsilence/article/details/79208092)
 
 ## Evaluation Measures
 1. BLEU
@@ -71,7 +74,8 @@ Description: Classic papers in the field of computer vision
 ### Seq-to-Seq with Attention(NMT)
 1. Bahdanau D, Cho K, Bengio Y. Neural machine translation by jointly learning to align and translate[J]. arXiv preprint arXiv:1409.0473, 2014.
 	- 此论文使用类似Attention的机制在机器翻译任务上将翻译和对齐同时进行，Bahdanau等人的工作算是第一个将Attention机制应用到NLP领域中。
-	- 在吴恩达的《DeepLearning.ai》视频中3.7节“注意力模型直观理解”中指出：注意力模型源于Neural Machine Translation by Jointly Learning to Align and Translate。虽然这个模型源于机器翻译，但它也推广到了其他应用领域。我认为在深度学习领域，这个是非常有影响力的具开创性论文。 
+	- 在吴恩达的《DeepLearning.ai》视频中3.7节“注意力模型直观理解”中指出：注意力模型源于Neural Machine Translation by Jointly Learning to Align and Translate。虽然这个模型源于机器翻译，但它也推广到了其他应用领域。我认为在深度学习领域，这个是非常有影响力的具开创性论文。
+	- Bahdanau等人在论文《Neural Machine Translation by Jointly Learning to Align and Translate》中，使用类似attention的机制在机器翻译任务上将翻译和对齐同时进行，他们的工作算是是第一个提出attention机制应用到NLP领域中。
 
 ### Seq-to-Seq with Attention各种变形
 1.  Luong M T, Pham H, Manning C D. Effective approaches to attention-based neural machine translation[J]. arXiv preprint arXiv:1508.04025, 2015.
