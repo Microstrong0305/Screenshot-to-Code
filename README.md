@@ -81,7 +81,8 @@ Description: Classic papers in the field of computer vision
 
 ### Seq-to-Seq with Beam-Search
 1. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)
-2. [seq2seq中的beam search算法过程](https://zhuanlan.zhihu.com/p/28048246) 
+2. [seq2seq中的beam search算法过程](https://zhuanlan.zhihu.com/p/28048246)
+3. [beam search原理以及在NLP中应用](https://www.jianshu.com/p/bc3beb101885)
 
 # RNN
 ## Improved article on RNN
