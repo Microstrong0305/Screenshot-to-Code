@@ -44,11 +44,14 @@ Description: Classic papers in the field of computer vision
 3. Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[C]//Advances in Neural Information Processing Systems. 2017: 5998-6008.
 	- 2017年，Google机器翻译团队发表的《Attention is all you need》中大量使用了自注意力（self-attention）机制来学习文本表示。自注意力机制成为了大家近期的研究热点，并在各种NLP任务上进行探索，纷纷都取得了很好的性能。
 	- 《Attention is All You Need》[中文解读](https://mp.weixin.qq.com/s/7RgCIFxPGnREiBk8PcxOBg)
+	-  [[论文笔记]Attention is All You Need](https://qianqianqiao.github.io/2018/10/23/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0-Attention-is-All-You-Need/)
 4. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)【推荐阅读】
 5. [深度学习中的注意力机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzc0NjkwNA==&mid=2650783542&idx=1&sn=3846652d54d48e315e31b59507e34e9e&chksm=87fad601b08d5f17f41b27bb21829ed2c2e511cf2049ba6f5c7244c6e4e1bd7144715faa8f67&mpshare=1&scene=1&srcid=1113JZIMxK3XhM9ViyBbYR76#rd)
 6. Mnih V, Heess N, Graves A. Recurrent models of visual attention[C]//Advances in neural information processing systems. 2014: 2204-2212.
 	-  Attention机制最早是在视觉图像领域提出来的，应该是在九几年思想就提出来了，但是真正火起来应该算是google mind团队的这篇论文《Recurrent Models of Visual Attention》，他们在RNN模型上使用了attention机制来进行图像分类。
 7. [注意力机制（Attention Mechanism）](https://blog.csdn.net/yimingsilence/article/details/79208092)
+8. [注意力机制(Attention)最新综述论文及相关源码](https://mp.weixin.qq.com/s/azce34Q3N4hnhIlE3NVTVw)
+9. [模型汇总24 - 深度学习中Attention Mechanism详细介绍：原理、分类及应用](https://zhuanlan.zhihu.com/p/31547842)
 
 ## Evaluation Measures
 1. BLEU
