@@ -17,6 +17,7 @@ Description: Generating Code from a Graphical User Interface Screenshot
 7. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
 8. Ellis K, Ritchie D, Solar-Lezama A, et al. Learning to infer graphics programs from hand-drawn images[C]//Advances in Neural Information Processing Systems. 2018: 6060-6069.
 9. Nguyen T A, Csallner C. Reverse engineering mobile application user interfaces with remaui (t)[C]//Automated Software Engineering (ASE), 2015 30th IEEE/ACM International Conference on. IEEE, 2015: 248-259.
+10. [代码都智能自动生成了，还要程序员干嘛？](https://mp.weixin.qq.com/s/_sK631PozCQhPpV6lX-90w)
 
 # Computer Vision
 Description: Classic papers in the field of computer vision
