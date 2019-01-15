@@ -121,6 +121,7 @@ Description: Classic papers in the field of computer vision
 	- [机器学习技法](https://www.bilibili.com/video/av12469267/)
 	- [精心整理 | 林轩田机器学习资源汇总](https://blog.csdn.net/red_stone1/article/details/80517672)
 5. 《机器学习实战》，[美]Peter Harrington 著；李锐、李鹏、曲亚东、王斌 译
+6. [Scikit-learn 0.19.x 中文文档](http://sklearn.apachecn.org/#/)
 
 # 深度学习
 1. 花书《深度学习》，[美]伊恩.古德费洛(Ian Goodfellow)、 [加]约书亚.本吉奥(Yoshua Bengio)、[加]亚伦.库维尔(Aaron Courville) 著；赵申剑 黎彧君 符天凡 李凯 译 张志华等 审校
