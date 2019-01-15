@@ -101,8 +101,36 @@ Description: Classic papers in the field of computer vision
 	- 2018年3月，CMU提出一种通用的卷积网络架构TCN，并通过实验证明TCN在大多数序列学习任务上比RNN（LSTM）要好。因此，可以尝试RNN模型替换成TCN模型。
 	- Bai S, Kolter J Z, Koltun V. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling[J]. arXiv preprint arXiv:1803.01271, 2018.
 
-# 《机器学习》
-1. 《统计机器学习》，李航著
+***
+
+# 基础知识
+1. 数学基础训
+	- 帮助你快速搞懂机器学习中的数学知识
+2. Python基础
+	- 帮助你快速搞懂Python用法与基础操作
+
+# 机器学习
+1. 《统计学习方法》，李航著
 	- [机器学习必备宝典-《统计学习方法》的python代码实现、电子书及课件](https://mp.weixin.qq.com/s/N7meogGSfU5ZYDhJ4oj86w)
 2. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
+3. 吴恩达《机器学习》视频[Coursera]https://www.coursera.org/learn/machine-learning)[网易云课堂](https://study.163.com/course/introduction/1004570029.htm)
+4. 林轩田《机器学习》视频
+	- [林轩田课程主页](https://www.csie.ntu.edu.tw/~htlin/)
+	- [机器学习基石]
+	- [机器学习技法](https://www.bilibili.com/video/av12469267/)
+	- [精心整理 | 林轩田机器学习资源汇总](https://blog.csdn.net/red_stone1/article/details/80517672)
+5. 《机器学习实战》，[美]Peter Harrington 著；李锐、李鹏、曲亚东、王斌 译
+
+# 深度学习
+1. 花书《深度学习》，[美]伊恩.古德费洛(Ian Goodfellow)、 [加]约书亚.本吉奥(Yoshua Bengio)、[加]亚伦.库维尔(Aaron Courville) 著；赵申剑 黎彧君 符天凡 李凯 译 张志华等 审校
+2. 斯坦福CS231n计算机视觉课程 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001&_trace_c_p_k2_=229faec84ed84233a9dd4e5175c5acd5)
+3. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
+4. AlphaGo之父强化学习
+	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
+
+# 进阶学习
+1. 读经典的Paper
+2. 比赛实战
+3. 深度学习框架学习
+4. 项目实战
