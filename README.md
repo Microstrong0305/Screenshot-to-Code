@@ -108,6 +108,8 @@ Description: Classic papers in the field of computer vision
 	- 帮助你快速搞懂机器学习中的数学知识
 2. Python基础
 	- 帮助你快速搞懂Python用法与基础操作
+	- [廖雪峰的官方网站-Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+	- [Python爱好者社区历史文章列表（每周append更新一次）](https://mp.weixin.qq.com/s/-j4u6Q4KpAfTQZnlaO0vgw)
 
 # 机器学习
 1. 《统计学习方法》，李航著
