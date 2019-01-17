@@ -106,7 +106,7 @@ Description: Classic papers in the field of computer vision
 ***
 
 # 基础知识
-1. 数学基础训
+1. 数学基础
 	- 帮助你快速搞懂机器学习中的数学知识
 2. Python基础
 	- 帮助你快速搞懂Python用法与基础操作
