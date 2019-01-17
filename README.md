@@ -1,6 +1,8 @@
 # Screenshot-to-Code
 Description: Generating Code from a Graphical User Interface Screenshot
 1. Beltramelli T. pix2code: Generating code from a graphical user interface screenshot[C]//Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems. ACM, 2018: 3.
+	- [Tony Beltramelli's blog](http://www.tonybeltramelli.com/)
+	- [Official research page](https://uizard.io/research/)
 2. [三年后，人工智能将彻底改变前端开发？](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
 3. 
 	- 中文：[前端要完！人工智能已经能实现自动编写 HTML 和 CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
@@ -110,13 +112,18 @@ Description: Classic papers in the field of computer vision
 	- 帮助你快速搞懂Python用法与基础操作
 	- [廖雪峰的官方网站-Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 	- [Python爱好者社区历史文章列表（每周append更新一次）](https://mp.weixin.qq.com/s/-j4u6Q4KpAfTQZnlaO0vgw)
+	- [莫烦PYTHON](https://morvanzhou.github.io/)
+		- [Python3基础教程](https://morvanzhou.github.io/tutorials/python-basic/basic/)
+		- [tkinter Python3 做简单窗口视窗](https://morvanzhou.github.io/tutorials/python-basic/tkinter/)
+		- [Threading Python3 多线程](https://morvanzhou.github.io/tutorials/python-basic/threading/)
+		- [Multiprocessing Python3 多进程](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
 
 # 机器学习
 1. 《统计学习方法》，李航著
 	- [机器学习必备宝典-《统计学习方法》的python代码实现、电子书及课件](https://mp.weixin.qq.com/s/N7meogGSfU5ZYDhJ4oj86w)
 2. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
-3. 吴恩达《机器学习》视频[Coursera]https://www.coursera.org/learn/machine-learning)[网易云课堂](https://study.163.com/course/introduction/1004570029.htm)
+3. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm)
 4. 林轩田《机器学习》视频
 	- [林轩田课程主页](https://www.csie.ntu.edu.tw/~htlin/)
 	- [机器学习基石]
