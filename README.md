@@ -132,6 +132,8 @@ Description: Classic papers in the field of computer vision
 5. 《机器学习实战》，[美]Peter Harrington 著；李锐、李鹏、曲亚东、王斌 译
 6. [Scikit-learn 0.19.x 中文文档](http://sklearn.apachecn.org/#/)
 7. [台湾大学李宏毅老师《机器学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+8. [Pattern Recognition and Machine Learning(PRML)](https://weibo.com/1768582942/Ef2CZporc?type=comment)
+	+ [重磅 | AI 圣经 PRML《模式识别与机器学习》官方开源了！](https://mp.weixin.qq.com/s/qSe_GzV5RhhY7TGTMQdWQA)
 
 
 # 深度学习
