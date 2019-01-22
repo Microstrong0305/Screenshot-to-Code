@@ -40,6 +40,11 @@ Description: Classic papers in the field of computer vision
 ## train trick
 1. Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
 
+## 关于CNN中容易困惑问题总结
+1. [【深度学习】多通道图像卷积过程及计算方式](https://blog.csdn.net/briblue/article/details/83063170)
+	+ 为什么颜色通道为3的图像，经过卷积后，它的通道数量可以变成128或者其它呢？
+	+ 为什么需要压缩卷积后的结果到2维呢？
+
 # NLP
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
