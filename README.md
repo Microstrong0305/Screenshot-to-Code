@@ -37,6 +37,7 @@ Description: Classic papers in the field of computer vision
 7. MobileNet(2017)：Howard A G, Zhu M, Chen B, et al. Mobilenets: Efficient convolutional neural networks for mobile vision applications[J]. arXiv preprint arXiv:1704.04861, 2017.
 8. ShuffleNet(2017)：《ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices》
 9. EffNet(2018)：Freeman I, Roese-Koerner L, Kummert A. EffNet: An Efficient Structure for Convolutional Neural Networks[J]. arXiv preprint arXiv:1801.06434, 2018.
+10. [从 VGG开始，介绍了 GoogLeNet、ResNet、Inception系列、DenseNet、Xception、SENet，还有轻量级网络，如：MobileNet、ShuffleNet和IGCV系列。甚至还有最近很火的 NasNet系列网络。每种网络都带有论文链接和多种复现的代码链接。](https://mp.weixin.qq.com/s/_TbDeRlE9NJ3yvoaaBAQDg)
 
 ## image caption
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
@@ -113,6 +114,9 @@ Description: Classic papers in the field of computer vision
 2. TCN
 	- 2018年3月，CMU提出一种通用的卷积网络架构TCN，并通过实验证明TCN在大多数序列学习任务上比RNN（LSTM）要好。因此，可以尝试RNN模型替换成TCN模型。
 	- Bai S, Kolter J Z, Koltun V. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling[J]. arXiv preprint arXiv:1803.01271, 2018.
+
+# GAN（Generative Adversarial Networks）
+1. [王飞跃教授：生成式对抗网络GAN的研究进展与展望](https://mp.weixin.qq.com/s/gvzZaXe6gxD6r5Rn7qiDBQ)
 
 ***
 
