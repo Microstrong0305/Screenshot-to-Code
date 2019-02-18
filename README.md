@@ -1,8 +1,7 @@
 # Screenshot-to-Code
 Description: Generating Code from a Graphical User Interface Screenshot
 1. Beltramelli T. pix2code: Generating code from a graphical user interface screenshot[C]//Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems. ACM, 2018: 3.
-	- [Tony Beltramelli's blog](http://www.tonybeltramelli.com/)
-	- [Official research page](https://uizard.io/research/)
+	- [Tony Beltramelli's blog](http://www.tonybeltramelli.com/) [Official research page](https://uizard.io/research/) [pdf](https://arxiv.org/abs/1705.07962) [code](https://github.com/tonybeltramelli/pix2code)
 2. [三年后，人工智能将彻底改变前端开发？](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
 3. 
 	- 中文：[前端要完！人工智能已经能实现自动编写 HTML 和 CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
@@ -17,6 +16,7 @@ Description: Generating Code from a Graphical User Interface Screenshot
 	- 中文：[Code2Pix-用于图形用户界面的深度学习编译器](https://zhuanlan.zhihu.com/p/48039719)
 	- 英文：[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b)
 7. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
+	- [pdf](https://arxiv.org/abs/1810.11536) [code](https://github.com/ZhihaoZhu/Auto-GUI-Code-Generation)
 8. Ellis K, Ritchie D, Solar-Lezama A, et al. Learning to infer graphics programs from hand-drawn images[C]//Advances in Neural Information Processing Systems. 2018: 6060-6069.
 9. Nguyen T A, Csallner C. Reverse engineering mobile application user interfaces with remaui (t)[C]//Automated Software Engineering (ASE), 2015 30th IEEE/ACM International Conference on. IEEE, 2015: 248-259.
 10. [代码都智能自动生成了，还要程序员干嘛？](https://mp.weixin.qq.com/s/_sK631PozCQhPpV6lX-90w)
@@ -70,6 +70,7 @@ Description: Classic papers in the field of computer vision
 8. [注意力机制(Attention)最新综述论文及相关源码](https://mp.weixin.qq.com/s/azce34Q3N4hnhIlE3NVTVw)
 9. [模型汇总24 - 深度学习中Attention Mechanism详细介绍：原理、分类及应用](https://zhuanlan.zhihu.com/p/31547842)
 10. [干货 | 自然语言处理中注意力机制综述](https://mp.weixin.qq.com/s/ZBaBtnQR7e39jZsY_JOqfw)
+11. [深度学习中Attention Mechanism详细介绍：原理、分类及应用](https://mp.weixin.qq.com/s/ZlLvl6lLoXoPzCN4QabAQQ)
 
 ## Evaluation Measures
 1. BLEU
@@ -152,6 +153,7 @@ Description: Classic papers in the field of computer vision
 7. [台湾大学李宏毅老师《机器学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 8. [Pattern Recognition and Machine Learning(PRML)](https://weibo.com/1768582942/Ef2CZporc?type=comment)
 	+ [重磅 | AI 圣经 PRML《模式识别与机器学习》官方开源了！](https://mp.weixin.qq.com/s/qSe_GzV5RhhY7TGTMQdWQA)
+9. [汇总 | 机器学习算法优缺点 & 如何选择](https://mp.weixin.qq.com/s/g3nLEOmRHe6iAY9_E3zpGw)
 
 
 # 深度学习
