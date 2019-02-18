@@ -38,6 +38,7 @@ Description: Classic papers in the field of computer vision
 8. ShuffleNet(2017)：《ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices》
 9. EffNet(2018)：Freeman I, Roese-Koerner L, Kummert A. EffNet: An Efficient Structure for Convolutional Neural Networks[J]. arXiv preprint arXiv:1801.06434, 2018.
 10. [从 VGG开始，介绍了 GoogLeNet、ResNet、Inception系列、DenseNet、Xception、SENet，还有轻量级网络，如：MobileNet、ShuffleNet和IGCV系列。甚至还有最近很火的 NasNet系列网络。每种网络都带有论文链接和多种复现的代码链接。](https://mp.weixin.qq.com/s/_TbDeRlE9NJ3yvoaaBAQDg)
+11. [CV 图像分类常见的 36 个模型汇总！附完整论文和代码](https://mp.weixin.qq.com/s/teOWcD-LPy-aKp7PKnxOdQ)
 
 ## image caption
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
