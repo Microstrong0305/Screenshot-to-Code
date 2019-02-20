@@ -44,6 +44,7 @@ Description: Classic papers in the field of computer vision
 ## image caption
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
 2. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
+	- [code](https://github.com/DeepRNN/image_captioning) |
 3. Krause, J., Johnson, J., Krishna, R., Fei-Fei, L.: A hierarchical approach for generating descriptive image paragraphs. In: 2017 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, Honolulu, HI, USA, July 21-26, 2017. pp. 3337{3345 (2017) [website](https://cs.stanford.edu/people/ranjaykrishna/im2p/index.html) [pdf](https://arxiv.org/pdf/1611.06607.pdf)
 	+ Jonathan等人采用层次结构的LSTM，其模型能够生成段落级的图像描述。基本上，在他们的工作中，使用了两个基于LSTM的语言解码器：第一阶段LSTM捕获图像的一般信息，并在隐藏状态下存储每个句子的上下文信息。然后，使用第二阶段LSTM将第一阶段LSTM的隐藏状态解码为段落中的不同句子。
 
