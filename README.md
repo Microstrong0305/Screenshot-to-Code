@@ -99,6 +99,8 @@ Description: Classic papers in the field of computer vision
 	- 此论文使用类似Attention的机制在机器翻译任务上将翻译和对齐同时进行，Bahdanau等人的工作算是第一个将Attention机制应用到NLP领域中。
 	- 在吴恩达的《DeepLearning.ai》视频中3.7节“注意力模型直观理解”中指出：注意力模型源于Neural Machine Translation by Jointly Learning to Align and Translate。虽然这个模型源于机器翻译，但它也推广到了其他应用领域。我认为在深度学习领域，这个是非常有影响力的具开创性论文。
 	- Bahdanau等人在论文《Neural Machine Translation by Jointly Learning to Align and Translate》中，使用类似attention的机制在机器翻译任务上将翻译和对齐同时进行，他们的工作算是是第一个提出attention机制应用到NLP领域中。
+	- [code](https://github.com/datalogue/keras-attention)
+2. [基于Keras框架实现加入Attention与BiRNN的机器翻译模型](https://zhuanlan.zhihu.com/p/37290775)
 
 ### Seq-to-Seq with Attention各种变形
 1.  Luong M T, Pham H, Manning C D. Effective approaches to attention-based neural machine translation[J]. arXiv preprint arXiv:1508.04025, 2015.
