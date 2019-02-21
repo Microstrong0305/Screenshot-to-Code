@@ -1,5 +1,7 @@
 # Screenshot-to-Code
-Description: Generating Code from a Graphical User Interface Screenshot
+
+## Generating Code from a Graphical User Interface Screenshot
+
 1. Beltramelli T. pix2code: Generating code from a graphical user interface screenshot[C]//Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems. ACM, 2018: 3.
 	- [Tony Beltramelli's blog](http://www.tonybeltramelli.com/) | [Official research page](https://uizard.io/research/) | [pdf](https://arxiv.org/abs/1705.07962) | [code](https://github.com/tonybeltramelli/pix2code)
 2. [三年后，人工智能将彻底改变前端开发？](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
@@ -22,8 +24,20 @@ Description: Generating Code from a Graphical User Interface Screenshot
 10. [代码都智能自动生成了，还要程序员干嘛？](https://mp.weixin.qq.com/s/_sK631PozCQhPpV6lX-90w)
 	- [imgcook](https://imgcook.taobao.org/) | [code](https://github.com/taobaofed/imgcook)
 
+## Generating Code from Computer program
+
+1. Balog M, Gaunt A L, Brockschmidt M, et al. Deepcoder: Learning to write programs[J]. arXiv preprint arXiv:1611.01989, 2016.
+1. Devlin J, Uesato J, Bhupatiraju S, et al. Robustfill: Neural program learning under noisy I/O[J]. arXiv preprint arXiv:1703.07469, 2017.
+1. Becker K, Gottschlich J. AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms[J]. arXiv preprint arXiv:1709.05703, 2017.
+1. Kant N. Recent Advances in Neural Program Synthesis[J]. arXiv preprint arXiv:1802.02353, 2018.
+
 # Computer Vision
+
+## CNN
 Description: Classic papers in the field of computer vision
+
+1. 周飞燕, 金林鹏, 董军. 卷积神经网络研究综述[J]. 计算机学报, 2017, 40(6): 1229-1251.
+
 ##  image recognition and image classficiation
 1. AlexNet(2012)：Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]//Advances in neural information processing systems. 2012: 1097-1105.
 2. ZFNet(2013)：Zeiler M D, Fergus R. Visualizing and understanding convolutional networks[C]//European conference on computer vision. Springer, Cham, 2014: 818-833.
@@ -43,9 +57,11 @@ Description: Classic papers in the field of computer vision
 
 ## image caption
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
-2. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
+2. Vinyals O, Toshev A, Bengio S, et al. Show and tell: A neural image caption generator[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3156-3164.
+	- [code](https://github.com/anuragmishracse/caption_generator) | [pdf](https://arxiv.org/abs/1411.4555)
+3. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
 	- [code](https://github.com/DeepRNN/image_captioning) |
-3. Krause, J., Johnson, J., Krishna, R., Fei-Fei, L.: A hierarchical approach for generating descriptive image paragraphs. In: 2017 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, Honolulu, HI, USA, July 21-26, 2017. pp. 3337{3345 (2017) [website](https://cs.stanford.edu/people/ranjaykrishna/im2p/index.html) [pdf](https://arxiv.org/pdf/1611.06607.pdf)
+4. Krause, J., Johnson, J., Krishna, R., Fei-Fei, L.: A hierarchical approach for generating descriptive image paragraphs. In: 2017 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, Honolulu, HI, USA, July 21-26, 2017. pp. 3337{3345 (2017) [website](https://cs.stanford.edu/people/ranjaykrishna/im2p/index.html) [pdf](https://arxiv.org/pdf/1611.06607.pdf)
 	+ Jonathan等人采用层次结构的LSTM，其模型能够生成段落级的图像描述。基本上，在他们的工作中，使用了两个基于LSTM的语言解码器：第一阶段LSTM捕获图像的一般信息，并在隐藏状态下存储每个句子的上下文信息。然后，使用第二阶段LSTM将第一阶段LSTM的隐藏状态解码为段落中的不同句子。
 
 ## train trick
