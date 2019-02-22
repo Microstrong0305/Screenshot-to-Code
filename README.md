@@ -30,12 +30,12 @@
 1. Devlin J, Uesato J, Bhupatiraju S, et al. Robustfill: Neural program learning under noisy I/O[J]. arXiv preprint arXiv:1703.07469, 2017.
 1. Becker K, Gottschlich J. AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms[J]. arXiv preprint arXiv:1709.05703, 2017.
 1. Kant N. Recent Advances in Neural Program Synthesis[J]. arXiv preprint arXiv:1802.02353, 2018.
+	[pdf](https://arxiv.org/abs/1802.02353) 
 
 # Computer Vision
-
-## CNN
 Description: Classic papers in the field of computer vision
 
+## CNN
 1. 周飞燕, 金林鹏, 董军. 卷积神经网络研究综述[J]. 计算机学报, 2017, 40(6): 1229-1251.
 
 ##  image recognition and image classficiation
@@ -55,13 +55,31 @@ Description: Classic papers in the field of computer vision
 10. [从 VGG开始，介绍了 GoogLeNet、ResNet、Inception系列、DenseNet、Xception、SENet，还有轻量级网络，如：MobileNet、ShuffleNet和IGCV系列。甚至还有最近很火的 NasNet系列网络。每种网络都带有论文链接和多种复现的代码链接。](https://mp.weixin.qq.com/s/_TbDeRlE9NJ3yvoaaBAQDg)
 11. [CV 图像分类常见的 36 个模型汇总！附完整论文和代码](https://mp.weixin.qq.com/s/teOWcD-LPy-aKp7PKnxOdQ)
 
+## Classification + Localization
+Description:对图像进行分类并给出分类目标物体的位置。
+1. 待补充
+
+## Object Detection
+1. SSD：Liu W, Anguelov D, Erhan D, et al. Ssd: Single shot multibox detector[C]//European conference on computer vision. Springer, Cham, 2016: 21-37.
+	- SSD300 | SSD500
+1. R-CNN：Girshick R, Donahue J, Darrell T, et al. Rich feature hierarchies for accurate object detection and semantic segmentation[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2014: 580-587.
+1. Fast R-CNN：Girshick R. Fast r-cnn[C]//Proceedings of the IEEE international conference on computer vision. 2015: 1440-1448.
+1. Faster R-CNN：Ren S, He K, Girshick R, et al. Faster r-cnn: Towards real-time object detection with region proposal networks[C]//Advances in neural information processing systems. 2015: 91-99.
+	- Faster R-CNN(VGG16) | Faster R-CNN(ZFNET)
+1. YOLO：
+1. Fast YOLO：
+
+## Instance Segmentation
+1.待补充
+
 ## image caption
+1. [【专知荟萃08】图像描述生成Image Caption知识资料全集（入门/进阶/论文/综述/视频/专家等）](https://cloud.tencent.com/developer/article/1088965)
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
-2. Vinyals O, Toshev A, Bengio S, et al. Show and tell: A neural image caption generator[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3156-3164.
+1. Vinyals O, Toshev A, Bengio S, et al. Show and tell: A neural image caption generator[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3156-3164.
 	- [code](https://github.com/anuragmishracse/caption_generator) | [pdf](https://arxiv.org/abs/1411.4555)
-3. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
-	- [code](https://github.com/DeepRNN/image_captioning) |
-4. Krause, J., Johnson, J., Krishna, R., Fei-Fei, L.: A hierarchical approach for generating descriptive image paragraphs. In: 2017 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, Honolulu, HI, USA, July 21-26, 2017. pp. 3337{3345 (2017) [website](https://cs.stanford.edu/people/ranjaykrishna/im2p/index.html) [pdf](https://arxiv.org/pdf/1611.06607.pdf)
+1. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
+	- [code](https://github.com/DeepRNN/image_captioning)
+1. Krause, J., Johnson, J., Krishna, R., Fei-Fei, L.: A hierarchical approach for generating descriptive image paragraphs. In: 2017 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, Honolulu, HI, USA, July 21-26, 2017. pp. 3337{3345 (2017) [website](https://cs.stanford.edu/people/ranjaykrishna/im2p/index.html) [pdf](https://arxiv.org/pdf/1611.06607.pdf)
 	+ Jonathan等人采用层次结构的LSTM，其模型能够生成段落级的图像描述。基本上，在他们的工作中，使用了两个基于LSTM的语言解码器：第一阶段LSTM捕获图像的一般信息，并在隐藏状态下存储每个句子的上下文信息。然后，使用第二阶段LSTM将第一阶段LSTM的隐藏状态解码为段落中的不同句子。
 
 ## train trick
@@ -110,6 +128,10 @@ Description: Classic papers in the field of computer vision
 1. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
 2. Sutskever I, Vinyals O, Le Q V. Sequence to sequence learning with neural networks[C]//Advances in neural information processing systems. 2014: 3104-3112.
 	- 与Cho等人[1]提出模型最大的区别在于其source编码后的向量C直接作为Decoder阶段RNN的初始化state，而不是在每次decode时都作为RNN cell的输入。此外，decode时RNN的输入是目标值，而不是前一时刻的输出。
+3. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
+	- [pdf](https://www.aclweb.org/anthology/D14-1179) 
+	- 这篇论文中提出了一种新的模型，叫做RNN Encoder-Decoder，并将它用来进行机器翻译和比较不同语言的短语/词组之间的语义近似程度。这个模型由两个RNN 组成，其中Encoder用来将输入的序列表示成一个固定长度的向量，Decoder则使用这个向量重建出目标序列，另外该论文提出了GRU的基本结构，为后来的研究奠定了基础。
+	- 本文的贡献：(1)提出一种类似LSTM的GRU结构，并且具有比LSTM更少的参数，更不容易过拟合。(2)将其应用到机器翻译领域，并且取得不错的效果。
 
 ### Seq-to-Seq with Attention(NMT)
 1. Bahdanau D, Cho K, Bengio Y. Neural machine translation by jointly learning to align and translate[J]. arXiv preprint arXiv:1409.0473, 2014.
@@ -194,5 +216,16 @@ Description: Classic papers in the field of computer vision
 # 进阶学习
 1. 读经典的Paper
 2. 比赛实战
+	- (阿里天池竞赛)[https://tianchi.aliyun.com/competition/gameList/activeList]
+	- (Kaggle)[https://www.kaggle.com/]
 3. 深度学习框架学习
+	- Tensorflow
+	- Keras
+	- PyTorch
 4. 项目实战
+5. 有趣项目
+	- (AI玩微信跳一跳的正确姿势 --跳一跳Auto-Jump算法详解)[https://zhuanlan.zhihu.com/p/32636329]
+	- (真·佛系研究：日本开发佛像情绪识别器，还能寻找你的“真命天佛”)[https://mp.weixin.qq.com/s/UYgqI4lUxUzDoW-ihDn__A]
+
+# 面试+笔试
+1. [【GitHub】2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
