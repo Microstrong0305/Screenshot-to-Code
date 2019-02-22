@@ -216,16 +216,16 @@ Description:对图像进行分类并给出分类目标物体的位置。
 # 进阶学习
 1. 读经典的Paper
 2. 比赛实战
-	- (阿里天池竞赛)[https://tianchi.aliyun.com/competition/gameList/activeList]
-	- (Kaggle)[https://www.kaggle.com/]
+	- [阿里天池竞赛](https://tianchi.aliyun.com/competition/gameList/activeList)
+	- [Kaggle](https://www.kaggle.com/)
 3. 深度学习框架学习
 	- Tensorflow
 	- Keras
 	- PyTorch
 4. 项目实战
 5. 有趣项目
-	- (AI玩微信跳一跳的正确姿势 --跳一跳Auto-Jump算法详解)[https://zhuanlan.zhihu.com/p/32636329]
-	- (真·佛系研究：日本开发佛像情绪识别器，还能寻找你的“真命天佛”)[https://mp.weixin.qq.com/s/UYgqI4lUxUzDoW-ihDn__A]
+	- [AI玩微信跳一跳的正确姿势 --跳一跳Auto-Jump算法详解](https://zhuanlan.zhihu.com/p/32636329)
+	- [真·佛系研究：日本开发佛像情绪识别器，还能寻找你的“真命天佛”](https://mp.weixin.qq.com/s/UYgqI4lUxUzDoW-ihDn__A)
 
 # 面试+笔试
 1. [【GitHub】2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
