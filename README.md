@@ -235,3 +235,6 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [独家 | 2019年互联网校招求职指南-深圳篇](https://mp.weixin.qq.com/s/LcoKTOAEY3WwQLEomFmLVw)
 1. [独家 | 2019年互联网校招求职指南-南京篇](https://mp.weixin.qq.com/s/fz2YV7Dq2Ui4p7huTtpvBA)
 1. [独家 | 2019年互联网校招求职指南-西安篇](https://mp.weixin.qq.com/s/S-V8STecPDFlJ6Sio9n-BQ)
+1. [独家 | 2019年互联网校招求职指南-上海篇](https://mp.weixin.qq.com/s/D1lqvlpLAR2L2NL0ljskXw)
+1. [独家 | 2019年互联网校招求职指南-杭州篇](https://mp.weixin.qq.com/s/4xTq1lXNeYDRxANNLB70fg)
+1. [独家 | 2019年互联网校招求职指南-北京篇](https://mp.weixin.qq.com/s/rAiCQj7PirDwpikQfer-MQ)
