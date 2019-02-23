@@ -229,3 +229,9 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 # 面试+笔试
 1. [【GitHub】2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+
+# 找工作
+1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
+1. [独家 | 2019年互联网校招求职指南-深圳篇](https://mp.weixin.qq.com/s/LcoKTOAEY3WwQLEomFmLVw)
+1. [独家 | 2019年互联网校招求职指南-南京篇](https://mp.weixin.qq.com/s/fz2YV7Dq2Ui4p7huTtpvBA)
+1. [独家 | 2019年互联网校招求职指南-西安篇](https://mp.weixin.qq.com/s/S-V8STecPDFlJ6Sio9n-BQ)
