@@ -37,6 +37,7 @@ Description: Classic papers in the field of computer vision
 
 ## CNN
 1. 周飞燕, 金林鹏, 董军. 卷积神经网络研究综述[J]. 计算机学报, 2017, 40(6): 1229-1251.
+2. [卷积有多少种？一文读懂深度学习中的各种卷积](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650757585&idx=2&sn=f151be200edd56c2309b3d52288a996e&chksm=871a9dafb06d14b9e0254f88aea8a1f7ba574c74b16575bf92fa2623403f33fa9245d5b2b04d&mpshare=1&scene=1&srcid=#rd)
 
 ##  image recognition and image classficiation
 1. AlexNet(2012)：Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]//Advances in neural information processing systems. 2012: 1097-1105.
@@ -166,7 +167,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 ***
 
-# 基础知识
+# 【算法工程师】学习资料总结
+## 基础知识
 1. 数学基础
 	- 帮助你快速搞懂机器学习中的数学知识
 2. Python基础
@@ -179,7 +181,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 		- [Threading Python3 多线程](https://morvanzhou.github.io/tutorials/python-basic/threading/)
 		- [Multiprocessing Python3 多进程](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
 
-# 机器学习
+## 机器学习
 1. 《统计学习方法》，李航著
 	- [机器学习必备宝典-《统计学习方法》的python代码实现、电子书及课件](https://mp.weixin.qq.com/s/N7meogGSfU5ZYDhJ4oj86w)
 2. 《机器学习》，周志华著
@@ -198,9 +200,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 9. [汇总 | 机器学习算法优缺点 & 如何选择](https://mp.weixin.qq.com/s/g3nLEOmRHe6iAY9_E3zpGw)
 
 
-# 深度学习
-
-## 学习资料
+## 深度学习
 1. 花书《深度学习》，[美]伊恩.古德费洛(Ian Goodfellow)、 [加]约书亚.本吉奥(Yoshua Bengio)、[加]亚伦.库维尔(Aaron Courville) 著；赵申剑 黎彧君 符天凡 李凯 译 张志华等 审校
 2. 斯坦福CS231n计算机视觉课程 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001&_trace_c_p_k2_=229faec84ed84233a9dd4e5175c5acd5)
 3. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
@@ -208,18 +208,13 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
 5. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 
-## Tensorflow
-1. [Linux系统下安装TensorFlow（CPU或者GPU版）](https://blog.csdn.net/love666666shen/article/details/75675185)
-2. [GPU版Tensorflow安装 centos7 64位](https://blog.csdn.net/wang2008start/article/details/71319970)
-3. [干货|TensorFlow开发环境搭建（Ubuntu16.04+GPU+TensorFlow源码编译）](https://mp.weixin.qq.com/s/qGTq5L69lsFdaWpIQwIivQ)
-
-# 进阶学习
+## 进阶学习
 1. 读经典的Paper
 2. 比赛实战
 	- [阿里天池竞赛](https://tianchi.aliyun.com/competition/gameList/activeList)
 	- [Kaggle](https://www.kaggle.com/)
 3. 深度学习框架学习
-	- Tensorflow
+	- TensorFlow
 	- Keras
 	- PyTorch
 4. 项目实战
