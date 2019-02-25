@@ -31,6 +31,8 @@
 1. Becker K, Gottschlich J. AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms[J]. arXiv preprint arXiv:1709.05703, 2017.
 1. Kant N. Recent Advances in Neural Program Synthesis[J]. arXiv preprint arXiv:1802.02353, 2018.
 	[pdf](https://arxiv.org/abs/1802.02353) 
+1. AutoML全称是Automated Machine Learning，是2014年以来机器学习和深度学习领域最炙手可热的领域之一。2017年5月，谷歌在I/O大会上推出基于TensorFlow 框架下的AutoML，它可以通过神经网络来设计神经网络，节省人工设计的时间，其对专业知识要求较低，让非机器学习专家也能轻松上手。
+	- [算法工程师要失业？Waymo尝试用AutoML自动生成机器学习模型](https://mp.weixin.qq.com/s/tPxcVGsXL1yQO97BEiCefA)
 
 # Computer Vision
 Description: Classic papers in the field of computer vision
@@ -201,6 +203,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 
 ## 深度学习
+### 书籍和视频
 1. 花书《深度学习》，[美]伊恩.古德费洛(Ian Goodfellow)、 [加]约书亚.本吉奥(Yoshua Bengio)、[加]亚伦.库维尔(Aaron Courville) 著；赵申剑 黎彧君 符天凡 李凯 译 张志华等 审校
 2. 斯坦福CS231n计算机视觉课程 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001&_trace_c_p_k2_=229faec84ed84233a9dd4e5175c5acd5)
 3. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
@@ -208,15 +211,18 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
 5. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 
+### 需要掌握框架
+记录自己在学习这些框架的时候遇到的一些问题。
+1. [TensorFlow](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/TensorFlow)
+1. [Keras](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/Keras)
+1. PyTorch
+
 ## 进阶学习
 1. 读经典的Paper
 2. 比赛实战
 	- [阿里天池竞赛](https://tianchi.aliyun.com/competition/gameList/activeList)
 	- [Kaggle](https://www.kaggle.com/)
-3. 深度学习框架学习
-	- TensorFlow
-	- Keras
-	- PyTorch
+
 4. 项目实战
 5. 有趣项目
 	- [AI玩微信跳一跳的正确姿势 --跳一跳Auto-Jump算法详解](https://zhuanlan.zhihu.com/p/32636329)
