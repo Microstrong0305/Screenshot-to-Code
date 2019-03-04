@@ -19,6 +19,9 @@ Kaggle 竞赛分成几个类别，最常见的类别是：
 
 - [如何在 Kaggle 首战中进入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
 
+## Kaggle入门文章
+1. [分分钟带你杀入Kaggle Top 1%](https://mp.weixin.qq.com/s/LJpxMMdIMNyXcTP9Sso8WA)
+
 ## 遇到问题
 - [修改Jupyter工作路径（已安装Anaconda）](https://blog.csdn.net/Jane_Ginkgo/article/details/79110958)
 

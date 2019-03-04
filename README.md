@@ -40,6 +40,8 @@ Description: Classic papers in the field of computer vision
 ## CNN
 1. 周飞燕, 金林鹏, 董军. 卷积神经网络研究综述[J]. 计算机学报, 2017, 40(6): 1229-1251.
 2. [卷积有多少种？一文读懂深度学习中的各种卷积](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650757585&idx=2&sn=f151be200edd56c2309b3d52288a996e&chksm=871a9dafb06d14b9e0254f88aea8a1f7ba574c74b16575bf92fa2623403f33fa9245d5b2b04d&mpshare=1&scene=1&srcid=#rd)
+3. [一文读懂 12种卷积方法（含1x1卷积、转置卷积和深度可分离卷积等）](https://mp.weixin.qq.com/s/287vamTc6QD4wo6maX0dbQ)
+4. [一文读懂卷积神经网络中的1x1卷积核](https://mp.weixin.qq.com/s/N5BXuA6C07ciyg3U9BEpbw)
 
 ##  image recognition and image classficiation
 1. AlexNet(2012)：Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]//Advances in neural information processing systems. 2012: 1097-1105.
@@ -72,8 +74,13 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. YOLO：
 1. Fast YOLO：
 
-## Instance Segmentation
+## 图像分割
+### Instance Segmentation
 1.待补充
+
+### Semantic Segmentation
+1. Long J, Shelhamer E, Darrell T. Fully convolutional networks for semantic segmentation[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3431-3440.
+
 
 ## image caption
 1. [【专知荟萃08】图像描述生成Image Caption知识资料全集（入门/进阶/论文/综述/视频/专家等）](https://cloud.tencent.com/developer/article/1088965)
@@ -110,6 +117,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 9. [模型汇总24 - 深度学习中Attention Mechanism详细介绍：原理、分类及应用](https://zhuanlan.zhihu.com/p/31547842)
 10. [干货 | 自然语言处理中注意力机制综述](https://mp.weixin.qq.com/s/ZBaBtnQR7e39jZsY_JOqfw)
 11. [深度学习中Attention Mechanism详细介绍：原理、分类及应用](https://mp.weixin.qq.com/s/ZlLvl6lLoXoPzCN4QabAQQ)
+12. [这可能是你见过的最全的注意力机制的总结！](https://mp.weixin.qq.com/s/jyjFKaImX_oe-v519TGl8A)
 
 ## Evaluation Measures
 1. BLEU
@@ -168,6 +176,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 2. TCN
 	- 2018年3月，CMU提出一种通用的卷积网络架构TCN，并通过实验证明TCN在大多数序列学习任务上比RNN（LSTM）要好。因此，可以尝试RNN模型替换成TCN模型。
 	- Bai S, Kolter J Z, Koltun V. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling[J]. arXiv preprint arXiv:1803.01271, 2018.
+3. [LSTM神经网络输入输出究竟是怎样的？](https://www.zhihu.com/question/41949741)
 
 # GAN（Generative Adversarial Networks）
 1. [王飞跃教授：生成式对抗网络GAN的研究进展与展望](https://mp.weixin.qq.com/s/gvzZaXe6gxD6r5Rn7qiDBQ)
@@ -216,6 +225,9 @@ Description:对图像进行分类并给出分类目标物体的位置。
 4. AlphaGo之父强化学习
 	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
 5. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+6. 书籍：英文《Neural Network and Deep Learning》;中文《神经网络与深度学习》，(美)Michael Nielsen著，Xiaohu Zhu、Freeman Zhang译
+	- pdf中文版(真理成pdf,207页) | [code-Python2.7](https://github.com/mnielsen/neural-networks-and-deep-learning) | (code-Python3.5)[https://github.com/MichalDanielDobrzanski/DeepLearningPython35] | [书籍在线地址](http://neuralnetworksanddeeplearning.com/)
+	- [火爆网络的《神经网络与深度学习》，有人把它翻译成了中文版！](https://zhuanlan.zhihu.com/p/58144032)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
