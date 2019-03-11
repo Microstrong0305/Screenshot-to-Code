@@ -28,9 +28,16 @@
 
 1. Balog M, Gaunt A L, Brockschmidt M, et al. Deepcoder: Learning to write programs[J]. arXiv preprint arXiv:1611.01989, 2016.
 1. Devlin J, Uesato J, Bhupatiraju S, et al. Robustfill: Neural program learning under noisy I/O[J]. arXiv preprint arXiv:1703.07469, 2017.
+	- [中文翻译](https://mp.weixin.qq.com/s/MbzR8u79-dbQphPGuXS5DA)
 1. Becker K, Gottschlich J. AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms[J]. arXiv preprint arXiv:1709.05703, 2017.
+	- [中文翻译](https://mp.weixin.qq.com/s/fCrJ4aJmwe57tt9_VmEZhA)
+1. Abolafia D A, Norouzi M, Shen J, et al. Neural program synthesis with priority queue training[J]. arXiv preprint arXiv:1801.03526, 2018.
+	- [中文翻译](https://mp.weixin.qq.com/s/MkXBtGq4xt5YOh1-uhMBbg) | [pdf](https://arxiv.org/abs/1801.03526)
 1. Kant N. Recent Advances in Neural Program Synthesis[J]. arXiv preprint arXiv:1802.02353, 2018.
-	[pdf](https://arxiv.org/abs/1802.02353) 
+	- [pdf](https://arxiv.org/abs/1802.02353) 
+1. [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
+1. Parisotto E, Mohamed A, Singh R, et al. Neuro-symbolic program synthesis[J]. arXiv preprint arXiv:1611.01855, 2016.
+	- [pdf](https://arxiv.org/abs/1611.01855)
 1. AutoML全称是Automated Machine Learning，是2014年以来机器学习和深度学习领域最炙手可热的领域之一。2017年5月，谷歌在I/O大会上推出基于TensorFlow 框架下的AutoML，它可以通过神经网络来设计神经网络，节省人工设计的时间，其对专业知识要求较低，让非机器学习专家也能轻松上手。
 	- [算法工程师要失业？Waymo尝试用AutoML自动生成机器学习模型](https://mp.weixin.qq.com/s/tPxcVGsXL1yQO97BEiCefA)
 
