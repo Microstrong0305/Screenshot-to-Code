@@ -27,35 +27,32 @@
 ## Generating Code from Computer program
 
 1. Karpathy：利用循环神经网络自动生成代码，早在 2015 年，当时是斯坦福大学计算机科学博士生的 Andrej Karpathy 就使用循环神经网络来生成代码。他使用了一个 Linux 存储库（所有的源文件和 headers files），将它合并成一个巨大的文档（超过 400MB 的代码），并用这些代码来训练 RNN。
-	- [code](https://github.com/karpathy/char-rnn) | (blog post)[http://karpathy.github.io/2015/05/21/rnn-effectiveness/]
+	- [code](https://github.com/karpathy/char-rnn) | [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 1. Gu X, Zhang H, Zhang D, et al. Deep API learning[C]//Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering. ACM, 2016: 631-642.
 1. Parisotto E, Mohamed A, Singh R, et al. Neuro-symbolic program synthesis[J]. arXiv preprint arXiv:1611.01855, 2016.
 	- [pdf](https://arxiv.org/abs/1611.01855)
 1. Balog M, Gaunt A L, Brockschmidt M, et al. Deepcoder: Learning to write programs[J]. arXiv preprint arXiv:1611.01989, 2016.
+1. Nachum O, Norouzi M, Schuurmans D. Improving policy gradient by exploring under-appreciated rewards[J]. arXiv preprint arXiv:1611.09321, 2016.
+1. Yang G. Lie access neural turing machine[J]. arXiv preprint arXiv:1602.08671, 2016.
+1. Bello I, Pham H, Le Q V, et al. Neural combinatorial optimization with reinforcement learning[J]. arXiv preprint arXiv:1611.09940, 2016.
 1. Gupta R, Pal S, Kanade A, et al. Deepfix: Fixing common c language errors by deep learning[C]//Thirty-First AAAI Conference on Artificial Intelligence. 2017. 
 1. Devlin J, Uesato J, Bhupatiraju S, et al. Robustfill: Neural program learning under noisy I/O[J]. arXiv preprint arXiv:1703.07469, 2017.
-	- [中文翻译](https://mp.weixin.qq.com/s/MbzR8u79-dbQphPGuXS5DA)
+	- [中文翻译](https://mp.weixin.qq.com/s/MbzR8u79-dbQphPGuXS5DA) | [pdf](https://arxiv.org/abs/1703.07469)
 1. Yin P, Neubig G. A syntactic neural model for general-purpose code generation[J]. arXiv preprint arXiv:1704.01696, 2017.
 1. Gu X, Zhang H, Zhang D, et al. DeepAM: Migrate APIs with multi-modal sequence to sequence learning[J]. arXiv preprint arXiv:1704.07734, 2017.
 1. Becker K, Gottschlich J. AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms[J]. arXiv preprint arXiv:1709.05703, 2017.
-	- [中文翻译](https://mp.weixin.qq.com/s/fCrJ4aJmwe57tt9_VmEZhA)
+	- [中文翻译](https://mp.weixin.qq.com/s/fCrJ4aJmwe57tt9_VmEZhA) | [pdf](https://arxiv.org/abs/1709.05703)
+1. AutoML全称是Automated Machine Learning，是2014年以来机器学习和深度学习领域最炙手可热的领域之一。2017年5月，谷歌在I/O大会上推出基于TensorFlow 框架下的AutoML，它可以通过神经网络来设计神经网络，节省人工设计的时间，其对专业知识要求较低，让非机器学习专家也能轻松上手。
+	- [算法工程师要失业？Waymo尝试用AutoML自动生成机器学习模型](https://mp.weixin.qq.com/s/tPxcVGsXL1yQO97BEiCefA)
+1. Cai J, Shin R, Song D. Making neural programming architectures generalize via recursion[J]. arXiv preprint arXiv:1704.06611, 2017.
 1. Abolafia D A, Norouzi M, Shen J, et al. Neural program synthesis with priority queue training[J]. arXiv preprint arXiv:1801.03526, 2018.
 	- [中文翻译](https://mp.weixin.qq.com/s/MkXBtGq4xt5YOh1-uhMBbg) | [pdf](https://arxiv.org/abs/1801.03526)
 1. Kant N. Recent Advances in Neural Program Synthesis[J]. arXiv preprint arXiv:1802.02353, 2018.
 	- [pdf](https://arxiv.org/abs/1802.02353) 
 1. [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
-1. AutoML全称是Automated Machine Learning，是2014年以来机器学习和深度学习领域最炙手可热的领域之一。2017年5月，谷歌在I/O大会上推出基于TensorFlow 框架下的AutoML，它可以通过神经网络来设计神经网络，节省人工设计的时间，其对专业知识要求较低，让非机器学习专家也能轻松上手。
-	- [算法工程师要失业？Waymo尝试用AutoML自动生成机器学习模型](https://mp.weixin.qq.com/s/tPxcVGsXL1yQO97BEiCefA)
 1. [PaperWeekly 第43期 | 教机器学习编程](https://mp.weixin.qq.com/s/HD370E4cCYvy_pdEKAvLIA)
 1. Gulcehre C, Chandar S, Cho K, et al. Dynamic neural turing machine with continuous and discrete addressing schemes[J]. Neural computation, 2018, 30(4): 857-884.
-1. Nachum O, Norouzi M, Schuurmans D. Improving policy gradient by exploring under-appreciated rewards[J]. arXiv preprint arXiv:1611.09321, 2016.
-1. Romaniuk S G, Hall L O. Divide and conquer neural networks[J]. Neural Networks, 1993, 6(8): 1105-1116.
-1. Yang G. Lie access neural turing machine[J]. arXiv preprint arXiv:1602.08671, 2016.
-1. Cai J, Shin R, Song D. Making neural programming architectures generalize via recursion[J]. arXiv preprint arXiv:1704.06611, 2017.
-1. Bello I, Pham H, Le Q V, et al. Neural combinatorial optimization with reinforcement learning[J]. arXiv preprint arXiv:1611.09940, 2016.
 1. [深度 | 机器的自我进化：走向自主编程的人工智能（附提交ICLR 2017的自动编程论文）](https://mp.weixin.qq.com/s/lm2GEBt09wU_Q6vN_nnxqw)
-
-
 
 # Computer Vision
 Description: Classic papers in the field of computer vision
