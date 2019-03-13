@@ -19,8 +19,9 @@
 	- 中文：[Code2Pix-用于图形用户界面的深度学习编译器](https://zhuanlan.zhihu.com/p/48039719)
 	- 英文：[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b)
 1. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
-	- [pdf](https://arxiv.org/abs/1810.11536) | [code](https://github.com/ZhihaoZhu/Auto-GUI-Code-Generation)
+	- [pdf](https://arxiv.org/abs/1810.11536) | [code](https://github.com/ZhihaoZhu/Auto-GUI-Code-Generation) | [中文](https://mp.weixin.qq.com/s/OgsX0FnEuDQaK_5BFoc12A)
 1. Ellis K, Ritchie D, Solar-Lezama A, et al. Learning to infer graphics programs from hand-drawn images[C]//Advances in Neural Information Processing Systems. 2018: 6060-6069.
+	- [pdf](https://arxiv.org/abs/1707.09627)
 1. [代码都智能自动生成了，还要程序员干嘛？](https://mp.weixin.qq.com/s/_sK631PozCQhPpV6lX-90w)
 	- [imgcook](https://imgcook.taobao.org/) | [code](https://github.com/taobaofed/imgcook)
 
