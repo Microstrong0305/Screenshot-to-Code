@@ -27,6 +27,8 @@
 
 ## Generating Code from Computer program
 
+1. Graves A, Wayne G, Danihelka I. Neural turing machines[J]. arXiv preprint arXiv:1410.5401, 2014.
+	- [pdf](https://arxiv.org/abs/1410.5401)
 1. Karpathy：利用循环神经网络自动生成代码，早在 2015 年，当时是斯坦福大学计算机科学博士生的 Andrej Karpathy 就使用循环神经网络来生成代码。他使用了一个 Linux 存储库（所有的源文件和 headers files），将它合并成一个巨大的文档（超过 400MB 的代码），并用这些代码来训练 RNN。
 	- [code](https://github.com/karpathy/char-rnn) | [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 1. Gu X, Zhang H, Zhang D, et al. Deep API learning[C]//Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering. ACM, 2016: 631-642.
@@ -52,7 +54,6 @@
 	- [pdf](https://arxiv.org/abs/1802.02353) 
 1. [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
 1. [PaperWeekly 第43期 | 教机器学习编程](https://mp.weixin.qq.com/s/HD370E4cCYvy_pdEKAvLIA)
-1. Gulcehre C, Chandar S, Cho K, et al. Dynamic neural turing machine with continuous and discrete addressing schemes[J]. Neural computation, 2018, 30(4): 857-884.
 1. [深度 | 机器的自我进化：走向自主编程的人工智能（附提交ICLR 2017的自动编程论文）](https://mp.weixin.qq.com/s/lm2GEBt09wU_Q6vN_nnxqw)
 
 # Computer Vision
@@ -153,6 +154,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 6. Ji Z, Lu Z, Li H. An information retrieval approach to short text conversation[J]. arXiv preprint arXiv:1408.6988, 2014.
 7. Wang H, Lu Z, Li H, et al. A dataset for research on short-text conversations[C]//Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing. 2013: 935-945.
 8. 庞亮, 兰艳艳, 徐君, 等. 深度文本匹配综述[J]. 计算机学报, 2017, 40(4): 985-1003.
+9. [收藏 | 中文公开聊天语料库及使用方法（附链接）](https://mp.weixin.qq.com/s/-vM8LlqrRJUAGUBhgUBQhw)
 
 ## Neural Machine Translation
 
