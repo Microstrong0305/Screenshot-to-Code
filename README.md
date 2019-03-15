@@ -53,13 +53,21 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 ## image caption
 1. [【专知荟萃08】图像描述生成Image Caption知识资料全集（入门/进阶/论文/综述/视频/专家等）](https://cloud.tencent.com/developer/article/1088965)
-1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
 1. Vinyals O, Toshev A, Bengio S, et al. Show and tell: A neural image caption generator[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3156-3164.
 	- [code](https://github.com/anuragmishracse/caption_generator) | [pdf](https://arxiv.org/abs/1411.4555)
 1. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
 	- [code](https://github.com/DeepRNN/image_captioning)
+1. Karpathy A, Fei-Fei L. Deep visual-semantic alignments for generating image descriptions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3128-3137.
+1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
+1. Karpathy A. Connecting Images and Natural Language[D]. Ph. D. Dissertation. STANFORD UNIVERSITY, 2016.
+1. Soh M. Learning CNN-LSTM architectures for image caption generation[J]. 2016.
+1. Rennie S J, Marcheret E, Mroueh Y, et al. Self-critical sequence training for image captioning[C]//CVPR. 2017, 1(2): 3.
 1. Krause, J., Johnson, J., Krishna, R., Fei-Fei, L.: A hierarchical approach for generating descriptive image paragraphs. In: 2017 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, Honolulu, HI, USA, July 21-26, 2017. pp. 3337{3345 (2017) [website](https://cs.stanford.edu/people/ranjaykrishna/im2p/index.html) [pdf](https://arxiv.org/pdf/1611.06607.pdf)
-	+ Jonathan等人采用层次结构的LSTM，其模型能够生成段落级的图像描述。基本上，在他们的工作中，使用了两个基于LSTM的语言解码器：第一阶段LSTM捕获图像的一般信息，并在隐藏状态下存储每个句子的上下文信息。然后，使用第二阶段LSTM将第一阶段LSTM的隐藏状态解码为段落中的不同句子。
+	- Jonathan等人采用层次结构的LSTM，其模型能够生成段落级的图像描述。基本上，在他们的工作中，使用了两个基于LSTM的语言解码器：第一阶段LSTM捕获图像的一般信息，并在隐藏状态下存储每个句子的上下文信息。然后，使用第二阶段LSTM将第一阶段LSTM的隐藏状态解码为段落中的不同句子。
+1. Lu J, Xiong C, Parikh D, et al. Knowing when to look: Adaptive attention via a visual sentinel for image captioning[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2017, 6: 2.
+1. Chen L, Zhang H, Xiao J, et al. Sca-cnn: Spatial and channel-wise attention in convolutional networks for image captioning[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2017: 6298-6306.
+1. Lu J, Yang J, Batra D, et al. Neural Baby Talk[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7219-7228.
+1. Anderson P, He X, Buehler C, et al. Bottom-up and top-down attention for image captioning and visual question answering[C]//CVPR. 2018, 3(5): 6.
 
 ## train trick
 1. Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
@@ -151,6 +159,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 # GAN（Generative Adversarial Networks）
 1. [王飞跃教授：生成式对抗网络GAN的研究进展与展望](https://mp.weixin.qq.com/s/gvzZaXe6gxD6r5Rn7qiDBQ)
 1. Liu X, Kong X, Liu L, et al. TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks[C]//2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018: 1140-1145.
+	- [TreeGAN：为序列生成任务构建有句法意识的GAN](https://www.jiqizhixin.com/articles/2018-10-06)
 
 ***
 

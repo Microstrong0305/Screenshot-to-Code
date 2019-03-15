@@ -9,6 +9,7 @@
 1. 
 	- 中文：[前端要完！人工智能已经能实现自动编写 HTML 和 CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
 	- 英文：[Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
+	- 中文：[前端慌不慌？用深度学习自动生成HTML代码](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736115&idx=1&sn=f09f01e162a82f8778c6fb5fdb127872&chksm=871ac18db06d489bf2936ba7b1ba795bb5d9e97ed5807e12f0a6c8e294f1fd42cff132eb876a&scene=21#wechat_redirect)
 1. 
 	- 中文：[深度学习自动前端开发：从草图到HTML只需5秒（附代码）](https://zhuanlan.zhihu.com/p/35177965)
 	- 英文：[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
