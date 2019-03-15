@@ -1,8 +1,7 @@
 # Screenshot-to-Code
 
-## Generating Code from a Graphical User Interface Screenshot
-
-## Generating Code from Computer program
+1. [Generating Code from a Graphical User Interface Screenshot](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/Screenshot2Code)
+1. [Generating Code from Computer program](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/Screenshot2Code)
 
 # Computer Vision
 Description: Classic papers in the field of computer vision
@@ -151,6 +150,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 # GAN（Generative Adversarial Networks）
 1. [王飞跃教授：生成式对抗网络GAN的研究进展与展望](https://mp.weixin.qq.com/s/gvzZaXe6gxD6r5Rn7qiDBQ)
+1. Liu X, Kong X, Liu L, et al. TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks[C]//2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018: 1140-1145.
 
 ***
 
