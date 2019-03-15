@@ -1,7 +1,7 @@
 # Screenshot-to-Code
 
-1. [Generating Code from a Graphical User Interface Screenshot](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/Screenshot2Code)
-1. [Generating Code from Computer program](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/Screenshot2Code)
+1. [Generating Code from a Graphical User Interface Screenshot](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
+1. [Generating Code from Computer program](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
 
 # Computer Vision
 Description: Classic papers in the field of computer vision
