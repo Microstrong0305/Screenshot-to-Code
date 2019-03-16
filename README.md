@@ -70,6 +70,18 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Lu J, Yang J, Batra D, et al. Neural Baby Talk[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7219-7228.
 1. Anderson P, He X, Buehler C, et al. Bottom-up and top-down attention for image captioning and visual question answering[C]//CVPR. 2018, 3(5): 6.
 
+## Image Sentiment Analysis(图片情感分析)
+1. 
+
+## Visual Question Answering(视觉问答)
+1. Antol S, Agrawal A, Lu J, et al. Vqa: Visual question answering[C]//Proceedings of the IEEE international conference on computer vision. 2015: 2425-2433.
+
+## Text to Image(文本转图片)
+1. Johnson J, Gupta A, Fei-Fei L. Image generation from scene graphs[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 1219-1228.
+
+## 基于文本的图像检索
+1. Gu J, Cai J, Joty S R, et al. Look, imagine and match: Improving textual-visual cross-modal retrieval with generative models[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7181-7189.
+
 ## train trick
 1. Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
 
@@ -98,8 +110,17 @@ Description:对图像进行分类并给出分类目标物体的位置。
 12. [这可能是你见过的最全的注意力机制的总结！](https://mp.weixin.qq.com/s/jyjFKaImX_oe-v519TGl8A)
 
 ## Evaluation Measures
+### 客观指标
 1. BLEU
 	- Papineni K, Roukos S, Ward T, et al. BLEU: a method for automatic evaluation of machine translation[C]//Proceedings of the 40th annual meeting on association for computational linguistics. Association for Computational Linguistics, 2002: 311-318.
+1. METEOR
+1. ROUGE-L
+1. CIDEr
+
+### 主观评价
+1. Coherence
+1. Relevance
+1. Helpful for Blind
 
 ## Dialogue Systems
 1. Chen H, Liu X, Yin D, et al. A survey on dialogue systems: Recent advances and new frontiers[J]. ACM SIGKDD Explorations Newsletter, 2017, 19(2): 25-35.
@@ -116,8 +137,10 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 ### Seq-to-Seq
 1. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
+	- Encoder-Decoder结构最初是在论文《Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation》中提出并应用到机器翻译系统中的。
 2. Sutskever I, Vinyals O, Le Q V. Sequence to sequence learning with neural networks[C]//Advances in neural information processing systems. 2014: 3104-3112.
 	- 与Cho等人[1]提出模型最大的区别在于其source编码后的向量C直接作为Decoder阶段RNN的初始化state，而不是在每次decode时都作为RNN cell的输入。此外，decode时RNN的输入是目标值，而不是前一时刻的输出。
+	- [pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks)
 3. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
 	- [pdf](https://www.aclweb.org/anthology/D14-1179) 
 	- 这篇论文中提出了一种新的模型，叫做RNN Encoder-Decoder，并将它用来进行机器翻译和比较不同语言的短语/词组之间的语义近似程度。这个模型由两个RNN 组成，其中Encoder用来将输入的序列表示成一个固定长度的向量，Decoder则使用这个向量重建出目标序列，另外该论文提出了GRU的基本结构，为后来的研究奠定了基础。
