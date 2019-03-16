@@ -3,6 +3,10 @@
 1. [Generating Code from a Graphical User Interface Screenshot](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
 1. [Generating Code from Computer program](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
 
+# Deep Neural Networks(DNN)
+1. [29]	Sze V, Chen Y H, Yang T J, et al. Efficient processing of deep neural networks: A tutorial and survey[J]. Proceedings of the IEEE, 2017, 105(12): 2295-2329.
+	- [深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://mp.weixin.qq.com/s/CKkqf_JzF-UvfB3I2xMZ1Q)
+
 # Computer Vision
 Description: Classic papers in the field of computer vision
 
@@ -69,6 +73,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Chen L, Zhang H, Xiao J, et al. Sca-cnn: Spatial and channel-wise attention in convolutional networks for image captioning[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2017: 6298-6306.
 1. Lu J, Yang J, Batra D, et al. Neural Baby Talk[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7219-7228.
 1. Anderson P, He X, Buehler C, et al. Bottom-up and top-down attention for image captioning and visual question answering[C]//CVPR. 2018, 3(5): 6.
+1. [梅涛：深度学习为视觉和语言之间搭建了一座桥梁](https://www.msra.cn/zh-cn/news/features/vision-and-language-20170713)
+
 
 ## Image Sentiment Analysis(图片情感分析)
 1. 
