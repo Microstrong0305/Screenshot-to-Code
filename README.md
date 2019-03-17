@@ -4,8 +4,10 @@
 1. [Generating Code from Computer program](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
 
 # Deep Neural Networks(DNN)
-1. [29]	Sze V, Chen Y H, Yang T J, et al. Efficient processing of deep neural networks: A tutorial and survey[J]. Proceedings of the IEEE, 2017, 105(12): 2295-2329.
+1. Sze V, Chen Y H, Yang T J, et al. Efficient processing of deep neural networks: A tutorial and survey[J]. Proceedings of the IEEE, 2017, 105(12): 2295-2329.
 	- [深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://mp.weixin.qq.com/s/CKkqf_JzF-UvfB3I2xMZ1Q)
+1. Minar M R, Naher J. Recent Advances in Deep Learning: An Overview[J]. arXiv preprint arXiv:1807.08169, 2018.
+	[pdf](https://arxiv.org/abs/1807.08169) | 
 
 # Computer Vision
 Description: Classic papers in the field of computer vision
@@ -29,6 +31,7 @@ Description: Classic papers in the field of computer vision
 6. DenseNet(2017)：Huang G, Liu Z, Van Der Maaten L, et al. Densely connected convolutional networks[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2017: 2261-2269.
 7. MobileNet(2017)：Howard A G, Zhu M, Chen B, et al. Mobilenets: Efficient convolutional neural networks for mobile vision applications[J]. arXiv preprint arXiv:1704.04861, 2017.
 8. ShuffleNet(2017)：《ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices》
+	- Zhang X, Zhou X, Lin M, et al. Shufflenet: An extremely efficient convolutional neural network for mobile devices[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 6848-6856.
 9. EffNet(2018)：Freeman I, Roese-Koerner L, Kummert A. EffNet: An Efficient Structure for Convolutional Neural Networks[J]. arXiv preprint arXiv:1801.06434, 2018.
 10. [从 VGG开始，介绍了 GoogLeNet、ResNet、Inception系列、DenseNet、Xception、SENet，还有轻量级网络，如：MobileNet、ShuffleNet和IGCV系列。甚至还有最近很火的 NasNet系列网络。每种网络都带有论文链接和多种复现的代码链接。](https://mp.weixin.qq.com/s/_TbDeRlE9NJ3yvoaaBAQDg)
 11. [CV 图像分类常见的 36 个模型汇总！附完整论文和代码](https://mp.weixin.qq.com/s/teOWcD-LPy-aKp7PKnxOdQ)
@@ -140,6 +143,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 9. [收藏 | 中文公开聊天语料库及使用方法（附链接）](https://mp.weixin.qq.com/s/-vM8LlqrRJUAGUBhgUBQhw)
 
 ## Neural Machine Translation
+
+1. [清华大学自然语言处理组年度巨献：370+篇机器翻译必读论文，一文收尽](https://mp.weixin.qq.com/s/65r_8GQLAFkKmxKPVzkz-A)
 
 ### Seq-to-Seq
 1. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
