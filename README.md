@@ -51,6 +51,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- Faster R-CNN(VGG16) | Faster R-CNN(ZFNET)
 1. YOLO：
 1. Fast YOLO：
+1. [目标检测最新进展总结与展望](https://mp.weixin.qq.com/s/yswy7VwEapQJ9M5n_Uo93w)
 
 ## 图像分割
 ### Instance Segmentation

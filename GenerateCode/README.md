@@ -6,25 +6,31 @@
 1. Beltramelli T. pix2code: Generating code from a graphical user interface screenshot[C]//Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems. ACM, 2018: 3.
 	- [Tony Beltramelli's blog](http://www.tonybeltramelli.com/) | [Official research page](https://uizard.io/research/) | [pdf](https://arxiv.org/abs/1705.07962) | [code](https://github.com/tonybeltramelli/pix2code)
 1. [三年后，人工智能将彻底改变前端开发？](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
-1. 
+1. Emil Wallner, Turning Design Mockups into Code with Deep Learning
 	- 中文：[前端要完！人工智能已经能实现自动编写 HTML 和 CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
 	- 英文：[Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 	- 中文：[前端慌不慌？用深度学习自动生成HTML代码](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736115&idx=1&sn=f09f01e162a82f8778c6fb5fdb127872&chksm=871ac18db06d489bf2936ba7b1ba795bb5d9e97ed5807e12f0a6c8e294f1fd42cff132eb876a&scene=21#wechat_redirect)
-1. 
+1. Ashwin Kumae, Automated front-end development using deep learning
 	- 中文：[深度学习自动前端开发：从草图到HTML只需5秒（附代码）](https://zhuanlan.zhihu.com/p/35177965)
 	- 英文：[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
-1. 
-	- 英文：[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
+1. Airbnb, Sketching Interfaces Generating code from low fidelity wireframes
 	- 中文：[Airbnb AI将草图原型转代码了](https://zhuanlan.zhihu.com/p/31790771)
-1. 
+	- 英文：[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
+1. Florian van Schreven, Code2Pix: Deep Learning Compiler for Graphical User Interfaces
 	- 中文：[Code2Pix-用于图形用户界面的深度学习编译器](https://zhuanlan.zhihu.com/p/48039719)
-	- 英文：[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://towardsdatascience.com/code2pix-deep-learning-compiler-for-graphical-user-interfaces-1256c346950b)
+	- 英文：[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://uizard.io/blog/code2pix-deep-learning-compiler-for-graphical-user-interfaces/)
 1. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
 	- [pdf](https://arxiv.org/abs/1810.11536) | [code](https://github.com/ZhihaoZhu/Auto-GUI-Code-Generation) | [中文](https://mp.weixin.qq.com/s/OgsX0FnEuDQaK_5BFoc12A)
 1. Ellis K, Ritchie D, Solar-Lezama A, et al. Learning to infer graphics programs from hand-drawn images[C]//Advances in Neural Information Processing Systems. 2018: 6060-6069.
 	- [pdf](https://arxiv.org/abs/1707.09627)
 1. [代码都智能自动生成了，还要程序员干嘛？](https://mp.weixin.qq.com/s/_sK631PozCQhPpV6lX-90w)
 	- [imgcook](https://imgcook.taobao.org/) | [code](https://github.com/taobaofed/imgcook)
+1. Microsotf, Sketch2Code
+	- 中文：[前端要凉？微软开源Sketch2Code，草图秒变代码](https://mp.weixin.qq.com/s/mT-274svZ6i5ZQ9EVjxw7g)
+	- 英文微软官方博客：[Turn Whiteboard UX Sketches into Working HTML in Seconds – Introducing Sketch2Code](https://blogs.technet.microsoft.com/machinelearning/2018/08/30/turn-whiteboard-ux-sketches-into-working-html-in-seconds-introducing-sketch2code/)
+	- 英文alphr博客：[Microsoft's AI-powered Sketch2Code builds websites and apps from drawings](https://www.alphr.com/microsoft/1009840/microsofts-ai-sketch2code-builds-websites)
+	- 微软产品介绍：[Sketch2Code](https://www.ailab.microsoft.com/experiments/sketch2code)
+	- [code](https://github.com/Microsoft/ailab/tree/master/Sketch2Code) | [Sketch2Code实际效果验证](https://sketch2code.azurewebsites.net/)
 
 ## Generating Code from Computer program
 
