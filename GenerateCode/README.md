@@ -19,6 +19,7 @@
 1. Florian van Schreven, Code2Pix: Deep Learning Compiler for Graphical User Interfaces
 	- 中文：[Code2Pix-用于图形用户界面的深度学习编译器](https://zhuanlan.zhihu.com/p/48039719)
 	- 英文：[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://uizard.io/blog/code2pix-deep-learning-compiler-for-graphical-user-interfaces/)
+	- [code](https://github.com/ngundotra/code2pix) | 
 1. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
 	- [pdf](https://arxiv.org/abs/1810.11536) | [code](https://github.com/ZhihaoZhu/Auto-GUI-Code-Generation) | [中文](https://mp.weixin.qq.com/s/OgsX0FnEuDQaK_5BFoc12A)
 1. Ellis K, Ritchie D, Solar-Lezama A, et al. Learning to infer graphics programs from hand-drawn images[C]//Advances in Neural Information Processing Systems. 2018: 6060-6069.
@@ -31,6 +32,10 @@
 	- 英文alphr博客：[Microsoft's AI-powered Sketch2Code builds websites and apps from drawings](https://www.alphr.com/microsoft/1009840/microsofts-ai-sketch2code-builds-websites)
 	- 微软产品介绍：[Sketch2Code](https://www.ailab.microsoft.com/experiments/sketch2code)
 	- [code](https://github.com/Microsoft/ailab/tree/master/Sketch2Code) | [Sketch2Code实际效果验证](https://sketch2code.azurewebsites.net/)
+1. uizard - Hand-drawn wireframe to Sketch
+	- [Hand-drawn wireframe to Sketch](https://uizard.io/blog/hand-drawn-wireframe-to-sketch/)
+1. uizard - Teaching Machines to Understand User Interfaces
+	- [Teaching Machines to Understand User Interfaces](https://uizard.io/blog/teaching-machines-to-understand-user-interfaces/) 
 
 ## Generating Code from Computer program
 
