@@ -3,6 +3,8 @@
 1. [Generating Code from a Graphical User Interface Screenshot](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
 1. [Generating Code from Computer program](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
 
+# [GAN（Generative Adversarial Networks）]()
+
 # Deep Neural Networks(DNN)
 1. Sze V, Chen Y H, Yang T J, et al. Efficient processing of deep neural networks: A tutorial and survey[J]. Proceedings of the IEEE, 2017, 105(12): 2295-2329.
 	- [深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://mp.weixin.qq.com/s/CKkqf_JzF-UvfB3I2xMZ1Q)
@@ -100,6 +102,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	+ 为什么需要压缩卷积后的结果到2维呢？
 
 # NLP
+1. [NLP不同任务Tensorflow深度学习模型大全](https://mp.weixin.qq.com/s/HwSCij5U0JzzD4xXUU5JDQ)
+
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
 2. [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)
@@ -191,11 +195,6 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- Bai S, Kolter J Z, Koltun V. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling[J]. arXiv preprint arXiv:1803.01271, 2018.
 3. [LSTM神经网络输入输出究竟是怎样的？](https://www.zhihu.com/question/41949741)
 
-# GAN（Generative Adversarial Networks）
-1. [王飞跃教授：生成式对抗网络GAN的研究进展与展望](https://mp.weixin.qq.com/s/gvzZaXe6gxD6r5Rn7qiDBQ)
-1. Liu X, Kong X, Liu L, et al. TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks[C]//2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018: 1140-1145.
-	- [TreeGAN：为序列生成任务构建有句法意识的GAN](https://www.jiqizhixin.com/articles/2018-10-06)
-
 ***
 
 # 【算法工程师】学习资料总结
@@ -229,6 +228,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 8. [Pattern Recognition and Machine Learning(PRML)](https://weibo.com/1768582942/Ef2CZporc?type=comment)
 	- [重磅 | AI 圣经 PRML《模式识别与机器学习》官方开源了！](https://mp.weixin.qq.com/s/qSe_GzV5RhhY7TGTMQdWQA)
 9. [汇总 | 机器学习算法优缺点 & 如何选择](https://mp.weixin.qq.com/s/g3nLEOmRHe6iAY9_E3zpGw)
+10. [Github 十个小时狂揽千赞：机器学习完整路线图](https://mp.weixin.qq.com/s/_ZW2IdpFj2nkX9ZzCrKauA)
 
 
 ## 深度学习
@@ -240,6 +240,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 4. AlphaGo之父强化学习
 	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
 5. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+	- [中文课程！台大李宏毅机器学习公开课2019版上线](https://mp.weixin.qq.com/s/-KO5ZWA9kTx9HuXUrFyp1A)
 6. 书籍：英文《Neural Network and Deep Learning》;中文《神经网络与深度学习》，(美)Michael Nielsen著，Xiaohu Zhu、Freeman Zhang译
 	- pdf中文版(真理成pdf,207页) | [code-Python2.7](https://github.com/mnielsen/neural-networks-and-deep-learning) | (code-Python3.5)[https://github.com/MichalDanielDobrzanski/DeepLearningPython35] | [书籍在线地址](http://neuralnetworksanddeeplearning.com/)
 	- [火爆网络的《神经网络与深度学习》，有人把它翻译成了中文版！](https://zhuanlan.zhihu.com/p/58144032)
