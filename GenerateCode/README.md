@@ -67,6 +67,8 @@
 1. [Deep Learning for Program Synthesis](https://www.microsoft.com/en-us/research/blog/deep-learning-program-synthesis/)
 1. [PaperWeekly 第43期 | 教机器学习编程](https://mp.weixin.qq.com/s/HD370E4cCYvy_pdEKAvLIA)
 1. [深度 | 机器的自我进化：走向自主编程的人工智能（附提交ICLR 2017的自动编程论文）](https://mp.weixin.qq.com/s/lm2GEBt09wU_Q6vN_nnxqw)
+1. Yin P, Neubig G. A syntactic neural model for general-purpose code generation[J]. arXiv preprint arXiv:1704.01696, 2017.
+	- [code](https://github.com/tsdaemon/treelstm-code-generation)
 
 ## DSL
 1. Fowler M. Domain-specific languages[M]. Pearson Education, 2010.

@@ -24,6 +24,7 @@ Description: Classic papers in the field of computer vision
 1. AlexNet(2012)：Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]//Advances in neural information processing systems. 2012: 1097-1105.
 2. ZFNet(2013)：Zeiler M D, Fergus R. Visualizing and understanding convolutional networks[C]//European conference on computer vision. Springer, Cham, 2014: 818-833.
 3. VGG16 and VGG19(2014)：Simonyan K, Zisserman A. Very deep convolutional networks for large-scale image recognition[J]. arXiv preprint arXiv:1409.1556, 2014.
+	- [pdf](https://arxiv.org/abs/1409.1556)
 4. GoogLeNet(2014):
 	- Inception v1：Szegedy C, Liu W, Jia Y, et al. Going deeper with convolutions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 1-9.
 	- Inception v2：Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
@@ -66,7 +67,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Vinyals O, Toshev A, Bengio S, et al. Show and tell: A neural image caption generator[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3156-3164.
 	- [code](https://github.com/anuragmishracse/caption_generator) | [pdf](https://arxiv.org/abs/1411.4555)
 1. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
-	- [code](https://github.com/DeepRNN/image_captioning)
+	- [code](https://github.com/DeepRNN/image_captioning) | [pdf](https://arxiv.org/abs/1502.03044)
 1. Karpathy A, Fei-Fei L. Deep visual-semantic alignments for generating image descriptions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3128-3137.
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
 1. Karpathy A. Connecting Images and Natural Language[D]. Ph. D. Dissertation. STANFORD UNIVERSITY, 2016.
@@ -87,9 +88,12 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 ## Visual Question Answering(视觉问答)
 1. Antol S, Agrawal A, Lu J, et al. Vqa: Visual question answering[C]//Proceedings of the IEEE international conference on computer vision. 2015: 2425-2433.
+1. 李庆. 基于深度神经网络和注意力机制的图像问答研究[D]. 中国科学技术大学, 2018.
 
 ## Text to Image(文本转图片)
 1. Johnson J, Gupta A, Fei-Fei L. Image generation from scene graphs[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 1219-1228.
+1. Reed S, Akata Z, Yan X, et al. Generative adversarial text to image synthesis[J]. arXiv preprint arXiv:1605.05396, 2016.
+	- [pdf](https://arxiv.org/pdf/1605.05396.pdf) | [GitHub-code](https://github.com/paarthneekhara/text-to-image)
 
 ## 基于文本的图像检索
 1. Gu J, Cai J, Joty S R, et al. Look, imagine and match: Improving textual-visual cross-modal retrieval with generative models[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7181-7189.
@@ -191,10 +195,19 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Convolutional sequence to sequence learning
 	- 2017年5月，Facebook AI实验室发表了一篇《Convolutional Sequence to Sequence Learning》，发现在机器翻译任务上比以往循环神经网络效果更好，同时大大提高了运行速度。此论文提出的卷积序列学习模型在具有时间序列的数据上表现的效果比其他序列模型更好，因此可以尝试将RNN模型替换成卷积序列学习模型。
 	- Gehring J, Auli M, Grangier D, et al. Convolutional sequence to sequence learning[J]. arXiv preprint arXiv:1705.03122, 2017.
-2. TCN
+1. TCN
 	- 2018年3月，CMU提出一种通用的卷积网络架构TCN，并通过实验证明TCN在大多数序列学习任务上比RNN（LSTM）要好。因此，可以尝试RNN模型替换成TCN模型。
 	- Bai S, Kolter J Z, Koltun V. An empirical evaluation of generic convolutional and recurrent networks for sequence modeling[J]. arXiv preprint arXiv:1803.01271, 2018.
-3. [LSTM神经网络输入输出究竟是怎样的？](https://www.zhihu.com/question/41949741)
+1. [LSTM神经网络输入输出究竟是怎样的？](https://www.zhihu.com/question/41949741)
+1. Shen Y, Tan S, Sordoni A, et al. Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks[J]. arXiv preprint arXiv:1810.09536, 2018.
+	- [这种有序神经元，像你熟知的循环神经网络吗？](https://www.jiqizhixin.com/articles/2018-12-20-13)
+	- [pdf](https://arxiv.org/pdf/1810.09536.pdf) | [code](https://github.com/yikangshen/Ordered-Neurons)
+1. [colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+1. Tai K S, Socher R, Manning C D. Improved semantic representations from tree-structured long short-term memory networks[J]. arXiv preprint arXiv:1503.00075, 2015.
+	- [Tree-Structured LSTM介绍](https://zhuanlan.zhihu.com/p/36608614)
+	- [基于TreeLSTM的情感分析](https://zhuanlan.zhihu.com/p/35252733)
+	- 依存树 Dependency Tree-LSTM (Child-Sum Tree-LSTMs)
+	- 语法树 N-ary Tree LSTM（Constituency Tree-LSTms）
 
 ***
 
@@ -235,6 +248,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ## 深度学习
 ### 书籍和视频
 1. 花书《深度学习》，[美]伊恩.古德费洛(Ian Goodfellow)、 [加]约书亚.本吉奥(Yoshua Bengio)、[加]亚伦.库维尔(Aaron Courville) 著；赵申剑 黎彧君 符天凡 李凯 译 张志华等 审校
+	- [重磅！深度学习圣经“花书”核心笔记、代码发布](https://mp.weixin.qq.com/s/eEiT9_oVR20jQPKp9RenLg) | [GitHub](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) | [读书笔记](https://medium.com/inveterate-learner/tagged/deep-learning) | [Jeff Macaluso - Blog 笔记](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/)
 2. 斯坦福CS231n计算机视觉课程 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001&_trace_c_p_k2_=229faec84ed84233a9dd4e5175c5acd5)
 	- [官方笔记|知乎@杜客](https://mp.weixin.qq.com/s/WOyeaEOARZqVgbGEoHB4Og)
 3. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
@@ -245,6 +259,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 6. 书籍：英文《Neural Network and Deep Learning》;中文《神经网络与深度学习》，(美)Michael Nielsen著，Xiaohu Zhu、Freeman Zhang译
 	- pdf中文版(真理成pdf,207页) | [code-Python2.7](https://github.com/mnielsen/neural-networks-and-deep-learning) | (code-Python3.5)[https://github.com/MichalDanielDobrzanski/DeepLearningPython35] | [书籍在线地址](http://neuralnetworksanddeeplearning.com/)
 	- [火爆网络的《神经网络与深度学习》，有人把它翻译成了中文版！](https://zhuanlan.zhihu.com/p/58144032)
+7. [深度学习资源一网打尽！论文、数据集、框架、课程、图书等应有尽有](https://mp.weixin.qq.com/s/Hnezt-1d-piNcXT6DqukyQ)
+	- [GitHub](https://github.com/machinelearningmindset/deep-learning-ocean#what-s-the-point-of-this-open-source-project)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
