@@ -2,6 +2,9 @@
 
 ## Generating Code from a Graphical User Interface Screenshot
 
+1. Mouchere, H.; Viard-Gaudin, C.; Kim, D. H.; Kim, J. H.; and Garain, U. 2012. Icfhr 2012 competition on recognition of on-line mathematical expressions (crohme 2012). In Frontiers in Handwriting Recognition (ICFHR), 2012 International Conference on, 811–816. IEEE.
+1. Mouchere, H.; Viard-Gaudin, C.; Zanibbi, R.; Garain, U.; Kim, D. H.; and Kim, J. H. 2013. Icdar 2013 crohme: Third international competition on recognition of online handwritten mathematical expressions. In 2013 12th International Conference on Document Analysis and Recognition, 1428–1432. IEEE.
+1. Lin, X.; Gao, L.; Tang, Z.; Lin, X.; and Hu, X. 2012. Performance evaluation of mathematical formula identification. In Document Analysis Systems (DAS), 2012 10th IAPR International Workshop on, 287–291. IEEE.
 1. Nguyen T A, Csallner C. Reverse engineering mobile application user interfaces with remaui (t)[C]//Automated Software Engineering (ASE), 2015 30th IEEE/ACM International Conference on. IEEE, 2015: 248-259.
 1. Deng Y, Kanervisto A, Rush A M. What you get is what you see: A visual markup decompiler[J]. arXiv preprint arXiv:1609.04938, 2016, 10: 32-37.
 	- [pdf](https://arxiv.org/pdf/1609.04938v1.pdf) | [paper's websit](http://lstm.seas.harvard.edu/latex/) | [dataset-im2latex](https://zenodo.org/record/56198#.XJTx2nQzbIV) | [html_64_64_100k](http://lstm.seas.harvard.edu/latex/html/data/html_64_64_100k.tgz)
@@ -16,13 +19,14 @@
 1. Ashwin Kumae, Automated front-end development using deep learning
 	- 中文：[深度学习自动前端开发：从草图到HTML只需5秒（附代码）](https://zhuanlan.zhihu.com/p/35177965)
 	- 英文：[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
+	- [GitHub-Code](https://github.com/ashnkumar/sketch-code) | [dataset](http://sketch-code.s3.amazonaws.com/data/all_data.zip)
 1. Airbnb, Sketching Interfaces Generating code from low fidelity wireframes
 	- 中文：[Airbnb AI将草图原型转代码了](https://zhuanlan.zhihu.com/p/31790771)
 	- 英文：[Sketching Interfaces Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
 1. Florian van Schreven, Code2Pix: Deep Learning Compiler for Graphical User Interfaces
 	- 中文：[Code2Pix-用于图形用户界面的深度学习编译器](https://zhuanlan.zhihu.com/p/48039719)
 	- 英文：[Code2Pix-Deep Learning Compiler for Graphical User Interfaces](https://uizard.io/blog/code2pix-deep-learning-compiler-for-graphical-user-interfaces/)
-	- [code](https://github.com/ngundotra/code2pix) | 
+	- [code](https://github.com/ngundotra/code2pix) | [The data used in this repo comes from the pix2code repo](https://github.com/tonybeltramelli/pix2code)
 1. Zhu Z, Xue Z, Yuan Z. Automatic Graphics Program Generation using Attention-Based Hierarchical Decoder[J]. arXiv preprint arXiv:1810.11536, 2018.
 	- [pdf](https://arxiv.org/abs/1810.11536) | [code](https://github.com/ZhihaoZhu/Auto-GUI-Code-Generation) | [中文](https://mp.weixin.qq.com/s/OgsX0FnEuDQaK_5BFoc12A)
 1. Ellis K, Ritchie D, Solar-Lezama A, et al. Learning to infer graphics programs from hand-drawn images[C]//Advances in Neural Information Processing Systems. 2018: 6060-6069.
@@ -34,11 +38,13 @@
 	- 英文微软官方博客：[Turn Whiteboard UX Sketches into Working HTML in Seconds – Introducing Sketch2Code](https://blogs.technet.microsoft.com/machinelearning/2018/08/30/turn-whiteboard-ux-sketches-into-working-html-in-seconds-introducing-sketch2code/)
 	- 英文alphr博客：[Microsoft's AI-powered Sketch2Code builds websites and apps from drawings](https://www.alphr.com/microsoft/1009840/microsofts-ai-sketch2code-builds-websites)
 	- 微软产品介绍：[Sketch2Code](https://www.ailab.microsoft.com/experiments/sketch2code)
-	- [code](https://github.com/Microsoft/ailab/tree/master/Sketch2Code) | [Sketch2Code实际效果验证](https://sketch2code.azurewebsites.net/)
+	- [code](https://github.com/Microsoft/ailab/tree/master/Sketch2Code) | [Sketch2Code实际效果验证](https://sketch2code.azurewebsites.net/) | [dataset](https://github.com/Microsoft/ailab/tree/master/Sketch2Code/model)
 1. uizard - Hand-drawn wireframe to Sketch
 	- [Hand-drawn wireframe to Sketch](https://uizard.io/blog/hand-drawn-wireframe-to-sketch/)
 1. uizard - Teaching Machines to Understand User Interfaces
 	- [Teaching Machines to Understand User Interfaces](https://uizard.io/blog/teaching-machines-to-understand-user-interfaces/) 
+
+
 
 ## Generating Code from Computer program
 
