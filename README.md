@@ -81,6 +81,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Lu J, Yang J, Batra D, et al. Neural Baby Talk[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7219-7228.
 1. Anderson P, He X, Buehler C, et al. Bottom-up and top-down attention for image captioning and visual question answering[C]//CVPR. 2018, 3(5): 6.
 1. [梅涛：深度学习为视觉和语言之间搭建了一座桥梁](https://www.msra.cn/zh-cn/news/features/vision-and-language-20170713)
+1. [Image Caption-教程](https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/)
 
 
 ## Image Sentiment Analysis(图片情感分析)

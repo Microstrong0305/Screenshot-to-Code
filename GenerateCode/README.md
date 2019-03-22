@@ -3,6 +3,8 @@
 ## Generating Code from a Graphical User Interface Screenshot
 
 1. Nguyen T A, Csallner C. Reverse engineering mobile application user interfaces with remaui (t)[C]//Automated Software Engineering (ASE), 2015 30th IEEE/ACM International Conference on. IEEE, 2015: 248-259.
+1. Deng Y, Kanervisto A, Rush A M. What you get is what you see: A visual markup decompiler[J]. arXiv preprint arXiv:1609.04938, 2016, 10: 32-37.
+	- [pdf](https://arxiv.org/pdf/1609.04938v1.pdf) | [paper's websit](http://lstm.seas.harvard.edu/latex/) | [dataset-im2latex](https://zenodo.org/record/56198#.XJTx2nQzbIV) | [html_64_64_100k](http://lstm.seas.harvard.edu/latex/html/data/html_64_64_100k.tgz)
 1. Beltramelli T. pix2code: Generating code from a graphical user interface screenshot[C]//Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems. ACM, 2018: 3.
 	- [Tony Beltramelli's blog](http://www.tonybeltramelli.com/) | [Official research page](https://uizard.io/research/) | [pdf](https://arxiv.org/abs/1705.07962) | [code](https://github.com/tonybeltramelli/pix2code)
 1. [三年后，人工智能将彻底改变前端开发？](https://mp.weixin.qq.com/s?__biz=MjM5MjAwODM4MA==&mid=2650693207&idx=1&sn=4aafb589fc3cc824d6fb6a876b074f0f&scene=21#wechat_redirect)
@@ -10,6 +12,7 @@
 	- 中文：[前端要完！人工智能已经能实现自动编写 HTML 和 CSS](https://mp.weixin.qq.com/s/7utZtdK9yc-Krwcofe0csw)
 	- 英文：[Turning Design Mockups Into Code With Deep Learning](https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/)
 	- 中文：[前端慌不慌？用深度学习自动生成HTML代码](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650736115&idx=1&sn=f09f01e162a82f8778c6fb5fdb127872&chksm=871ac18db06d489bf2936ba7b1ba795bb5d9e97ed5807e12f0a6c8e294f1fd42cff132eb876a&scene=21#wechat_redirect)
+	- [GitHub-Code](https://github.com/emilwallner/Screenshot-to-code) | [dataset](https://www.floydhub.com/emilwallner/datasets/imagetocode)
 1. Ashwin Kumae, Automated front-end development using deep learning
 	- 中文：[深度学习自动前端开发：从草图到HTML只需5秒（附代码）](https://zhuanlan.zhihu.com/p/35177965)
 	- 英文：[Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
