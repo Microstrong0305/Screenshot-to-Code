@@ -54,6 +54,8 @@
 1. Devlin J, Uesato J, Bhupatiraju S, et al. Robustfill: Neural program learning under noisy I/O[J]. arXiv preprint arXiv:1703.07469, 2017.
 	- [中文翻译](https://mp.weixin.qq.com/s/MbzR8u79-dbQphPGuXS5DA) | [pdf](https://arxiv.org/abs/1703.07469)
 1. Yin P, Neubig G. A syntactic neural model for general-purpose code generation[J]. arXiv preprint arXiv:1704.01696, 2017.
+	- 用于将自然语言解析为可执行代码的句法神经模型。
+	- [GitHub-Code](https://github.com/pcyin/NL2code) | [PDF](https://arxiv.org/abs/1704.01696)
 1. Gu X, Zhang H, Zhang D, et al. DeepAM: Migrate APIs with multi-modal sequence to sequence learning[J]. arXiv preprint arXiv:1704.07734, 2017.
 1. Becker K, Gottschlich J. AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms[J]. arXiv preprint arXiv:1709.05703, 2017.
 	- [中文翻译](https://mp.weixin.qq.com/s/fCrJ4aJmwe57tt9_VmEZhA) | [pdf](https://arxiv.org/abs/1709.05703)

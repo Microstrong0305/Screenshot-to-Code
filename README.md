@@ -208,6 +208,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [基于TreeLSTM的情感分析](https://zhuanlan.zhihu.com/p/35252733)
 	- 依存树 Dependency Tree-LSTM (Child-Sum Tree-LSTMs)
 	- 语法树 N-ary Tree LSTM（Constituency Tree-LSTms）
+	- [《Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks》阅读笔记](https://zhuanlan.zhihu.com/p/26261371)
+	- 
 
 ***
 
@@ -281,6 +283,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 # 面试+笔试
 1. [【GitHub】2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+1. [1700页数学笔记火了！全程敲代码，速度飞快易搜索，硬核小哥教你上手LaTeX+Vim](https://mp.weixin.qq.com/s/QpJWyLY5AyrXGF-j7LYTGg)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
