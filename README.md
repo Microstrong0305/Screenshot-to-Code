@@ -109,6 +109,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 # NLP
 1. [NLP不同任务Tensorflow深度学习模型大全](https://mp.weixin.qq.com/s/HwSCij5U0JzzD4xXUU5JDQ)
+1. [自然语言生成的演变史](https://mp.weixin.qq.com/s/WF7UmEHjYMUL9n4TasWXqA)
 
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
@@ -132,9 +133,12 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ### 客观指标
 1. BLEU
 	- Papineni K, Roukos S, Ward T, et al. BLEU: a method for automatic evaluation of machine translation[C]//Proceedings of the 40th annual meeting on association for computational linguistics. Association for Computational Linguistics, 2002: 311-318.
+	- [A Gentle Introduction to Calculating the BLEU Score for Text in Python](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
 1. METEOR
 1. ROUGE-L
 1. CIDEr
+1. 交叉熵损失函数
+	- [keras中两种交叉熵损失函数的探讨](https://zhuanlan.zhihu.com/p/48078990)
 
 ### 主观评价
 1. Coherence
@@ -151,6 +155,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 7. Wang H, Lu Z, Li H, et al. A dataset for research on short-text conversations[C]//Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing. 2013: 935-945.
 8. 庞亮, 兰艳艳, 徐君, 等. 深度文本匹配综述[J]. 计算机学报, 2017, 40(4): 985-1003.
 9. [收藏 | 中文公开聊天语料库及使用方法（附链接）](https://mp.weixin.qq.com/s/-vM8LlqrRJUAGUBhgUBQhw)
+10. [对话系统近期进展](https://mp.weixin.qq.com/s/oBdyM5wLy3y4w1DQ_HEuuQ)
+11. Maali Mnasri. Recent advances in conversational NLP : Towards the standardization of Chatbot building. arXiv:1903.09025.
 
 ## Neural Machine Translation
 
@@ -188,8 +194,10 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 ### Seq-to-Seq with Beam-Search
 1. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)
-2. [seq2seq中的beam search算法过程](https://zhuanlan.zhihu.com/p/28048246)
-3. [beam search原理以及在NLP中应用](https://www.jianshu.com/p/bc3beb101885)
+1. [seq2seq中的beam search算法过程](https://zhuanlan.zhihu.com/p/28048246)
+1. [beam search原理以及在NLP中应用](https://www.jianshu.com/p/bc3beb101885)
+1. [Beam Search](https://mp.weixin.qq.com/s/57yovUUAoWiiMoxMMQWB_A)
+
 
 # RNN
 ## Improved article on RNN
