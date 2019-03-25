@@ -82,6 +82,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Anderson P, He X, Buehler C, et al. Bottom-up and top-down attention for image captioning and visual question answering[C]//CVPR. 2018, 3(5): 6.
 1. [梅涛：深度学习为视觉和语言之间搭建了一座桥梁](https://www.msra.cn/zh-cn/news/features/vision-and-language-20170713)
 1. [Image Caption-教程](https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/)
+1. Lu J, Xiong C, Parikh D, et al. Knowing when to look: Adaptive attention via a visual sentinel for image captioning[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2017: 375-383.
+	- [paper websit](http://openaccess.thecvf.com/content_cvpr_2017/html/Lu_Knowing_When_to_CVPR_2017_paper.html) | [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Knowing_When_to_CVPR_2017_paper.pdf)
 
 
 ## Image Sentiment Analysis(图片情感分析)
@@ -218,7 +220,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- 依存树 Dependency Tree-LSTM (Child-Sum Tree-LSTMs)
 	- 语法树 N-ary Tree LSTM（Constituency Tree-LSTms）
 	- [《Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks》阅读笔记](https://zhuanlan.zhihu.com/p/26261371)
-	- 
+1. [Stacked Long Short-Term Memory Networks](https://machinelearningmastery.com/stacked-long-short-term-memory-networks/)
+	- [博士带你学LSTM|怎么样开发Stacked LSTMs？（附代码）](https://mp.weixin.qq.com/s/8pG-WT2CFEI8NoF_wxMNOA)
 
 ***
 
