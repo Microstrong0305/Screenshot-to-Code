@@ -10,6 +10,8 @@
 	- [深度神经网络全面概述：从基本概念到实际模型和硬件基础](https://mp.weixin.qq.com/s/CKkqf_JzF-UvfB3I2xMZ1Q)
 1. Minar M R, Naher J. Recent Advances in Deep Learning: An Overview[J]. arXiv preprint arXiv:1807.08169, 2018.
 	- [pdf](https://arxiv.org/abs/1807.08169)
+1. J¨urgen Schmidhuber. Deep learning in neural networks: An overview. Neural networks, 61:85–117, 2015.
+1. Yann LeCun, Yoshua Bengio, and Geoffrey Hinton. Deep learning. Nature, 521(7553):436–444, 2015.
 
 # Computer Vision
 Description: Classic papers in the field of computer vision
@@ -222,6 +224,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [《Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks》阅读笔记](https://zhuanlan.zhihu.com/p/26261371)
 1. [Stacked Long Short-Term Memory Networks](https://machinelearningmastery.com/stacked-long-short-term-memory-networks/)
 	- [博士带你学LSTM|怎么样开发Stacked LSTMs？（附代码）](https://mp.weixin.qq.com/s/8pG-WT2CFEI8NoF_wxMNOA)
+1. Chung J, Ahn S, Bengio Y. Hierarchical multiscale recurrent neural networks[J]. arXiv preprint arXiv:1609.01704, 2016.
 
 ***
 
