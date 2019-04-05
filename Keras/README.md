@@ -4,3 +4,7 @@
 	+ [理解LSTM在keras API中参数return_sequences和return_state](https://blog.csdn.net/u011327333/article/details/78501054/)
 3. [attention map注意力可视化 feature map可视化](https://blog.csdn.net/u013608336/article/details/82792871)
 
+
+# paper中用到的开源库
+1. [Keras Attention Mechanism](https://github.com/philipperemy/keras-attention-mechanism)
+
