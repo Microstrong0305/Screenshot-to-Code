@@ -52,6 +52,11 @@
 	- [pdf](https://arxiv.org/abs/1410.5401)
 1. Karpathy：利用循环神经网络自动生成代码，早在 2015 年，当时是斯坦福大学计算机科学博士生的 Andrej Karpathy 就使用循环神经网络来生成代码。他使用了一个 Linux 存储库（所有的源文件和 headers files），将它合并成一个巨大的文档（超过 400MB 的代码），并用这些代码来训练 RNN。
 	- [code](https://github.com/karpathy/char-rnn) | [blog post](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+1. Neelakantan, Arvind, Quoc V. Le, and Ilya Sutskever. “Neural prorammer: Inducing latent programs with gradient descent.” arXiv preprint arXiv:1511.04834 (2015). 
+	- [pdf](https://arxiv.org/abs/1511.04834)
+	- [Neural Programmer: Inducing Latent Programs with Gradient Descent笔记](https://www.jianshu.com/p/ffe4dcdb95f8)
+1. Riedel S, Bosnjak M, Rocktäschel T. Programming with a differentiable forth interpreter[J]. CoRR, abs/1605.06640, 2016. 
+	- [pdf](https://arxiv.org/pdf/1605.06640.pdf)
 1. Gu X, Zhang H, Zhang D, et al. Deep API learning[C]//Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering. ACM, 2016: 631-642.
 1. Parisotto E, Mohamed A, Singh R, et al. Neuro-symbolic program synthesis[J]. arXiv preprint arXiv:1611.01855, 2016.
 	- [pdf](https://arxiv.org/abs/1611.01855)
@@ -84,3 +89,6 @@
 ## DSL
 1. Fowler M. Domain-specific languages[M]. Pearson Education, 2010.
 1. Karsai G, Krahn H, Pinkernell C, et al. Design guidelines for domain specific languages[J]. arXiv preprint arXiv:1409.2378, 2014.
+
+## 开阔眼界
+1. [LeCun 说的可微分编程是什么？](https://www.zhihu.com/question/265173352/answer/291994649)

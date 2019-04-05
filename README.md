@@ -55,6 +55,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. YOLO：
 1. Fast YOLO：
 1. [目标检测最新进展总结与展望](https://mp.weixin.qq.com/s/yswy7VwEapQJ9M5n_Uo93w)
+1. [GitHub：目标检测最全论文集锦](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247484497&idx=1&sn=5c497d2e6d85aacae6be41f9b81da8fc&chksm=f9a276deced5ffc85196e5c9058014eee3c53f50b85eb6b2b84f034ff0c8473d2e6d0b42a917&scene=21#wechat_redirect)
 
 ## 图像分割
 ### Instance Segmentation
@@ -70,6 +71,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [code](https://github.com/anuragmishracse/caption_generator) | [pdf](https://arxiv.org/abs/1411.4555)
 1. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.
 	- [code](https://github.com/DeepRNN/image_captioning) | [pdf](https://arxiv.org/abs/1502.03044)
+	- [2017-10-27 发布深度解析注意力模型(attention model) --- image_caption的应用](https://segmentfault.com/a/1190000011744246)
+	- [「Show and Tell」——图像标注（Image Caption）任务技术综述](https://zhuanlan.zhihu.com/p/27771046)
 1. Karpathy A, Fei-Fei L. Deep visual-semantic alignments for generating image descriptions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3128-3137.
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
 1. Karpathy A. Connecting Images and Natural Language[D]. Ph. D. Dissertation. STANFORD UNIVERSITY, 2016.
@@ -89,7 +92,10 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 
 ## Image Sentiment Analysis(图片情感分析)
-1. 
+1. Deep Learning for Sentiment Analysis: A Survey
+	- [pdf](https://arxiv.org/ftp/arxiv/papers/1801/1801.07883.pdf)
+	- [综述论文：情感分析中的深度学习](https://zhuanlan.zhihu.com/p/33325977)
+1. Hu A, Flaxman S. Multimodal Sentiment Analysis To Explore the Structure of Emotions[C]//Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. ACM, 2018: 350-358.
 
 ## Visual Question Answering(视觉问答)
 1. Antol S, Agrawal A, Lu J, et al. Vqa: Visual question answering[C]//Proceedings of the IEEE international conference on computer vision. 2015: 2425-2433.
@@ -103,6 +109,9 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ## 基于文本的图像检索
 1. Gu J, Cai J, Joty S R, et al. Look, imagine and match: Improving textual-visual cross-modal retrieval with generative models[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7181-7189.
 
+## 自动驾驶领域
+1. [GitHub：车道线检测最全资料集锦](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247486508&idx=1&sn=9164c7331acd81de86c02c5ed3c15c9a&chksm=f9a27ea3ced5f7b5137a66e699c0c481e4215bb0548a46935a6e801295043932114daad65226&scene=21#wechat_redirect)
+
 ## train trick
 1. Ioffe S, Szegedy C. Batch normalization: Accelerating deep network training by reducing internal covariate shift[J]. arXiv preprint arXiv:1502.03167, 2015.
 
@@ -114,6 +123,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 # NLP
 1. [NLP不同任务Tensorflow深度学习模型大全](https://mp.weixin.qq.com/s/HwSCij5U0JzzD4xXUU5JDQ)
 1. [自然语言生成的演变史](https://mp.weixin.qq.com/s/WF7UmEHjYMUL9n4TasWXqA)
+1. Melis G, Dyer C, Blunsom P. On the state of the art of evaluation in neural language models[J]. arXiv preprint arXiv:1707.05589, 2017.
 
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
@@ -225,6 +235,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [Stacked Long Short-Term Memory Networks](https://machinelearningmastery.com/stacked-long-short-term-memory-networks/)
 	- [博士带你学LSTM|怎么样开发Stacked LSTMs？（附代码）](https://mp.weixin.qq.com/s/8pG-WT2CFEI8NoF_wxMNOA)
 1. Chung J, Ahn S, Bengio Y. Hierarchical multiscale recurrent neural networks[J]. arXiv preprint arXiv:1609.01704, 2016.
+1. [双向长短时记忆网络](https://www.jiqizhixin.com/graph/technologies/23689ba3-90ac-444b-abf8-83b2d2a8c712)
+1. [爆款论文提出简单循环单元SRU：像CNN一样快速训练RNN（附开源代码）](https://zhuanlan.zhihu.com/p/29266704)
 
 ***
 
