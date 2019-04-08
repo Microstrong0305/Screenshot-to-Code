@@ -259,6 +259,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [机器学习必备宝典-《统计学习方法》的python代码实现、电子书及课件](https://mp.weixin.qq.com/s/N7meogGSfU5ZYDhJ4oj86w)
 2. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
+	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
+		- [GitHub](https://github.com/datawhalechina/pumpkin-book) | [在线阅读地址](https://datawhalechina.github.io/pumpkin-book/#/)
 3. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm)
 4. 林轩田《机器学习》视频
 	- [林轩田课程主页](https://www.csie.ntu.edu.tw/~htlin/)
@@ -290,6 +292,9 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [火爆网络的《神经网络与深度学习》，有人把它翻译成了中文版！](https://zhuanlan.zhihu.com/p/58144032)
 7. [深度学习资源一网打尽！论文、数据集、框架、课程、图书等应有尽有](https://mp.weixin.qq.com/s/Hnezt-1d-piNcXT6DqukyQ)
 	- [GitHub](https://github.com/machinelearningmindset/deep-learning-ocean#what-s-the-point-of-this-open-source-project)
+8. 《神经网络与深度学习》，邱锡鹏著
+	- [书籍介绍](https://nndl.github.io/) | [书籍-GitHub](https://github.com/nndl/nndl.github.io)
+	- [邱锡鹏教授新书《神经网络与深度学习》，正式开源发布！](https://mp.weixin.qq.com/s/t6Te3NCLJ7MGlSdWg0MWgw)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
