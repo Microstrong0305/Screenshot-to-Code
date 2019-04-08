@@ -257,6 +257,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ## 机器学习
 1. 《统计学习方法》，李航著
 	- [机器学习必备宝典-《统计学习方法》的python代码实现、电子书及课件](https://mp.weixin.qq.com/s/N7meogGSfU5ZYDhJ4oj86w)
+	- [重磅！李航《统计学习方法》最新资源，笔记、Python 代码一应俱全！](https://mp.weixin.qq.com/s/tZgJRI3zNz7jV8nfMYa5Kg) | [GitHub](https://github.com/SmirkCao/Lihang)
 2. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
