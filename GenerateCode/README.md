@@ -85,6 +85,10 @@
 1. [深度 | 机器的自我进化：走向自主编程的人工智能（附提交ICLR 2017的自动编程论文）](https://mp.weixin.qq.com/s/lm2GEBt09wU_Q6vN_nnxqw)
 1. Yin P, Neubig G. A syntactic neural model for general-purpose code generation[J]. arXiv preprint arXiv:1704.01696, 2017.
 	- [code](https://github.com/tsdaemon/treelstm-code-generation)
+1. Zhao R, Bieber D, Swersky K, et al. Neural Networks for Modeling Source Code Edits[J]. 2018.
+	- [像人一样编辑源代码，谷歌大脑提出神经网络也可以学「编程」](https://mp.weixin.qq.com/s/dNZr3dUQisgPuLfOTAD-kg)
+1. Sun Z, Zhu Q, Mou L, et al. A Grammar-Based Structural CNN Decoder for Code Generation[J]. arXiv preprint arXiv:1811.06837, 2018.
+	- [首次成功用CNN自动生成代码：北大研究者搞定了炉石传说](https://mp.weixin.qq.com/s/dNZr3dUQisgPuLfOTAD-kg)
 
 ## DSL
 1. Fowler M. Domain-specific languages[M]. Pearson Education, 2010.

@@ -281,21 +281,22 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ### 书籍和视频
 1. 花书《深度学习》，[美]伊恩.古德费洛(Ian Goodfellow)、 [加]约书亚.本吉奥(Yoshua Bengio)、[加]亚伦.库维尔(Aaron Courville) 著；赵申剑 黎彧君 符天凡 李凯 译 张志华等 审校
 	- [重磅！深度学习圣经“花书”核心笔记、代码发布](https://mp.weixin.qq.com/s/eEiT9_oVR20jQPKp9RenLg) | [GitHub](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) | [读书笔记](https://medium.com/inveterate-learner/tagged/deep-learning) | [Jeff Macaluso - Blog 笔记](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/)
-2. 斯坦福CS231n计算机视觉课程 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001&_trace_c_p_k2_=229faec84ed84233a9dd4e5175c5acd5)
+1. 斯坦福CS231n计算机视觉课程 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001&_trace_c_p_k2_=229faec84ed84233a9dd4e5175c5acd5)
 	- [官方笔记|知乎@杜客](https://mp.weixin.qq.com/s/WOyeaEOARZqVgbGEoHB4Og)
-3. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
-4. AlphaGo之父强化学习
+1. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
+1. AlphaGo之父强化学习
 	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
-5. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+1. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 	- [中文课程！台大李宏毅机器学习公开课2019版上线](https://mp.weixin.qq.com/s/-KO5ZWA9kTx9HuXUrFyp1A)
-6. 书籍：英文《Neural Network and Deep Learning》;中文《神经网络与深度学习》，(美)Michael Nielsen著，Xiaohu Zhu、Freeman Zhang译
+1. 书籍：英文《Neural Network and Deep Learning》;中文《神经网络与深度学习》，(美)Michael Nielsen著，Xiaohu Zhu、Freeman Zhang译
 	- pdf中文版(真理成pdf,207页) | [code-Python2.7](https://github.com/mnielsen/neural-networks-and-deep-learning) | (code-Python3.5)[https://github.com/MichalDanielDobrzanski/DeepLearningPython35] | [书籍在线地址](http://neuralnetworksanddeeplearning.com/)
 	- [火爆网络的《神经网络与深度学习》，有人把它翻译成了中文版！](https://zhuanlan.zhihu.com/p/58144032)
-7. [深度学习资源一网打尽！论文、数据集、框架、课程、图书等应有尽有](https://mp.weixin.qq.com/s/Hnezt-1d-piNcXT6DqukyQ)
+1. [深度学习资源一网打尽！论文、数据集、框架、课程、图书等应有尽有](https://mp.weixin.qq.com/s/Hnezt-1d-piNcXT6DqukyQ)
 	- [GitHub](https://github.com/machinelearningmindset/deep-learning-ocean#what-s-the-point-of-this-open-source-project)
-8. 《神经网络与深度学习》，邱锡鹏著
+1. 《神经网络与深度学习》，邱锡鹏著
 	- [书籍介绍](https://nndl.github.io/) | [书籍-GitHub](https://github.com/nndl/nndl.github.io)
 	- [邱锡鹏教授新书《神经网络与深度学习》，正式开源发布！](https://mp.weixin.qq.com/s/t6Te3NCLJ7MGlSdWg0MWgw)
+1. [吴恩达 CS230 深度学习课开学了！秋季视频全部上线，课件小抄应有尽有](https://mp.weixin.qq.com/s/HZF8IbMGH6lh0p_eJVpIKw)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
