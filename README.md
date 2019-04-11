@@ -319,7 +319,11 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 # 面试+笔试
 1. [【GitHub】2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+	- [春招已近，这份GitHub万星的ML算法面试大全请收下](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650757466&idx=1&sn=b35dbfbb30c52c40cc4a91589c73937e&chksm=871a9d24b06d14326b88b65dda8c3c745fa88930cd3c537337b1bbb576eb8b97f7d904daecbd&scene=21#wechat_redirect)
 1. [1700页数学笔记火了！全程敲代码，速度飞快易搜索，硬核小哥教你上手LaTeX+Vim](https://mp.weixin.qq.com/s/QpJWyLY5AyrXGF-j7LYTGg)
+1. [百道Python面试题实现，搞定Python编程就靠它](https://mp.weixin.qq.com/s/ycX7tmNEU_W1Z00kwPe-8g)
+	- [GitHub_Interview-code-practice-python](https://github.com/leeguandong/Interview-code-practice-python)
+	- [GitHub_The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
