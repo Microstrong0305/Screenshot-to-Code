@@ -244,8 +244,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ## 基础知识
 1. 数学基础
 	- 帮助你快速搞懂机器学习中的数学知识
-2. Python基础
-	- 帮助你快速搞懂Python用法与基础操作
+	- [GitHub上读北大：覆盖AI高数等130多门课，讲义考题答案全都有，标星已3k+](https://mp.weixin.qq.com/s/Jx4F-FRvpXK4JQdaqqYFhQ) | [GitHub](https://github.com/lib-pku/libpku)
+1. 帮助你快速搞懂Python用法与基础操作
 	- [廖雪峰的官方网站-Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 	- [Python爱好者社区历史文章列表（每周append更新一次）](https://mp.weixin.qq.com/s/-j4u6Q4KpAfTQZnlaO0vgw)
 	- [莫烦PYTHON](https://morvanzhou.github.io/)
@@ -258,23 +258,25 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. 《统计学习方法》，李航著
 	- [机器学习必备宝典-《统计学习方法》的python代码实现、电子书及课件](https://mp.weixin.qq.com/s/N7meogGSfU5ZYDhJ4oj86w)
 	- [重磅！李航《统计学习方法》最新资源，笔记、Python 代码一应俱全！](https://mp.weixin.qq.com/s/tZgJRI3zNz7jV8nfMYa5Kg) | [GitHub](https://github.com/SmirkCao/Lihang)
-2. 《机器学习》，周志华著
+1. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
 		- [GitHub](https://github.com/datawhalechina/pumpkin-book) | [在线阅读地址](https://datawhalechina.github.io/pumpkin-book/#/)
-3. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm)
-4. 林轩田《机器学习》视频
+1. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm)
+1. 林轩田《机器学习》视频
 	- [林轩田课程主页](https://www.csie.ntu.edu.tw/~htlin/)
 	- [机器学习基石]
 	- [机器学习技法](https://www.bilibili.com/video/av12469267/)
 	- [精心整理 | 林轩田机器学习资源汇总](https://blog.csdn.net/red_stone1/article/details/80517672)
-5. 《机器学习实战》，[美]Peter Harrington 著；李锐、李鹏、曲亚东、王斌 译
-6. [Scikit-learn 0.19.x 中文文档](http://sklearn.apachecn.org/#/)
-7. [台湾大学李宏毅老师《机器学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
-8. [Pattern Recognition and Machine Learning(PRML)](https://weibo.com/1768582942/Ef2CZporc?type=comment)
+1. 《机器学习实战》，[美]Peter Harrington 著；李锐、李鹏、曲亚东、王斌 译
+1. [Scikit-learn 0.19.x 中文文档](http://sklearn.apachecn.org/#/)
+1. [台湾大学李宏毅老师《机器学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+1. [Pattern Recognition and Machine Learning(PRML)](https://weibo.com/1768582942/Ef2CZporc?type=comment)
 	- [重磅 | AI 圣经 PRML《模式识别与机器学习》官方开源了！](https://mp.weixin.qq.com/s/qSe_GzV5RhhY7TGTMQdWQA)
-9. [汇总 | 机器学习算法优缺点 & 如何选择](https://mp.weixin.qq.com/s/g3nLEOmRHe6iAY9_E3zpGw)
-10. [Github 十个小时狂揽千赞：机器学习完整路线图](https://mp.weixin.qq.com/s/_ZW2IdpFj2nkX9ZzCrKauA)
+1. [汇总 | 机器学习算法优缺点 & 如何选择](https://mp.weixin.qq.com/s/g3nLEOmRHe6iAY9_E3zpGw)
+1. [Github 十个小时狂揽千赞：机器学习完整路线图](https://mp.weixin.qq.com/s/_ZW2IdpFj2nkX9ZzCrKauA)
+1. [8000 星！GitHub 高赞机器学习路线图，有人把它翻译成了中文版！](https://mp.weixin.qq.com/s/FR51Y7nyHmb4f7c2lJw7iA)
+	- [Github标星超7k！从零开始，最简明扼要的数据科学学习路径（附高效免费小工具）](https://mp.weixin.qq.com/s/7f0nCzIwUqyvChI6oGlZqw) | [GitHub](https://github.com/clone95/Virgilio/tree/master/zh-CN)
 
 
 ## 深度学习
