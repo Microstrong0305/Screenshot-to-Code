@@ -200,12 +200,15 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- 在吴恩达的《DeepLearning.ai》视频中3.7节“注意力模型直观理解”中指出：注意力模型源于Neural Machine Translation by Jointly Learning to Align and Translate。虽然这个模型源于机器翻译，但它也推广到了其他应用领域。我认为在深度学习领域，这个是非常有影响力的具开创性论文。
 	- Bahdanau等人在论文《Neural Machine Translation by Jointly Learning to Align and Translate》中，使用类似attention的机制在机器翻译任务上将翻译和对齐同时进行，他们的工作算是是第一个提出attention机制应用到NLP领域中。
 	- [code](https://github.com/datalogue/keras-attention)
-2. [基于Keras框架实现加入Attention与BiRNN的机器翻译模型](https://zhuanlan.zhihu.com/p/37290775)
+1. [基于Keras框架实现加入Attention与BiRNN的机器翻译模型](https://zhuanlan.zhihu.com/p/37290775)
+1. Chaudhari S, Polatkan G, Ramanath R, Mithal V. An Attentive Survey of Attention Models. arXiv:1904.02874.
+	- [pdf](https://arxiv.org/abs/1904.02874?context=cs)
+	- [Attention！注意力机制模型最新综述（附下载）](https://mp.weixin.qq.com/s/CrxbmG7mbsmERMLEDkGYxw)
 
 ### Seq-to-Seq with Attention各种变形
 1.  Luong M T, Pham H, Manning C D. Effective approaches to attention-based neural machine translation[J]. arXiv preprint arXiv:1508.04025, 2015.
 	- 这篇论文提出了两种Seq-to-Seq模型，分别是global Attention和local Attention。
-2. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.【Hard Attention】
+1. Xu K, Ba J, Kiros R, et al. Show, attend and tell: Neural image caption generation with visual attention[C]//International conference on machine learning. 2015: 2048-2057.【Hard Attention】
 	- 目前存在两种Attention方式soft Attention和hard Attention。上面提到的global模型属于soft Attention，这种方法的缺点是每次decode时都要计算所有的向量，导致计算复杂度较高，而且很容易可以想到，其实有些source跟本次decode根本没有任何关系，所以计算他们之间的相似度有些多余；除此之外，当source序列较长时，这种方法的效果也会有所下降。而hard Attention，每次仅选择一个相关的source进行计算，这种方法的缺点是不可微，没有办法进行反向传播，只能借助强化学习等手段进行训练。这部分内容可以参考论文“Show, Attend and Tell: Neural Image Caption Generation with Visual Attention”。
 
 ### Seq-to-Seq with Beam-Search
@@ -310,14 +313,21 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 ## 进阶学习
 1. 读经典的Paper
-2. 比赛实战
+	- Batch Normalization
+	- Dropout
+	- 注意力机制
+
+1. 比赛实战
 	- [阿里天池竞赛](https://tianchi.aliyun.com/competition/gameList/activeList)
 	- [Kaggle](https://www.kaggle.com/)
 
-4. 项目实战
-5. 有趣项目
+1. 项目实战
+1. 有趣项目
 	- [AI玩微信跳一跳的正确姿势 --跳一跳Auto-Jump算法详解](https://zhuanlan.zhihu.com/p/32636329)
 	- [真·佛系研究：日本开发佛像情绪识别器，还能寻找你的“真命天佛”](https://mp.weixin.qq.com/s/UYgqI4lUxUzDoW-ihDn__A)
+
+1. 深度学习网络画图工具
+	- [那些酷炫的深度学习网络图怎么画出来的？](https://mp.weixin.qq.com/s/ASjckYfAxqpEpIDlmCcTVA)
 
 # 面试+笔试
 1. [【GitHub】2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
