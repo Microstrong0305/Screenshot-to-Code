@@ -33,8 +33,7 @@ Description: Classic papers in the field of computer vision
 	- Inception v3：Szegedy C, Vanhoucke V, Ioffe S, et al. Rethinking the inception architecture for computer vision[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 2818-2826.
 	- Inception v4：Szegedy C, Ioffe S, Vanhoucke V, et al. Inception-v4, inception-resnet and the impact of residual connections on learning[C]//AAAI. 2017, 4: 12.
 1. Resnet(2015)：He K, Zhang X, Ren S, et al. Deep residual learning for image recognition[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2016: 770-778.
-	- [对ResNet本质的一些思考](https://mp.weixin.qq.com/s/2cxEIqGhhQ-AgrEC1-a3gA)
-	- [对ResNet本质的一些思考](https://zhuanlan.zhihu.com/p/60668529)
+	- [对ResNet本质的一些思考(微信公众号)](https://mp.weixin.qq.com/s/2cxEIqGhhQ-AgrEC1-a3gA) | [对ResNet本质的一些思考（知乎）](https://zhuanlan.zhihu.com/p/60668529)
 1. DenseNet(2017)：Huang G, Liu Z, Van Der Maaten L, et al. Densely connected convolutional networks[C]//2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR). IEEE, 2017: 2261-2269.
 1. MobileNet(2017)：Howard A G, Zhu M, Chen B, et al. Mobilenets: Efficient convolutional neural networks for mobile vision applications[J]. arXiv preprint arXiv:1704.04861, 2017.
 1. ShuffleNet(2017)：《ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices》
@@ -285,6 +284,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 
 
 ## 深度学习
+人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
 ### 书籍和视频
 1. 花书《深度学习》，[美]伊恩.古德费洛(Ian Goodfellow)、 [加]约书亚.本吉奥(Yoshua Bengio)、[加]亚伦.库维尔(Aaron Courville) 著；赵申剑 黎彧君 符天凡 李凯 译 张志华等 审校
 	- [重磅！深度学习圣经“花书”核心笔记、代码发布](https://mp.weixin.qq.com/s/eEiT9_oVR20jQPKp9RenLg) | [GitHub](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) | [读书笔记](https://medium.com/inveterate-learner/tagged/deep-learning) | [Jeff Macaluso - Blog 笔记](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/)
@@ -304,6 +304,16 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [书籍介绍](https://nndl.github.io/) | [书籍-GitHub](https://github.com/nndl/nndl.github.io)
 	- [邱锡鹏教授新书《神经网络与深度学习》，正式开源发布！](https://mp.weixin.qq.com/s/t6Te3NCLJ7MGlSdWg0MWgw)
 1. [吴恩达 CS230 深度学习课开学了！秋季视频全部上线，课件小抄应有尽有](https://mp.weixin.qq.com/s/HZF8IbMGH6lh0p_eJVpIKw)
+1. [深度学习理论与实战：提高篇](http://fancyerii.github.io/2019/03/14/dl-book/)
+	- [免费中文深度学习全书：不仅有理论，还有配套代码分析](https://mp.weixin.qq.com/s/RgvcbLZbg0bj6BKxgTzDrg)
+1. [资源|547页的《动手学深度学习》推荐（附最新PDF，源码下载）](https://mp.weixin.qq.com/s/d2c2hUAYECIQN6KF3olzvA)
+
+### Computer Vision（CV）
+
+
+### Natural Language Processing（NLP）
+1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
+1. [NLP研究入门之道](https://github.com/zibuyu/research_tao)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
