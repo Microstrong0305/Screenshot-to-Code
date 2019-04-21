@@ -12,3 +12,4 @@
 1. [关于GAN的灵魂七问](https://mp.weixin.qq.com/s/ErmGAsSHvCOxCn97yZ4WJQ)
 	- [关于GAN的七个问题：谷歌大脑工程师带你梳理生成对抗网络的过去未来](https://mp.weixin.qq.com/s/SMGyHaUKthMqDGG6blxrXA)
 1. [资源 | 《GAN实战：生成对抗网络深度学习》牛津大学Jakub著作（附下载）](https://mp.weixin.qq.com/s/XjVsvsEFYYdEu-F7rriNuQ)
+1. [GAN生成图像综述](https://mp.weixin.qq.com/s/LJfsadhp3WGi0tLXN7jCUA)

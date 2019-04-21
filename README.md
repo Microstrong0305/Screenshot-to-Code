@@ -306,10 +306,13 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [吴恩达 CS230 深度学习课开学了！秋季视频全部上线，课件小抄应有尽有](https://mp.weixin.qq.com/s/HZF8IbMGH6lh0p_eJVpIKw)
 1. [深度学习理论与实战：提高篇](http://fancyerii.github.io/2019/03/14/dl-book/)
 	- [免费中文深度学习全书：不仅有理论，还有配套代码分析](https://mp.weixin.qq.com/s/RgvcbLZbg0bj6BKxgTzDrg)
+	- [免费！中文深度学习全书：配套理论分析及代码分析（附资源）](https://mp.weixin.qq.com/s/bdi2J8C3wwTaMusXhWAzdQ)
 1. [资源|547页的《动手学深度学习》推荐（附最新PDF，源码下载）](https://mp.weixin.qq.com/s/d2c2hUAYECIQN6KF3olzvA)
+1. [GitHub-AILearning（机器学习实战）](https://github.com/apachecn/AiLearning) | [AILearning（机器学习实战）](https://ailearning.apachecn.org/#/)
+	- [GitHub万星的中文机器学习资源：路线图、视频、电子书、学习建议全在这](https://mp.weixin.qq.com/s/7tnx6THtazHwSMoxuo6aVA)
 
 ### Computer Vision（CV）
-
+1. 待补充。
 
 ### Natural Language Processing（NLP）
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
@@ -347,6 +350,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [GitHub_Interview-code-practice-python](https://github.com/leeguandong/Interview-code-practice-python)
 	- [GitHub_The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 1. [Github项目推荐 | OI Wiki：编程竞赛最全知识整合站点](https://mp.weixin.qq.com/s/XnKbsq9j8pboQLNvn4UvYg)
+1. [机器学习与深度学习核心知识点总结--写在校园招聘即将开始时](https://mp.weixin.qq.com/s/r9D0O0t91Kg9Nfo0WHegzg)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
