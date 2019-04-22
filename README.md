@@ -149,6 +149,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. BLEU
 	- Papineni K, Roukos S, Ward T, et al. BLEU: a method for automatic evaluation of machine translation[C]//Proceedings of the 40th annual meeting on association for computational linguistics. Association for Computational Linguistics, 2002: 311-318.
 	- [A Gentle Introduction to Calculating the BLEU Score for Text in Python](https://machinelearningmastery.com/calculate-bleu-score-for-text-python/)
+	- [BLEU：一种自动评估机器翻译的方法](https://zhuanlan.zhihu.com/p/39100621)
+	- [机器翻译自动评估-BLEU算法详解](https://blog.csdn.net/qq_31584157/article/details/77709454)
 1. METEOR
 1. ROUGE-L
 1. CIDEr
@@ -266,6 +268,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
 		- [GitHub](https://github.com/datawhalechina/pumpkin-book) | [在线阅读地址](https://datawhalechina.github.io/pumpkin-book/#/)
+1. 《白面机器学习》，诸葛越主编、葫芦娃著
 1. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm)
 1. 林轩田《机器学习》视频
 	- [林轩田课程主页](https://www.csie.ntu.edu.tw/~htlin/)
@@ -281,6 +284,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [Github 十个小时狂揽千赞：机器学习完整路线图](https://mp.weixin.qq.com/s/_ZW2IdpFj2nkX9ZzCrKauA)
 1. [8000 星！GitHub 高赞机器学习路线图，有人把它翻译成了中文版！](https://mp.weixin.qq.com/s/FR51Y7nyHmb4f7c2lJw7iA)
 	- [Github标星超7k！从零开始，最简明扼要的数据科学学习路径（附高效免费小工具）](https://mp.weixin.qq.com/s/7f0nCzIwUqyvChI6oGlZqw) | [GitHub](https://github.com/clone95/Virgilio/tree/master/zh-CN)
+1. [SVM](http://blog.pluskid.org/?page_id=683)
 
 
 ## 深度学习
@@ -295,6 +299,9 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
 1. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 	- [中文课程！台大李宏毅机器学习公开课2019版上线](https://mp.weixin.qq.com/s/-KO5ZWA9kTx9HuXUrFyp1A)
+	- [李宏毅深度学习课](https://www.bilibili.com/video/av9770302?from=search&seid=9066694202064136038)
+	- [李宏毅强化学习课](https://www.bilibili.com/video/av24724071?from=search&seid=11841282802558935758)
+	- [李宏毅机器学习课](https://www.bilibili.com/video/av35932863?from=search&seid=7464664329294734466)
 1. 书籍：英文《Neural Network and Deep Learning》;中文《神经网络与深度学习》，(美)Michael Nielsen著，Xiaohu Zhu、Freeman Zhang译
 	- pdf中文版(真理成pdf,207页) | [code-Python2.7](https://github.com/mnielsen/neural-networks-and-deep-learning) | (code-Python3.5)[https://github.com/MichalDanielDobrzanski/DeepLearningPython35] | [书籍在线地址](http://neuralnetworksanddeeplearning.com/)
 	- [火爆网络的《神经网络与深度学习》，有人把它翻译成了中文版！](https://zhuanlan.zhihu.com/p/58144032)
@@ -351,6 +358,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [GitHub_The Algorithms - Python](https://github.com/TheAlgorithms/Python)
 1. [Github项目推荐 | OI Wiki：编程竞赛最全知识整合站点](https://mp.weixin.qq.com/s/XnKbsq9j8pboQLNvn4UvYg)
 1. [机器学习与深度学习核心知识点总结--写在校园招聘即将开始时](https://mp.weixin.qq.com/s/r9D0O0t91Kg9Nfo0WHegzg)
+1. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions/)
+1. [必看！两年美团算法大佬，做的个人总结](https://mp.weixin.qq.com/s/nTB6QzOgUDRODkKNP0k9lA)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
