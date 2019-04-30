@@ -59,11 +59,16 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [GitHub：目标检测最全论文集锦](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247484497&idx=1&sn=5c497d2e6d85aacae6be41f9b81da8fc&chksm=f9a276deced5ffc85196e5c9058014eee3c53f50b85eb6b2b84f034ff0c8473d2e6d0b42a917&scene=21#wechat_redirect)
 
 ## 图像分割
-### Instance Segmentation
+1. [GitHub：图像分割最全资料集锦](https://mp.weixin.qq.com/s/PQaB72lkcM-GT9c2VpjboQ)
+	- [GitHub-Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+
+### Instance Segmentation(实例分割)
 1.待补充
 
-### Semantic Segmentation
+### Semantic Segmentation(语义分割)
 1. Long J, Shelhamer E, Darrell T. Fully convolutional networks for semantic segmentation[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3431-3440.
+
+### Panoptic segmentation(全景分割)
 
 
 ## image caption
@@ -259,6 +264,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 		- [tkinter Python3 做简单窗口视窗](https://morvanzhou.github.io/tutorials/python-basic/tkinter/)
 		- [Threading Python3 多线程](https://morvanzhou.github.io/tutorials/python-basic/threading/)
 		- [Multiprocessing Python3 多进程](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
+	- [Github标星2w+，热榜第一，如何用Python实现所有算法](https://mp.weixin.qq.com/s/_1FisFbHeCMSD47jo6papQ)
 
 ## 机器学习
 1. 《统计学习方法》，李航著
@@ -285,7 +291,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [8000 星！GitHub 高赞机器学习路线图，有人把它翻译成了中文版！](https://mp.weixin.qq.com/s/FR51Y7nyHmb4f7c2lJw7iA)
 	- [Github标星超7k！从零开始，最简明扼要的数据科学学习路径（附高效免费小工具）](https://mp.weixin.qq.com/s/7f0nCzIwUqyvChI6oGlZqw) | [GitHub](https://github.com/clone95/Virgilio/tree/master/zh-CN)
 1. [SVM](http://blog.pluskid.org/?page_id=683)
-
+1. [超级干货|据说这是一份最详细的AI 学习资源整理，看完我服！](https://mp.weixin.qq.com/s/9IXARFLcGBOOga6d9zs6LA)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
@@ -297,6 +303,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
 1. AlphaGo之父强化学习
 	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
+1. 吴恩达《deeplearning.ai》视频 [网易云课堂视频](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
 1. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 	- [中文课程！台大李宏毅机器学习公开课2019版上线](https://mp.weixin.qq.com/s/-KO5ZWA9kTx9HuXUrFyp1A)
 	- [李宏毅深度学习课](https://www.bilibili.com/video/av9770302?from=search&seid=9066694202064136038)
@@ -360,6 +367,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [机器学习与深度学习核心知识点总结--写在校园招聘即将开始时](https://mp.weixin.qq.com/s/r9D0O0t91Kg9Nfo0WHegzg)
 1. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions/)
 1. [必看！两年美团算法大佬，做的个人总结](https://mp.weixin.qq.com/s/nTB6QzOgUDRODkKNP0k9lA)
+1. [BAT机器学习面试1000题系列](https://github.com/julycoding/BAT-ML-1000)
+	- [博客](https://blog.csdn.net/v_july_v/article/details/78121924)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
