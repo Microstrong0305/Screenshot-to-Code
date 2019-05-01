@@ -252,6 +252,9 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ***
 
 # 【算法工程师】学习资料总结
+## 别人入门经验
+1. [从小白到入门算法，我的经验分享给你～](https://mp.weixin.qq.com/s/vJaNR6M7HAAwhY8Vv6CPjA)
+
 ## 基础知识
 1. 数学基础
 	- 帮助你快速搞懂机器学习中的数学知识
@@ -265,6 +268,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 		- [Threading Python3 多线程](https://morvanzhou.github.io/tutorials/python-basic/threading/)
 		- [Multiprocessing Python3 多进程](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
 	- [Github标星2w+，热榜第一，如何用Python实现所有算法](https://mp.weixin.qq.com/s/_1FisFbHeCMSD47jo6papQ)
+	- 《流畅的Python》，[巴西]Luciano Ramalho著，安道 吴珂译。深入了解一些Python的知识，加深了自己对于Python里面内存管理、常用函数、类等的认识。
 
 ## 机器学习
 1. 《统计学习方法》，李航著
@@ -331,6 +335,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ### Natural Language Processing（NLP）
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
 1. [NLP研究入门之道](https://github.com/zibuyu/research_tao)
+1. [word2vec 中的数学原理详解（一）目录和前言](https://blog.csdn.net/itplus/article/details/37969519)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
