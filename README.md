@@ -269,6 +269,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 		- [Multiprocessing Python3 多进程](https://morvanzhou.github.io/tutorials/python-basic/multiprocessing/)
 	- [Github标星2w+，热榜第一，如何用Python实现所有算法](https://mp.weixin.qq.com/s/_1FisFbHeCMSD47jo6papQ)
 	- 《流畅的Python》，[巴西]Luciano Ramalho著，安道 吴珂译。深入了解一些Python的知识，加深了自己对于Python里面内存管理、常用函数、类等的认识。
+	- [Python 热图进阶](https://mp.weixin.qq.com/s/-oyHI9Byey33ebNud-IPCw)
 
 ## 机器学习
 1. 《统计学习方法》，李航著
