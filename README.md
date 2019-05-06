@@ -236,6 +236,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Shen Y, Tan S, Sordoni A, et al. Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks[J]. arXiv preprint arXiv:1810.09536, 2018.
 	- [这种有序神经元，像你熟知的循环神经网络吗？](https://www.jiqizhixin.com/articles/2018-12-20-13)
 	- [pdf](https://arxiv.org/pdf/1810.09536.pdf) | [code](https://github.com/yikangshen/Ordered-Neurons)
+	- [ICLR 2019最佳论文揭晓！NLP深度学习、神经网络压缩成焦点](https://mp.weixin.qq.com/s/gdoysR07ukaQKHz5v1B3NA)
 1. [colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 1. Tai K S, Socher R, Manning C D. Improved semantic representations from tree-structured long short-term memory networks[J]. arXiv preprint arXiv:1503.00075, 2015.
 	- [Tree-Structured LSTM介绍](https://zhuanlan.zhihu.com/p/36608614)
@@ -270,6 +271,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [Github标星2w+，热榜第一，如何用Python实现所有算法](https://mp.weixin.qq.com/s/_1FisFbHeCMSD47jo6papQ)
 	- 《流畅的Python》，[巴西]Luciano Ramalho著，安道 吴珂译。深入了解一些Python的知识，加深了自己对于Python里面内存管理、常用函数、类等的认识。
 	- [Python 热图进阶](https://mp.weixin.qq.com/s/-oyHI9Byey33ebNud-IPCw)
+	- [1.2w 星！火爆 GitHub 的 Python 学习 100 天](https://mp.weixin.qq.com/s/5n_9E2ZSR8wC-I60RsQnJg) | [GitHub-Python-100-Days](https://github.com/jackfrued/Python-100-Days)
 
 ## 机器学习
 1. 《统计学习方法》，李航著
