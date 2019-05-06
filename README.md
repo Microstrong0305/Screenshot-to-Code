@@ -237,6 +237,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [这种有序神经元，像你熟知的循环神经网络吗？](https://www.jiqizhixin.com/articles/2018-12-20-13)
 	- [pdf](https://arxiv.org/pdf/1810.09536.pdf) | [code](https://github.com/yikangshen/Ordered-Neurons)
 	- [ICLR 2019最佳论文揭晓！NLP深度学习、神经网络压缩成焦点](https://mp.weixin.qq.com/s/gdoysR07ukaQKHz5v1B3NA)
+	- [ICLR 2019最佳论文揭晓！NLP深度学习、神经网络压缩成焦点](https://mp.weixin.qq.com/s/gdoysR07ukaQKHz5v1B3NA)
 1. [colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 1. Tai K S, Socher R, Manning C D. Improved semantic representations from tree-structured long short-term memory networks[J]. arXiv preprint arXiv:1503.00075, 2015.
 	- [Tree-Structured LSTM介绍](https://zhuanlan.zhihu.com/p/36608614)
@@ -249,6 +250,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Chung J, Ahn S, Bengio Y. Hierarchical multiscale recurrent neural networks[J]. arXiv preprint arXiv:1609.01704, 2016.
 1. [双向长短时记忆网络](https://www.jiqizhixin.com/graph/technologies/23689ba3-90ac-444b-abf8-83b2d2a8c712)
 1. [爆款论文提出简单循环单元SRU：像CNN一样快速训练RNN（附开源代码）](https://zhuanlan.zhihu.com/p/29266704)
+1. Merity S, Keskar N S, Socher R. Regularizing and optimizing LSTM language models[J]. arXiv preprint arXiv:1708.02182, 2017.
+	- AWD-LSTM算是当前最先进的语言建模的统治者。所有关于世界级的模型的顶尖研究论文都采用了AWD-LSTM。它在字符模型上的表现也很棒。Regularizing and Optimizing LSTM Language Models（正则化、优化LSTM语言模型）引入AWD-LSTM的研究，解释其中讨论的各种技术。这篇论文调查了一些面向基于单词的语言建模任务的正则化和优化策略，这些策略不仅非常高效，而且可以不加修改地直接应用于现有的LSTM实现。
 
 ***
 
@@ -351,6 +354,9 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- Batch Normalization
 	- Dropout
 	- 注意力机制
+	- DropConnect：Wan L, Zeiler M, Zhang S, et al. Regularization of neural networks using dropconnect[C]//International conference on machine learning. 2013: 1058-1066.
+		+ [DropConnect slides](https://cs.nyu.edu/~wanli/dropc/dropc_slides.pdf)
+		+ [DropConnect project page](https://cs.nyu.edu/~wanli/dropc/)
 
 1. 比赛实战
 	- [阿里天池竞赛](https://tianchi.aliyun.com/competition/gameList/activeList)
