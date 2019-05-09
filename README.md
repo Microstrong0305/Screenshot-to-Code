@@ -79,6 +79,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [code](https://github.com/DeepRNN/image_captioning) | [pdf](https://arxiv.org/abs/1502.03044)
 	- [2017-10-27 发布深度解析注意力模型(attention model) --- image_caption的应用](https://segmentfault.com/a/1190000011744246)
 	- [「Show and Tell」——图像标注（Image Caption）任务技术综述](https://zhuanlan.zhihu.com/p/27771046)
+	- [使用注意力机制制作图像字幕](https://mp.weixin.qq.com/s/CzBgfRh9ZrKdiuICyIpt0g)
 1. Karpathy A, Fei-Fei L. Deep visual-semantic alignments for generating image descriptions[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2015: 3128-3137.
 1. Bernardi R, Cakici R, Elliott D, et al. Automatic description generation from images: A survey of models, datasets, and evaluation measures[J]. Journal of Artificial Intelligence Research, 2016, 55: 409-442.
 1. Karpathy A. Connecting Images and Natural Language[D]. Ph. D. Dissertation. STANFORD UNIVERSITY, 2016.
@@ -130,6 +131,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [NLP不同任务Tensorflow深度学习模型大全](https://mp.weixin.qq.com/s/HwSCij5U0JzzD4xXUU5JDQ)
 1. [自然语言生成的演变史](https://mp.weixin.qq.com/s/WF7UmEHjYMUL9n4TasWXqA)
 1. Melis G, Dyer C, Blunsom P. On the state of the art of evaluation in neural language models[J]. arXiv preprint arXiv:1707.05589, 2017.
+1. Press O, Wolf L. Using the output embedding to improve language models[J]. arXiv preprint arXiv:1608.05859, 2016.
+1. Inan H, Khosravi K, Socher R. Tying word vectors and word classifiers: A loss framework for language modeling[J]. arXiv preprint arXiv:1611.01462, 2016.
 
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
@@ -252,6 +255,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [爆款论文提出简单循环单元SRU：像CNN一样快速训练RNN（附开源代码）](https://zhuanlan.zhihu.com/p/29266704)
 1. Merity S, Keskar N S, Socher R. Regularizing and optimizing LSTM language models[J]. arXiv preprint arXiv:1708.02182, 2017.
 	- AWD-LSTM算是当前最先进的语言建模的统治者。所有关于世界级的模型的顶尖研究论文都采用了AWD-LSTM。它在字符模型上的表现也很棒。Regularizing and Optimizing LSTM Language Models（正则化、优化LSTM语言模型）引入AWD-LSTM的研究，解释其中讨论的各种技术。这篇论文调查了一些面向基于单词的语言建模任务的正则化和优化策略，这些策略不仅非常高效，而且可以不加修改地直接应用于现有的LSTM实现。
+1. Bradbury J, Merity S, Xiong C, et al. Quasi-recurrent neural networks[J]. arXiv preprint arXiv:1611.01576, 2016.
+	- QRNN [1] 是 Salesforce Research 团队（Update: 官方pytorch实现）提出的一种使用卷积操作替代传统的循环结构（vanilla RNN, LSTM, GRU）的新网络结构。QRNN可以视为介于RNN和CNN之间的特殊结构。由于卷积操作没有循环结构时间上的依赖性，因此，QRNN的计算并行度高；在训练时，卷积结构也要比循环结构更稳定。因此 ，QRNN 是一种潜在有用的网络，可以 drop-in 地替代各种 RNN。
 
 ***
 
@@ -302,6 +307,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [Github标星超7k！从零开始，最简明扼要的数据科学学习路径（附高效免费小工具）](https://mp.weixin.qq.com/s/7f0nCzIwUqyvChI6oGlZqw) | [GitHub](https://github.com/clone95/Virgilio/tree/master/zh-CN)
 1. [SVM](http://blog.pluskid.org/?page_id=683)
 1. [超级干货|据说这是一份最详细的AI 学习资源整理，看完我服！](https://mp.weixin.qq.com/s/9IXARFLcGBOOga6d9zs6LA)
+1. [开源！《AI 算法工程师手册》中文教程正式发布！](https://mp.weixin.qq.com/s/TD6Z6NgGLVw05WuGtK-C6g)
+	- [《AI 算法工程师手册》](http://www.huaxiaozhuan.com/)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
