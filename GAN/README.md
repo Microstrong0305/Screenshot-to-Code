@@ -14,3 +14,5 @@
 1. [资源 | 《GAN实战：生成对抗网络深度学习》牛津大学Jakub著作（附下载）](https://mp.weixin.qq.com/s/XjVsvsEFYYdEu-F7rriNuQ)
 1. [GAN生成图像综述](https://mp.weixin.qq.com/s/LJfsadhp3WGi0tLXN7jCUA)
 1. [从DCGAN到SELF-MOD：GAN的模型架构发展一览](https://mp.weixin.qq.com/s/9GeryvW5PI93FCmTpuFEPQ)
+1. [一篇注入了灵魂的 cycleGAN 代码解读](https://mp.weixin.qq.com/s/p_r3Q1qOWwlsHrKOxW8jjw)
+1. [GAN生成图像综述](https://mp.weixin.qq.com/s/w7Y8qK2UbVGqa1dcOagnDA)

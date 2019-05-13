@@ -38,6 +38,9 @@ Description: Classic papers in the field of computer vision
 1. MobileNet(2017)：Howard A G, Zhu M, Chen B, et al. Mobilenets: Efficient convolutional neural networks for mobile vision applications[J]. arXiv preprint arXiv:1704.04861, 2017.
 1. ShuffleNet(2017)：《ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices》
 	- Zhang X, Zhou X, Lin M, et al. Shufflenet: An extremely efficient convolutional neural network for mobile devices[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 6848-6856.
+1. Hu J, Shen L, Sun G. Squeeze-and-excitation networks[C]//Proceedings of the IEEE conference on computer vision and pattern recognition. 2018: 7132-7141.
+	- [深度学习之卷积网络attention机制SENET、CBAM模块原理总结](https://blog.csdn.net/weixin_33602281/article/details/85223216)
+	- [如何评价Momenta ImageNet 2017夺冠架构SENet? - 知乎](https://www.zhihu.com/question/63460684)
 1. EffNet(2018)：Freeman I, Roese-Koerner L, Kummert A. EffNet: An Efficient Structure for Convolutional Neural Networks[J]. arXiv preprint arXiv:1801.06434, 2018.
 1. [从 VGG开始，介绍了 GoogLeNet、ResNet、Inception系列、DenseNet、Xception、SENet，还有轻量级网络，如：MobileNet、ShuffleNet和IGCV系列。甚至还有最近很火的NasNet系列网络。每种网络都带有论文链接和多种复现的代码链接。](https://mp.weixin.qq.com/s/_TbDeRlE9NJ3yvoaaBAQDg)
 1. [CV 图像分类常见的 36 个模型汇总！附完整论文和代码](https://mp.weixin.qq.com/s/teOWcD-LPy-aKp7PKnxOdQ)
@@ -133,6 +136,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Melis G, Dyer C, Blunsom P. On the state of the art of evaluation in neural language models[J]. arXiv preprint arXiv:1707.05589, 2017.
 1. Press O, Wolf L. Using the output embedding to improve language models[J]. arXiv preprint arXiv:1608.05859, 2016.
 1. Inan H, Khosravi K, Socher R. Tying word vectors and word classifiers: A loss framework for language modeling[J]. arXiv preprint arXiv:1611.01462, 2016.
+1. [Bert时代的创新：Bert应用模式比较及其它 | 技术头条](https://mp.weixin.qq.com/s/s1bQFdA6gtoHeeQMJKQ8UQ)
 
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
@@ -289,7 +293,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
 		- [GitHub](https://github.com/datawhalechina/pumpkin-book) | [在线阅读地址](https://datawhalechina.github.io/pumpkin-book/#/)
-1. 《白面机器学习》，诸葛越主编、葫芦娃著
+1. 《百面机器学习》，诸葛越主编、葫芦娃著
 1. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm)
 1. 林轩田《机器学习》视频
 	- [林轩田课程主页](https://www.csie.ntu.edu.tw/~htlin/)
@@ -309,6 +313,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [超级干货|据说这是一份最详细的AI 学习资源整理，看完我服！](https://mp.weixin.qq.com/s/9IXARFLcGBOOga6d9zs6LA)
 1. [开源！《AI 算法工程师手册》中文教程正式发布！](https://mp.weixin.qq.com/s/TD6Z6NgGLVw05WuGtK-C6g)
 	- [《AI 算法工程师手册》](http://www.huaxiaozhuan.com/)
+1. [干货 | 126 篇 AI 原创文章精选（ML、DL、资源、教程）](https://mp.weixin.qq.com/s/yOcgTKb6lrmP2wmDyQl5rg)
+1. [超全！深度学习最常见的 26 个模型练手项目汇总](https://mp.weixin.qq.com/s/K6LQ3RLjB5Ubl1rZXCYv0Q)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
@@ -354,7 +360,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 记录自己在学习这些框架的时候遇到的一些问题。
 1. [TensorFlow](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/TensorFlow)
 1. [Keras](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/Keras)
-1. PyTorch
+1. [PyTorch](./PyTroch)
 
 ## 进阶学习
 1. 读经典的Paper
