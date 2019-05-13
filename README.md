@@ -315,6 +315,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [《AI 算法工程师手册》](http://www.huaxiaozhuan.com/)
 1. [干货 | 126 篇 AI 原创文章精选（ML、DL、资源、教程）](https://mp.weixin.qq.com/s/yOcgTKb6lrmP2wmDyQl5rg)
 1. [超全！深度学习最常见的 26 个模型练手项目汇总](https://mp.weixin.qq.com/s/K6LQ3RLjB5Ubl1rZXCYv0Q)
+1. [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
+	- [Github标星1k+，懂点Python就能读懂的机器学习全流程笔记](https://mp.weixin.qq.com/s/LFbycAlVHHYQFmtb37mJYg)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。

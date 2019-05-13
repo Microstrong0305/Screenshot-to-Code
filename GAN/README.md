@@ -16,3 +16,7 @@
 1. [从DCGAN到SELF-MOD：GAN的模型架构发展一览](https://mp.weixin.qq.com/s/9GeryvW5PI93FCmTpuFEPQ)
 1. [一篇注入了灵魂的 cycleGAN 代码解读](https://mp.weixin.qq.com/s/p_r3Q1qOWwlsHrKOxW8jjw)
 1. [GAN生成图像综述](https://mp.weixin.qq.com/s/w7Y8qK2UbVGqa1dcOagnDA)
+1. [GAN初创者另有其人？IanGoodfellow：只是纯策略版本](https://mp.weixin.qq.com/s/x7IN-Ce8NTwN1LD2p_70VQ)
+	- [“我比Goodfellow提前三年想到了GAN”](https://mp.weixin.qq.com/s/p5n57wSCu-9Rh-_1MJNY8Q)
+	- [GAN之父身份遭质疑！一篇2010年的博客挑战Ian Goodfellow](https://mp.weixin.qq.com/s/769VicioXm2G--ww5OVRZw)
+1. [从动力学角度看优化算法：GAN的第三个阶段](https://mp.weixin.qq.com/s/CNYN6L6d-lYnO8nMK6oRwg)
