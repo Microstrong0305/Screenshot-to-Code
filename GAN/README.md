@@ -20,3 +20,8 @@
 	- [“我比Goodfellow提前三年想到了GAN”](https://mp.weixin.qq.com/s/p5n57wSCu-9Rh-_1MJNY8Q)
 	- [GAN之父身份遭质疑！一篇2010年的博客挑战Ian Goodfellow](https://mp.weixin.qq.com/s/769VicioXm2G--ww5OVRZw)
 1. [从动力学角度看优化算法：GAN的第三个阶段](https://mp.weixin.qq.com/s/CNYN6L6d-lYnO8nMK6oRwg)
+1. One Day One GAN 系列文章
+	- [One Day One GAN_keras版 [DAY 1]](https://mp.weixin.qq.com/s/wW8kTQ7eQeCJsHC9ju8VLA)
+	- [One Day One GAN [DAY 2]](https://mp.weixin.qq.com/s/qvNT_QjQh0NkDl6bgsnfwg)
+	- [One Day One GAN [DAY 3]](https://mp.weixin.qq.com/s/0fr6H5xGxmFoNuSxs7z7bQ)
+
