@@ -317,6 +317,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [超全！深度学习最常见的 26 个模型练手项目汇总](https://mp.weixin.qq.com/s/K6LQ3RLjB5Ubl1rZXCYv0Q)
 1. [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
 	- [Github标星1k+，懂点Python就能读懂的机器学习全流程笔记](https://mp.weixin.qq.com/s/LFbycAlVHHYQFmtb37mJYg)
+1. [收藏 | 完备的 AI 学习路线，最详细的资源整理](https://mp.weixin.qq.com/s/CmzvK9xl7ZeQbtOavYKZRw)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
@@ -357,11 +358,12 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
 1. [NLP研究入门之道](https://github.com/zibuyu/research_tao)
 1. [word2vec 中的数学原理详解（一）目录和前言](https://blog.csdn.net/itplus/article/details/37969519)
+1. [【资源推荐】复旦大学NLP上手教程](https://mp.weixin.qq.com/s/mxMFucqIqNVUgWlWmrdZ3Q)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
-1. [TensorFlow](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/TensorFlow)
-1. [Keras](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/Keras)
+1. [TensorFlow](./TensorFlow)
+1. [Keras](./Keras)
 1. [PyTorch](./PyTroch)
 
 ## 进阶学习
