@@ -137,6 +137,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. Press O, Wolf L. Using the output embedding to improve language models[J]. arXiv preprint arXiv:1608.05859, 2016.
 1. Inan H, Khosravi K, Socher R. Tying word vectors and word classifiers: A loss framework for language modeling[J]. arXiv preprint arXiv:1611.01462, 2016.
 1. [Bert时代的创新：Bert应用模式比较及其它 | 技术头条](https://mp.weixin.qq.com/s/s1bQFdA6gtoHeeQMJKQ8UQ)
+1. [面试题：预训练方法 BERT和OpenAI GPT有什么区别？](https://mp.weixin.qq.com/s/e40kjKwgESBsePz8onmSXw)
 
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
@@ -318,6 +319,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [Python机器学习课程（代码与教程）](https://mp.weixin.qq.com/s/YGlkx-VkA4pgkauaAGF-8g)
 	- [Github标星1k+，懂点Python就能读懂的机器学习全流程笔记](https://mp.weixin.qq.com/s/LFbycAlVHHYQFmtb37mJYg)
 1. [收藏 | 完备的 AI 学习路线，最详细的资源整理](https://mp.weixin.qq.com/s/CmzvK9xl7ZeQbtOavYKZRw)
+1. [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
@@ -350,6 +352,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [资源|547页的《动手学深度学习》推荐（附最新PDF，源码下载）](https://mp.weixin.qq.com/s/d2c2hUAYECIQN6KF3olzvA)
 1. [GitHub-AILearning（机器学习实战）](https://github.com/apachecn/AiLearning) | [AILearning（机器学习实战）](https://ailearning.apachecn.org/#/)
 	- [GitHub万星的中文机器学习资源：路线图、视频、电子书、学习建议全在这](https://mp.weixin.qq.com/s/7tnx6THtazHwSMoxuo6aVA)
+1. [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
 
 ### Computer Vision（CV）
 1. 待补充。
