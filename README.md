@@ -362,6 +362,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [NLP研究入门之道](https://github.com/zibuyu/research_tao)
 1. [word2vec 中的数学原理详解（一）目录和前言](https://blog.csdn.net/itplus/article/details/37969519)
 1. [【资源推荐】复旦大学NLP上手教程](https://mp.weixin.qq.com/s/mxMFucqIqNVUgWlWmrdZ3Q)
+1. [自动化所宗成庆研究员：108页PPT干货读懂NLP的过去与现在！（附教材&PPT）](https://mp.weixin.qq.com/s/xgySwq2m-mHT7XG1zZGpzw)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
@@ -377,6 +378,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- DropConnect：Wan L, Zeiler M, Zhang S, et al. Regularization of neural networks using dropconnect[C]//International conference on machine learning. 2013: 1058-1066.
 		+ [DropConnect slides](https://cs.nyu.edu/~wanli/dropc/dropc_slides.pdf)
 		+ [DropConnect project page](https://cs.nyu.edu/~wanli/dropc/)
+	- [一文看懂神经网络初始化！吴恩达 Deeplearning.ai 最新干货](https://mp.weixin.qq.com/s/Sta0_4zX08pANed4ebK2oA)
 
 1. 比赛实战
 	- [阿里天池竞赛](https://tianchi.aliyun.com/competition/gameList/activeList)
