@@ -355,7 +355,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
 
 ### Computer Vision（CV）
-1. 待补充。
+1. [【综述】一文览尽计算机视觉各研究方向](https://mp.weixin.qq.com/s/6NEhwfmMe0NY1o16ZiWH1Q)
+1. [一文带你读懂计算机视觉](https://zhuanlan.zhihu.com/p/52116081)
 
 ### Natural Language Processing（NLP）
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
@@ -405,6 +406,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [必看！两年美团算法大佬，做的个人总结](https://mp.weixin.qq.com/s/nTB6QzOgUDRODkKNP0k9lA)
 1. [BAT机器学习面试1000题系列](https://github.com/julycoding/BAT-ML-1000)
 	- [博客](https://blog.csdn.net/v_july_v/article/details/78121924)
+1. [干货 | 大公司机器学习算法的面试经验](https://mp.weixin.qq.com/s/v_7VIBa1qO2U3UvTsxizqw)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)

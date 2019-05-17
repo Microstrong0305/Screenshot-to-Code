@@ -24,4 +24,5 @@
 	- [One Day One GAN_keras版 [DAY 1]](https://mp.weixin.qq.com/s/wW8kTQ7eQeCJsHC9ju8VLA)
 	- [One Day One GAN [DAY 2]](https://mp.weixin.qq.com/s/qvNT_QjQh0NkDl6bgsnfwg)
 	- [One Day One GAN [DAY 3]](https://mp.weixin.qq.com/s/0fr6H5xGxmFoNuSxs7z7bQ)
+1. [Keras作者推荐的Github项目，基于TensorFlow2的生成式模型合集](https://mp.weixin.qq.com/s/TbjuE59o9Hnu-ZZePU88ZA)
 
