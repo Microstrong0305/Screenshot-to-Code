@@ -1,9 +1,11 @@
 # Screenshot-to-Code
 
-1. [Generating Code from a Graphical User Interface Screenshot](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
-1. [Generating Code from Computer program](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GenerateCode)
+1. [Generating Code from a Graphical User Interface Screenshot](./GenerateCode)
+1. [Generating Code from Computer program](./GenerateCode)
 
-# [GAN（Generative Adversarial Networks）](https://github.com/Microstrong0305/Screenshot-to-Code/tree/master/GAN)
+# [Generative Adversarial Networks(GAN)](./GAN)
+
+# [Graph Neural Network(GNN)](./Graph%20Neural%20Network)
 
 # Deep Neural Networks(DNN)
 1. Sze V, Chen Y H, Yang T J, et al. Efficient processing of deep neural networks: A tutorial and survey[J]. Proceedings of the IEEE, 2017, 105(12): 2295-2329.
@@ -302,6 +304,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [机器学习基石]
 	- [机器学习技法](https://www.bilibili.com/video/av12469267/)
 	- [精心整理 | 林轩田机器学习资源汇总](https://blog.csdn.net/red_stone1/article/details/80517672)
+	- [台大林轩田《机器学习基石》系列课程教材的习题更新完毕了](https://mp.weixin.qq.com/s/0tsBbhTIQEjWBcxQ-FOUcQ)
 1. 《机器学习实战》，[美]Peter Harrington 著；李锐、李鹏、曲亚东、王斌 译
 1. [Scikit-learn 0.19.x 中文文档](http://sklearn.apachecn.org/#/)
 1. [台湾大学李宏毅老师《机器学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
@@ -322,6 +325,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [收藏 | 完备的 AI 学习路线，最详细的资源整理](https://mp.weixin.qq.com/s/CmzvK9xl7ZeQbtOavYKZRw)
 1. [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
 1. [75页机器学习科普大全，附下载](https://mp.weixin.qq.com/s/AGmEItxBTJzk3BXbxrIR4g)
+1. [高清图解 | 神经网络、机器学习、数据科学一网打尽（附PDF下载）](https://mp.weixin.qq.com/s/7VZuV4BXsTDVSf1ut7Y7DQ)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
@@ -366,6 +370,8 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [word2vec 中的数学原理详解（一）目录和前言](https://blog.csdn.net/itplus/article/details/37969519)
 1. [【资源推荐】复旦大学NLP上手教程](https://mp.weixin.qq.com/s/mxMFucqIqNVUgWlWmrdZ3Q)
 1. [自动化所宗成庆研究员：108页PPT干货读懂NLP的过去与现在！（附教材&PPT）](https://mp.weixin.qq.com/s/xgySwq2m-mHT7XG1zZGpzw)
+1. [如何在2019年变成NLP专家](https://mp.weixin.qq.com/s/2KUTOQpN-ES-wDkm5zD68Q)
+1. [干货|NLP相关任务简介](https://mp.weixin.qq.com/s/aW0HmOrpf_KiZFoJrfh1ew)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
@@ -408,6 +414,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [必看！两年美团算法大佬，做的个人总结](https://mp.weixin.qq.com/s/nTB6QzOgUDRODkKNP0k9lA)
 1. [BAT机器学习面试1000题系列](https://github.com/julycoding/BAT-ML-1000)
 	- [博客](https://blog.csdn.net/v_july_v/article/details/78121924)
+	- [1000 面试题，BAT 机器学习面试刷题宝典！](https://mp.weixin.qq.com/s/vprPsXwVqtfw95Cf6rjdXQ)
 1. [干货 | 大公司机器学习算法的面试经验](https://mp.weixin.qq.com/s/v_7VIBa1qO2U3UvTsxizqw)
 
 # 找工作
