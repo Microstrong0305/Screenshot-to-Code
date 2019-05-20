@@ -246,6 +246,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [pdf](https://arxiv.org/pdf/1810.09536.pdf) | [code](https://github.com/yikangshen/Ordered-Neurons)
 	- [ICLR 2019最佳论文揭晓！NLP深度学习、神经网络压缩成焦点](https://mp.weixin.qq.com/s/gdoysR07ukaQKHz5v1B3NA)
 	- [ICLR 2019最佳论文揭晓！NLP深度学习、神经网络压缩成焦点](https://mp.weixin.qq.com/s/gdoysR07ukaQKHz5v1B3NA)
+	- [GitHub-keras复现ON-LSTM](https://github.com/CyberZHG/keras-ordered-neurons) | [keras-ordered-neurons 0.7.0](https://pypi.org/project/keras-ordered-neurons/)
 1. [colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 1. Tai K S, Socher R, Manning C D. Improved semantic representations from tree-structured long short-term memory networks[J]. arXiv preprint arXiv:1503.00075, 2015.
 	- [Tree-Structured LSTM介绍](https://zhuanlan.zhihu.com/p/36608614)
@@ -320,6 +321,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [Github标星1k+，懂点Python就能读懂的机器学习全流程笔记](https://mp.weixin.qq.com/s/LFbycAlVHHYQFmtb37mJYg)
 1. [收藏 | 完备的 AI 学习路线，最详细的资源整理](https://mp.weixin.qq.com/s/CmzvK9xl7ZeQbtOavYKZRw)
 1. [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
+1. [75页机器学习科普大全，附下载](https://mp.weixin.qq.com/s/AGmEItxBTJzk3BXbxrIR4g)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
