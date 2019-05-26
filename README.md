@@ -372,6 +372,7 @@ Description:对图像进行分类并给出分类目标物体的位置。
 1. [如何在2019年变成NLP专家](https://mp.weixin.qq.com/s/2KUTOQpN-ES-wDkm5zD68Q)
 1. [干货|NLP相关任务简介](https://mp.weixin.qq.com/s/aW0HmOrpf_KiZFoJrfh1ew)
 1. [写给NLP研究者的编程指南](https://zhuanlan.zhihu.com/p/48504619)
+1. [NLP研究入门之道：NLP推荐书目](https://mp.weixin.qq.com/s/N-6CjOLvL3p11v9dU85Gow)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。

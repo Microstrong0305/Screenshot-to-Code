@@ -43,6 +43,8 @@
 	- [Hand-drawn wireframe to Sketch](https://uizard.io/blog/hand-drawn-wireframe-to-sketch/)
 1. uizard - Teaching Machines to Understand User Interfaces
 	- [Teaching Machines to Understand User Interfaces](https://uizard.io/blog/teaching-machines-to-understand-user-interfaces/) 
+1. [GitHub-fjbriones/pix2code2](https://github.com/fjbriones/pix2code2)
+	- An attempt to improve pix2code through pretrained autoencoders
 
 
 
