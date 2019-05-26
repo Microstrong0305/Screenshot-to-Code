@@ -247,7 +247,6 @@ Description:对图像进行分类并给出分类目标物体的位置。
 	- [这种有序神经元，像你熟知的循环神经网络吗？](https://www.jiqizhixin.com/articles/2018-12-20-13)
 	- [pdf](https://arxiv.org/pdf/1810.09536.pdf) | [code](https://github.com/yikangshen/Ordered-Neurons)
 	- [ICLR 2019最佳论文揭晓！NLP深度学习、神经网络压缩成焦点](https://mp.weixin.qq.com/s/gdoysR07ukaQKHz5v1B3NA)
-	- [ICLR 2019最佳论文揭晓！NLP深度学习、神经网络压缩成焦点](https://mp.weixin.qq.com/s/gdoysR07ukaQKHz5v1B3NA)
 	- [GitHub-keras复现ON-LSTM](https://github.com/CyberZHG/keras-ordered-neurons) | [keras-ordered-neurons 0.7.0](https://pypi.org/project/keras-ordered-neurons/)
 1. [colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 1. Tai K S, Socher R, Manning C D. Improved semantic representations from tree-structured long short-term memory networks[J]. arXiv preprint arXiv:1503.00075, 2015.

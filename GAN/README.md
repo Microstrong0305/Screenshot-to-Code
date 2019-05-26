@@ -26,4 +26,6 @@
 	- [One Day One GAN [DAY 3]](https://mp.weixin.qq.com/s/0fr6H5xGxmFoNuSxs7z7bQ)
 1. [Keras作者推荐的Github项目，基于TensorFlow2的生成式模型合集](https://mp.weixin.qq.com/s/TbjuE59o9Hnu-ZZePU88ZA)
 1. [GitHub_All-About-the-GANs](https://github.com/hollobit/All-About-the-GAN)
+1. [通俗理解生成对抗网络GAN](https://zhuanlan.zhihu.com/p/33752313?utm_source=wechat_session&utm_medium=social&utm_oi=743812915018104832)
+1. [GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635?utm_source=wechat_session&utm_medium=social&utm_oi=743812915018104832)
 
