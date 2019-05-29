@@ -3,9 +3,9 @@
 1. [Generating Code from a Graphical User Interface Screenshot](./GenerateCode)
 1. [Generating Code from Computer program](./GenerateCode)
 
-# [CNN](./Convolutional%20Neural%20Network)
+# [Convolutional Neural Network(CNN)](./Convolutional%20Neural%20Network)
 
-# [RNN](./Recurren%20Neural%20Network)
+# [Recurrent Neural Network(RNN)](./Recurren%20Neural%20Network)
 
 # [Generative Adversarial Networks(GAN)](./GAN)
 
@@ -13,9 +13,9 @@
 
 # [Deep Neural Networks(DNN)](./Deep%20Neural%20Networks)
 
-# [Computer Vision](./Computer%20Vision)
+# [Computer Vision(CV)](./Computer%20Vision)
 
-# [NLP](./Natural%20Language%20Processing)
+# [Natural Language Processing(NLP)](./Natural%20Language%20Processing)
 
 ***
 
