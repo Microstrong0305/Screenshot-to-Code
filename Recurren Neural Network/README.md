@@ -14,6 +14,7 @@
 	- [pdf](https://arxiv.org/pdf/1810.09536.pdf) | [code](https://github.com/yikangshen/Ordered-Neurons)
 	- [ICLR 2019最佳论文揭晓！NLP深度学习、神经网络压缩成焦点](https://mp.weixin.qq.com/s/gdoysR07ukaQKHz5v1B3NA)
 	- [GitHub-keras复现ON-LSTM](https://github.com/CyberZHG/keras-ordered-neurons) | [keras-ordered-neurons 0.7.0](https://pypi.org/project/keras-ordered-neurons/)
+	- [ICLR 2019最佳论文 | ON-LSTM：用有序神经元表达层次结构](https://mp.weixin.qq.com/s/FyrddfASTD5gSqILnSZM6w)
 1. [colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 1. Tai K S, Socher R, Manning C D. Improved semantic representations from tree-structured long short-term memory networks[J]. arXiv preprint arXiv:1503.00075, 2015.
 	- [Tree-Structured LSTM介绍](https://zhuanlan.zhihu.com/p/36608614)
