@@ -8,6 +8,7 @@
 	- [Attention_Network_With_Keras](https://muffintech.org/blog/id/12/) | [GitHub](https://github.com/Choco31415/Attention_Network_With_Keras)
 	- [keras实现Attention机制](https://www.jianshu.com/p/31c0acf94e0e)
 	- [keras for attention](https://blog.csdn.net/u010041824/article/details/78855435)
+	- [苏剑林-bojone/attention](https://github.com/bojone/attention)
 
 
 # paper中用到的开源库
