@@ -7,6 +7,7 @@
 1. Inan H, Khosravi K, Socher R. Tying word vectors and word classifiers: A loss framework for language modeling[J]. arXiv preprint arXiv:1611.01462, 2016.
 1. [Bert时代的创新：Bert应用模式比较及其它 | 技术头条](https://mp.weixin.qq.com/s/s1bQFdA6gtoHeeQMJKQ8UQ)
 1. [面试题：预训练方法 BERT和OpenAI GPT有什么区别？](https://mp.weixin.qq.com/s/e40kjKwgESBsePz8onmSXw)
+1. [BERT_Paper_Chinese_Translation: BERT论文中文翻译版](https://mp.weixin.qq.com/s/HhW7PcFhrVWjWt1qNx-anQ)
 
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.

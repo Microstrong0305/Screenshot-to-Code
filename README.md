@@ -17,6 +17,8 @@
 
 # [Natural Language Processing(NLP)](./Natural%20Language%20Processing)
 
+# [Algorithm Competition](./Algorithm%20Competition)
+
 ***
 
 # 【算法工程师】学习资料总结
@@ -44,6 +46,7 @@
 1. 《统计学习方法》，李航著
 	- [机器学习必备宝典-《统计学习方法》的python代码实现、电子书及课件](https://mp.weixin.qq.com/s/N7meogGSfU5ZYDhJ4oj86w)
 	- [重磅！李航《统计学习方法》最新资源，笔记、Python 代码一应俱全！](https://mp.weixin.qq.com/s/tZgJRI3zNz7jV8nfMYa5Kg) | [GitHub](https://github.com/SmirkCao/Lihang)
+	- [超全！李航《统计学习方法》读书笔记](https://mp.weixin.qq.com/s/EPy_g08ATMNpRvXzBNDNqw)
 1. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
@@ -77,12 +80,15 @@
 1. [机器学习算法地图](https://mp.weixin.qq.com/s/zAw3IhmwWf4b7hmdwS8XmQ)
 1. [75页机器学习科普大全，附下载](https://mp.weixin.qq.com/s/AGmEItxBTJzk3BXbxrIR4g)
 1. [高清图解 | 神经网络、机器学习、数据科学一网打尽（附PDF下载）](https://mp.weixin.qq.com/s/7VZuV4BXsTDVSf1ut7Y7DQ)
+1. [Yann LeCun都推荐的深度学习资料合集！](https://mp.weixin.qq.com/s/f-IKJcAutOHGnii2mA9CZA) | [A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)
+1. 
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
 ### 书籍和视频
 1. 花书《深度学习》，[美]伊恩.古德费洛(Ian Goodfellow)、 [加]约书亚.本吉奥(Yoshua Bengio)、[加]亚伦.库维尔(Aaron Courville) 著；赵申剑 黎彧君 符天凡 李凯 译 张志华等 审校
 	- [重磅！深度学习圣经“花书”核心笔记、代码发布](https://mp.weixin.qq.com/s/eEiT9_oVR20jQPKp9RenLg) | [GitHub](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries) | [读书笔记](https://medium.com/inveterate-learner/tagged/deep-learning) | [Jeff Macaluso - Blog 笔记](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/)
+	- [重磅！花书《深度学习》，这份精炼笔记可能是最全面的](https://mp.weixin.qq.com/s/MqHH5lMtXn8JP7zv-ZQC4w)
 1. 斯坦福CS231n计算机视觉课程 [网易云课堂](https://study.163.com/course/courseMain.htm?courseId=1003223001&_trace_c_p_k2_=229faec84ed84233a9dd4e5175c5acd5)
 	- [官方笔记|知乎@杜客](https://mp.weixin.qq.com/s/WOyeaEOARZqVgbGEoHB4Og)
 1. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
@@ -110,6 +116,7 @@
 1. [GitHub-AILearning（机器学习实战）](https://github.com/apachecn/AiLearning) | [AILearning（机器学习实战）](https://ailearning.apachecn.org/#/)
 	- [GitHub万星的中文机器学习资源：路线图、视频、电子书、学习建议全在这](https://mp.weixin.qq.com/s/7tnx6THtazHwSMoxuo6aVA)
 1. [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
+1. [【深度学习自学指南】微软&头条实习生现身说法：我是这样进大厂的](https://mp.weixin.qq.com/s/yZoiEN5Nj0O-AyMU-SSBew)
 
 ### Computer Vision（CV）
 1. [【综述】一文览尽计算机视觉各研究方向](https://mp.weixin.qq.com/s/6NEhwfmMe0NY1o16ZiWH1Q)
@@ -164,6 +171,7 @@
 1. [Github项目推荐 | OI Wiki：编程竞赛最全知识整合站点](https://mp.weixin.qq.com/s/XnKbsq9j8pboQLNvn4UvYg)
 1. [机器学习与深度学习核心知识点总结--写在校园招聘即将开始时](https://mp.weixin.qq.com/s/r9D0O0t91Kg9Nfo0WHegzg)
 1. [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions/)
+	- [重磅！《深度学习 500 问》已更新，GitHub 标星 2.6W（附完整下载）](https://mp.weixin.qq.com/s/nyAVMFoOujAz5c1fgjKPAA) | [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
 1. [必看！两年美团算法大佬，做的个人总结](https://mp.weixin.qq.com/s/nTB6QzOgUDRODkKNP0k9lA)
 1. [BAT机器学习面试1000题系列](https://github.com/julycoding/BAT-ML-1000)
 	- [博客](https://blog.csdn.net/v_july_v/article/details/78121924)
