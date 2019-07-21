@@ -91,6 +91,8 @@
 	- [像人一样编辑源代码，谷歌大脑提出神经网络也可以学「编程」](https://mp.weixin.qq.com/s/dNZr3dUQisgPuLfOTAD-kg)
 1. Sun Z, Zhu Q, Mou L, et al. A Grammar-Based Structural CNN Decoder for Code Generation[J]. arXiv preprint arXiv:1811.06837, 2018.
 	- [首次成功用CNN自动生成代码：北大研究者搞定了炉石传说](https://mp.weixin.qq.com/s/dNZr3dUQisgPuLfOTAD-kg)
+1. [杀手级AI补代码工具问世，支持23种语言及5种主流编辑器，程序员沸腾了](https://mp.weixin.qq.com/s/y7MZijv44mVqEWtTzHg4nw)
+	- [TabNine网站](https://tabnine.com/blog/deep) | [Jackson GitHub主页](https://github.com/zxqfl) | [Jackson简历](http://jacobj.ca/resume.html)
 
 ## DSL
 1. Fowler M. Domain-specific languages[M]. Pearson Education, 2010.
