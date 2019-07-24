@@ -48,6 +48,7 @@
 1. 版本控制工具
 	- [深度学习100问-2：深度学习应掌握哪些Git开发技术？](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247485497&idx=1&sn=919b8d24786950b2dbc98d4dac9d61d5&chksm=ec3bad51db4c2447e75e2f1a029a973fa58e090c5e8f252e21bcc3ac97d7cd5110032fce3e04&mpshare=1&scene=1&srcid=&key=f16bdc9aaadd20b99913cf8df40de252b95a3e68b5af03bd871106ee60c6d9c2944530af996de5997029b0f90f4cf6346c6ec5803bd9808832351e41a85278a0f66b14ae01d76c4f54aaef5bf3ee0e2b&ascene=1&uin=MjMxNDE4NDkyNw%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=u5R4KH5HfMK56Iaa8gea9WkSZ28OHYXC%2BYSkYTEfajvKaWvZp34xlI1u4TXZxl6Z)
 	- [Microstrong's GitHub Python-Tutorial-and-Git-Tutorial](https://github.com/Microstrong0305/Python-Tutorial-and-Git-Tutorial/tree/master/git_guide)
+	- [git stash 详解](https://mp.weixin.qq.com/s/V8F9t-5KRhJeA-jhAjTcxw)
 
 ## 机器学习
 1. 《统计学习方法》，李航著
