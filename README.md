@@ -21,6 +21,8 @@
 
 # [Algorithm Competition](./Algorithm%20Competition)
 
+# [Linux](./Linux)
+
 ***
 
 # 【算法工程师】学习资料总结
@@ -144,8 +146,10 @@
 1. [PyTorch](./PyTroch)
 
 ## 进阶学习
-1. 读经典的Paper
+1. 读经典的Paper和复现实验结果
 	- Batch Normalization
+		+ 深度学习中的Normalization模型 [张俊林-知乎](https://zhuanlan.zhihu.com/p/43200897) | [张俊林文章-微信公众号](https://mp.weixin.qq.com/s/BPPGr7_5nVQXXYC5omHRTA)
+		+ [详解深度学习中的Normalization，BN/LN/WN](https://zhuanlan.zhihu.com/p/33173246)
 	- Dropout
 	- 注意力机制
 	- DropConnect：Wan L, Zeiler M, Zhang S, et al. Regularization of neural networks using dropconnect[C]//International conference on machine learning. 2013: 1058-1066.
