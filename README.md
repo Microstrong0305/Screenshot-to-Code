@@ -186,6 +186,8 @@
 	- [博客](https://blog.csdn.net/v_july_v/article/details/78121924)
 	- [1000 面试题，BAT 机器学习面试刷题宝典！](https://mp.weixin.qq.com/s/vprPsXwVqtfw95Cf6rjdXQ)
 1. [干货 | 大公司机器学习算法的面试经验](https://mp.weixin.qq.com/s/v_7VIBa1qO2U3UvTsxizqw)
+1. [重磅！国内大厂技术面试指南，GitHub已获八千星](https://mp.weixin.qq.com/s/17qHfSerbEY4Lf0XyrcCsg) | [GitHub-interview_internal_reference](https://github.com/0voice/interview_internal_reference)
+1. [盘点互联网公司最常见的面试编程题](https://mp.weixin.qq.com/s/_Jnbay3J6qGOB_aSfAXUJQ)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
