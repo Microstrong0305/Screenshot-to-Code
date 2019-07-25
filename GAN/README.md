@@ -1,6 +1,7 @@
 # GAN（Generative Adversarial Networks）
 1. [王飞跃教授：生成式对抗网络GAN的研究进展与展望](https://mp.weixin.qq.com/s/gvzZaXe6gxD6r5Rn7qiDBQ)
 1. 王坤峰, 苟超, 段艳杰, 林懿伦, 郑心湖, 王飞跃. 生成式对抗网络GAN 的研究进展与展望. 自动化学报, 2017,43(3): 321-332
+1. 林懿伦, 戴星原, 李力, et al. 人工智能研究的新前线:生成式对抗网络[J]. 自动化学报, 2018, v.44(05):10-27.
 1. Liu X, Kong X, Liu L, et al. TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks[C]//2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018: 1140-1145.
 	- [TreeGAN：为序列生成任务构建有句法意识的GAN](https://www.jiqizhixin.com/articles/2018-10-06)
 1. [涂鸦涂出摄影大片：英伟达「高更」GAN让简笔画秒变逼真图像](https://mp.weixin.qq.com/s/n55dKiekvIw-Ewvie3L5kw)
