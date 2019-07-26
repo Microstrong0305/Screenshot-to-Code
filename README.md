@@ -92,6 +92,7 @@
 1. [75页机器学习科普大全，附下载](https://mp.weixin.qq.com/s/AGmEItxBTJzk3BXbxrIR4g)
 1. [高清图解 | 神经网络、机器学习、数据科学一网打尽（附PDF下载）](https://mp.weixin.qq.com/s/7VZuV4BXsTDVSf1ut7Y7DQ)
 1. [Yann LeCun都推荐的深度学习资料合集！](https://mp.weixin.qq.com/s/f-IKJcAutOHGnii2mA9CZA) | [A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)
+1. [最新版开源书《Python 机器学习》分享](https://mp.weixin.qq.com/s/jHLOlSrDmQYAT9XtM05utg)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
@@ -131,6 +132,7 @@
 ### Computer Vision（CV）
 1. [【综述】一文览尽计算机视觉各研究方向](https://mp.weixin.qq.com/s/6NEhwfmMe0NY1o16ZiWH1Q)
 1. [一文带你读懂计算机视觉](https://zhuanlan.zhihu.com/p/52116081)
+1. [一文带你搞懂计算机视觉，从技术基础到RNN、GAN！](https://mp.weixin.qq.com/s/FSGpBcuT6j4r-yU7fYW6LQ)
 
 ### Natural Language Processing（NLP）
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
@@ -154,6 +156,7 @@
 	- Batch Normalization
 		+ 深度学习中的Normalization模型 [张俊林-知乎](https://zhuanlan.zhihu.com/p/43200897) | [张俊林文章-微信公众号](https://mp.weixin.qq.com/s/BPPGr7_5nVQXXYC5omHRTA)
 		+ [详解深度学习中的Normalization，BN/LN/WN](https://zhuanlan.zhihu.com/p/33173246)
+		+ [回顾 | Facebook人工智能实验室研究工程师吴育昕：Devils in BatchNorm](https://mp.weixin.qq.com/s/Tr023HjlCTvYA0xYXCAVEA)
 	- Dropout
 	- 注意力机制
 	- DropConnect：Wan L, Zeiler M, Zhang S, et al. Regularization of neural networks using dropconnect[C]//International conference on machine learning. 2013: 1058-1066.
