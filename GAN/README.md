@@ -15,10 +15,9 @@
 1. [关于GAN的灵魂七问](https://mp.weixin.qq.com/s/ErmGAsSHvCOxCn97yZ4WJQ)
 	- [关于GAN的七个问题：谷歌大脑工程师带你梳理生成对抗网络的过去未来](https://mp.weixin.qq.com/s/SMGyHaUKthMqDGG6blxrXA)
 1. [资源 | 《GAN实战：生成对抗网络深度学习》牛津大学Jakub著作（附下载）](https://mp.weixin.qq.com/s/XjVsvsEFYYdEu-F7rriNuQ)
-1. [GAN生成图像综述](https://mp.weixin.qq.com/s/LJfsadhp3WGi0tLXN7jCUA)
+1. [GAN生成图像综述](https://mp.weixin.qq.com/s/LJfsadhp3WGi0tLXN7jCUA) | [GAN生成图像综述](https://mp.weixin.qq.com/s/w7Y8qK2UbVGqa1dcOagnDA)
 1. [从DCGAN到SELF-MOD：GAN的模型架构发展一览](https://mp.weixin.qq.com/s/9GeryvW5PI93FCmTpuFEPQ)
 1. [一篇注入了灵魂的 cycleGAN 代码解读](https://mp.weixin.qq.com/s/p_r3Q1qOWwlsHrKOxW8jjw)
-1. [GAN生成图像综述](https://mp.weixin.qq.com/s/w7Y8qK2UbVGqa1dcOagnDA)
 1. [GAN初创者另有其人？IanGoodfellow：只是纯策略版本](https://mp.weixin.qq.com/s/x7IN-Ce8NTwN1LD2p_70VQ)
 	- [“我比Goodfellow提前三年想到了GAN”](https://mp.weixin.qq.com/s/p5n57wSCu-9Rh-_1MJNY8Q)
 	- [GAN之父身份遭质疑！一篇2010年的博客挑战Ian Goodfellow](https://mp.weixin.qq.com/s/769VicioXm2G--ww5OVRZw)
@@ -31,4 +30,5 @@
 1. [GitHub_All-About-the-GANs](https://github.com/hollobit/All-About-the-GAN)
 1. [通俗理解生成对抗网络GAN](https://zhuanlan.zhihu.com/p/33752313?utm_source=wechat_session&utm_medium=social&utm_oi=743812915018104832)
 1. [GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635?utm_source=wechat_session&utm_medium=social&utm_oi=743812915018104832)
+1. [一文了解下 GANs可以做到的事情](https://mp.weixin.qq.com/s/twDS3pNo_WGm1Ka2_2RuQA)
 

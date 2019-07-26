@@ -19,9 +19,11 @@
 
 # [Recommendation System](Recommendation%20System)
 
-# [Algorithm Competition](./Algorithm%20Competition)
+# [Algorithm Competition（ML/DL）](./Algorithm%20Competition)
 
 # [Linux](./Linux)
+
+# [Data Structure and Algorithm](./Data%20Structure%20and%20Algorithm)
 
 ***
 
@@ -30,10 +32,10 @@
 1. [从小白到入门算法，我的经验分享给你～](https://mp.weixin.qq.com/s/vJaNR6M7HAAwhY8Vv6CPjA)
 
 ## 基础知识
-1. 数学基础
+1. **数学基础**
 	- 帮助你快速搞懂机器学习中的数学知识
 	- [GitHub上读北大：覆盖AI高数等130多门课，讲义考题答案全都有，标星已3k+](https://mp.weixin.qq.com/s/Jx4F-FRvpXK4JQdaqqYFhQ) | [GitHub](https://github.com/lib-pku/libpku)
-1. 帮助你快速搞懂Python用法与基础操作
+1. **帮助你快速搞懂Python用法与基础操作**
 	- [廖雪峰的官方网站-Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
 	- [Python爱好者社区历史文章列表（每周append更新一次）](https://mp.weixin.qq.com/s/-j4u6Q4KpAfTQZnlaO0vgw)
 	- [莫烦PYTHON](https://morvanzhou.github.io/)
@@ -45,7 +47,8 @@
 	- 《流畅的Python》，[巴西]Luciano Ramalho著，安道 吴珂译。深入了解一些Python的知识，加深了自己对于Python里面内存管理、常用函数、类等的认识。
 	- [Python 热图进阶](https://mp.weixin.qq.com/s/-oyHI9Byey33ebNud-IPCw)
 	- [1.2w 星！火爆 GitHub 的 Python 学习 100 天](https://mp.weixin.qq.com/s/5n_9E2ZSR8wC-I60RsQnJg) | [GitHub-Python-100-Days](https://github.com/jackfrued/Python-100-Days)
-1. 版本控制工具
+	- [Python 的练手项目有哪些值得推荐？ - 知乎](https://www.zhihu.com/question/29372574)
+1. **版本控制工具**
 	- [深度学习100问-2：深度学习应掌握哪些Git开发技术？](https://mp.weixin.qq.com/s?__biz=MzI4ODY2NjYzMQ==&mid=2247485497&idx=1&sn=919b8d24786950b2dbc98d4dac9d61d5&chksm=ec3bad51db4c2447e75e2f1a029a973fa58e090c5e8f252e21bcc3ac97d7cd5110032fce3e04&mpshare=1&scene=1&srcid=&key=f16bdc9aaadd20b99913cf8df40de252b95a3e68b5af03bd871106ee60c6d9c2944530af996de5997029b0f90f4cf6346c6ec5803bd9808832351e41a85278a0f66b14ae01d76c4f54aaef5bf3ee0e2b&ascene=1&uin=MjMxNDE4NDkyNw%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=u5R4KH5HfMK56Iaa8gea9WkSZ28OHYXC%2BYSkYTEfajvKaWvZp34xlI1u4TXZxl6Z)
 	- [Microstrong's GitHub Python-Tutorial-and-Git-Tutorial](https://github.com/Microstrong0305/Python-Tutorial-and-Git-Tutorial/tree/master/git_guide)
 	- [git stash 详解](https://mp.weixin.qq.com/s/V8F9t-5KRhJeA-jhAjTcxw)
