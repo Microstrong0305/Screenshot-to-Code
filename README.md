@@ -144,6 +144,7 @@
 1. [干货|NLP相关任务简介](https://mp.weixin.qq.com/s/aW0HmOrpf_KiZFoJrfh1ew)
 1. [写给NLP研究者的编程指南](https://zhuanlan.zhihu.com/p/48504619)
 1. [NLP研究入门之道：NLP推荐书目](https://mp.weixin.qq.com/s/N-6CjOLvL3p11v9dU85Gow)
+1. [如何学习自然语言处理（综合版）](https://mp.weixin.qq.com/s/lJYp4hUZVsp-Uj-5NqoaYQ)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
@@ -194,6 +195,7 @@
 1. [干货 | 大公司机器学习算法的面试经验](https://mp.weixin.qq.com/s/v_7VIBa1qO2U3UvTsxizqw)
 1. [重磅！国内大厂技术面试指南，GitHub已获八千星](https://mp.weixin.qq.com/s/17qHfSerbEY4Lf0XyrcCsg) | [GitHub-interview_internal_reference](https://github.com/0voice/interview_internal_reference)
 1. [盘点互联网公司最常见的面试编程题](https://mp.weixin.qq.com/s/_Jnbay3J6qGOB_aSfAXUJQ)
+1. [经验 | 我心目中招聘深度学习算法工程师的标准](https://mp.weixin.qq.com/s/g53mVXLTMyHfFx4Pc2PdfA)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
