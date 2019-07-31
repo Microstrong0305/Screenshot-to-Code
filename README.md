@@ -197,6 +197,7 @@
 1. [重磅！国内大厂技术面试指南，GitHub已获八千星](https://mp.weixin.qq.com/s/17qHfSerbEY4Lf0XyrcCsg) | [GitHub-interview_internal_reference](https://github.com/0voice/interview_internal_reference)
 1. [盘点互联网公司最常见的面试编程题](https://mp.weixin.qq.com/s/_Jnbay3J6qGOB_aSfAXUJQ)
 1. [经验 | 我心目中招聘深度学习算法工程师的标准](https://mp.weixin.qq.com/s/g53mVXLTMyHfFx4Pc2PdfA)
+1. [本科非CS，我怎么拿到了2个年薪40万的算法offer](https://mp.weixin.qq.com/s/7xUvBlrLfWFKYVRxOpkcnw)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
