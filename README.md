@@ -176,6 +176,7 @@
 
 1. 深度学习网络画图工具
 	- [那些酷炫的深度学习网络图怎么画出来的？](https://mp.weixin.qq.com/s/ASjckYfAxqpEpIDlmCcTVA)
+1. [NLP的7个经典项目](https://mp.weixin.qq.com/s/5TeFypA_u9__XmPwqqk-3g)
 
 # 面试+笔试
 1. [【GitHub】2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
