@@ -128,6 +128,7 @@
 	- [GitHub万星的中文机器学习资源：路线图、视频、电子书、学习建议全在这](https://mp.weixin.qq.com/s/7tnx6THtazHwSMoxuo6aVA)
 1. [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
 1. [【深度学习自学指南】微软&头条实习生现身说法：我是这样进大厂的](https://mp.weixin.qq.com/s/yZoiEN5Nj0O-AyMU-SSBew)
+1. [O'Reilly 新书：《生成式深度学习》，近 5 年最先进 GAN 一网打全！](https://mp.weixin.qq.com/s/YZRC-fuRVVafEIOFbvN8-g)
 
 ### Computer Vision（CV）
 1. [【综述】一文览尽计算机视觉各研究方向](https://mp.weixin.qq.com/s/6NEhwfmMe0NY1o16ZiWH1Q)
