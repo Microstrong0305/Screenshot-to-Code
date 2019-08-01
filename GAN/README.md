@@ -34,3 +34,4 @@
 1. [一文了解下 GANs可以做到的事情](https://mp.weixin.qq.com/s/twDS3pNo_WGm1Ka2_2RuQA)
 1. [【专知荟萃11】GAN生成式对抗网络知识资料全集（理论/报告/教程/综述/代码等）](https://mp.weixin.qq.com/s/Q_-0fdYv_9MT5VDtIyhCyw)
 1. [GAN的五大有趣应用](https://mp.weixin.qq.com/s/Fj5InqOMZaW37BbvHJ1NAQ)
+1. [从泛化性到Mode Collapse：关于GAN的一些思考](https://zhuanlan.zhihu.com/p/36410443)
