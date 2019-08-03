@@ -19,6 +19,8 @@
 
 # [Recommendation System](Recommendation%20System)
 
+# [智能风控](./智能风控)
+
 # [Algorithm Competition（ML/DL）](./Algorithm%20Competition)
 
 # [Linux](./Linux)
