@@ -2,8 +2,21 @@
 1. [jadianes/spark-movie-lens](https://github.com/jadianes/spark-movie-lens)
 1. [在线图书推荐系统的实现含源码（协同过滤）](https://zhuanlan.zhihu.com/p/31473161)
 	- [XuefengHuang/RecommendationSystem](https://github.com/XuefengHuang/RecommendationSystem)
+1. 开发环境的搭建
+	- [Windows和PC机上搭建Spark+Python开发环境的详细步骤]( https://mp.weixin.qq.com/s?__biz=MzI5MzIwNDI1MQ==&mid=2650120932&idx=5&sn=fa924c8677411661a31df945b330c028&chksm=f474ba90c303338678dcd26edd5707d667c4bbe4a93b1f4e33591892cd858fd2da8db988be38&mpshare=1&scene=23&srcid=0117k0pBqKT5ucoXacbBHMfW&client=tim&ADUIN=278793087&ADSESSION=1517886579&ADTAG=CLIENT.QQ.5537_.0&ADPUBNO=26752#rd)
 1. [深入FFM原理与实践](https://tech.meituan.com/2016/03/03/deep-understanding-of-ffm-principles-and-practices.html)
-1. [【专知荟萃10】推荐系统RS知识资料全集（入门/进阶/论文/综述/视频/代码等）](https://mp.weixin.qq.com/s/hlkTdxbtShKnQFmD-bSSSw)
-1. [Kaggle实战——点击率预估](https://zhuanlan.zhihu.com/p/32500652)
 1. [DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955)
 	- [shenweichen/DeepCTR](https://github.com/shenweichen/DeepCTR)
+	- [知乎：DeepCTR：易用可扩展的深度学习点击率预测算法包](https://zhuanlan.zhihu.com/p/53231955)
+	- [CTR预估系列：DeepCTR 一个基于深度学习的CTR模型包](https://tianchi.aliyun.com/notebook-ai/detail?postId=64412)
+1. Kaggle实战——点击率预估
+	- [Kaggle实战——点击率预估](https://zhuanlan.zhihu.com/p/32500652)
+	- [GitHub](https://github.com/chengstone/kaggle_criteo_ctr_challenge-)
+	- [用x-deeplearning训练criteo数据集](https://zhuanlan.zhihu.com/p/62604326)
+1. 推荐系统RS知识资料全集（入门/进阶/论文/综述/视频/代码等）
+	- [【专知荟萃10】推荐系统RS知识资料全集（入门/进阶/论文/综述/视频/代码等）](https://mp.weixin.qq.com/s/hlkTdxbtShKnQFmD-bSSSw)
+	- [协同过滤推荐算法总结](https://www.cnblogs.com/pinard/p/6349233.html)
+1. Github项目推荐 | 推荐系统实例与最佳实践 by 微软
+	- [Github项目推荐 | 推荐系统实例与最佳实践 by 微软](https://ai.yanxishe.com/page/blogDetail/9765)
+	- [GitHub](https://github.com/Microsoft/Recommenders)
+

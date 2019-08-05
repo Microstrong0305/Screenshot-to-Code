@@ -95,6 +95,7 @@
 1. [高清图解 | 神经网络、机器学习、数据科学一网打尽（附PDF下载）](https://mp.weixin.qq.com/s/7VZuV4BXsTDVSf1ut7Y7DQ)
 1. [Yann LeCun都推荐的深度学习资料合集！](https://mp.weixin.qq.com/s/f-IKJcAutOHGnii2mA9CZA) | [A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)
 1. [最新版开源书《Python 机器学习》分享](https://mp.weixin.qq.com/s/jHLOlSrDmQYAT9XtM05utg)
+1. [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s/uR99CyiU5fEdYlqdeu75uQ)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
