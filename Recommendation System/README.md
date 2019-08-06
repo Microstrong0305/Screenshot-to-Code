@@ -19,4 +19,3 @@
 1. Github项目推荐 | 推荐系统实例与最佳实践 by 微软
 	- [Github项目推荐 | 推荐系统实例与最佳实践 by 微软](https://ai.yanxishe.com/page/blogDetail/9765)
 	- [GitHub](https://github.com/Microsoft/Recommenders)
-
