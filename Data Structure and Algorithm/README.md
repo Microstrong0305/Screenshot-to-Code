@@ -1,7 +1,7 @@
 # Data Structure and Algorithm
 
 ## 《剑指offer》
-1. [栈的压入、弹出序列](/剑指offer代码/isPopOrder.py)
+1. [栈的压入、弹出序列](剑指offer代码/isPopOrder.py)
 
 
 ## 算法好文 
