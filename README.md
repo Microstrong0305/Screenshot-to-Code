@@ -180,6 +180,7 @@
 1. 有趣项目
 	- [AI玩微信跳一跳的正确姿势 --跳一跳Auto-Jump算法详解](https://zhuanlan.zhihu.com/p/32636329)
 	- [真·佛系研究：日本开发佛像情绪识别器，还能寻找你的“真命天佛”](https://mp.weixin.qq.com/s/UYgqI4lUxUzDoW-ihDn__A)
+	- [人工智能与艺术专题丨近代AI作曲技术](https://mp.weixin.qq.com/s/bu526QLY7xuuN3Fl-fPsaw)
 
 1. 深度学习网络画图工具
 	- [那些酷炫的深度学习网络图怎么画出来的？](https://mp.weixin.qq.com/s/ASjckYfAxqpEpIDlmCcTVA)
