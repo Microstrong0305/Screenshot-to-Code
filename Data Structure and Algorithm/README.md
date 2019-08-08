@@ -1,6 +1,6 @@
 # Data Structure and Algorithm
 
-## 《剑指offer》
+## 《剑指offer》 | 博客(解题思路)+代码
 1. [二进制中1的个数](剑指offer代码/numberof1.py)
 1. [数值的整数次方](剑指offer代码/Power.py)
 1. [调整数组顺序使奇数位于偶数前面](剑指offer代码/reOrderArray.py)
@@ -9,7 +9,7 @@
 1. [包含min函数的栈](剑指offer代码/min.py)
 1. [栈的压入、弹出序列](剑指offer代码/isPopOrder.py)
 
-## LeetCode代码
+## LeetCode | 博客(解题思路)+代码
 1. [53. Maximum Subarray]()
 1. [62. Unique Paths](LeetCode代码/uniquePaths_62.py)
 1. [63. Unique Paths II](LeetCode代码/uniquePaths_62.py)
