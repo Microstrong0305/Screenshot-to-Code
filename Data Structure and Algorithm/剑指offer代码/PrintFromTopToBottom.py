@@ -9,23 +9,29 @@ class Solution:
 
     def PrintFromTopToBottom(self, root):
         # 当节点非空时才进行操作
+        if not root:
+            return []
+
         if root != None:
             # 用于存放还未遍历的元素
             list = []
+            # 用于存放最终的结果
+            result = []
             # 将根节点入队
             list.append(root)
             # 队列非空则进行处理
             while list:
                 # 删除队首元素
                 curNode = list.pop(0)
-                # 输出对首元素的值
-                print(curNode.val)
+                # 输出队首元素的值
+                result.append(curNode.val)
                 # 如果左子结点不为空，则左子节点入队
                 if curNode.left != None:
                     list.append(curNode.left)
                 # 如果右子节点不为空，则右子节点入队
                 if curNode.right != None:
                     list.append(curNode.right)
+        return result
 
 if __name__ == "__main__":
 
@@ -91,7 +97,7 @@ if __name__ == "__main__":
     root.right.right.right.right = TreeNode(8)
 
     sol = Solution()
-    sol.PrintFromTopToBottom(root)
+    print(sol.PrintFromTopToBottom(root))
 
 # Reference
 #[1] https://wiki.jikexueyuan.com/project/for-offer/question-twenty-three.html
