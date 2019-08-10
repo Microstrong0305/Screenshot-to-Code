@@ -8,6 +8,7 @@
 1. [顺时针打印矩阵](剑指offer代码/printMatrix.py)
 1. [包含min函数的栈](剑指offer代码/min.py)
 1. [栈的压入、弹出序列](剑指offer代码/isPopOrder.py)
+1. [从上往下打印二叉树](剑指offer代码/PrintFromTopToBottom.py)
 
 ## LeetCode | 博客(解题思路)+代码
 1. [53. Maximum Subarray]()
