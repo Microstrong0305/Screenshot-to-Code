@@ -132,6 +132,7 @@
 	- [书籍介绍](https://nndl.github.io/) | [书籍-GitHub](https://github.com/nndl/nndl.github.io)
 	- [邱锡鹏教授新书《神经网络与深度学习》，正式开源发布！](https://mp.weixin.qq.com/s/t6Te3NCLJ7MGlSdWg0MWgw)
 1. [吴恩达 CS230 深度学习课开学了！秋季视频全部上线，课件小抄应有尽有](https://mp.weixin.qq.com/s/HZF8IbMGH6lh0p_eJVpIKw)
+	- [吴恩达授课，斯坦福CS230深度学习课程资源开放](https://zhuanlan.zhihu.com/p/38327238)
 1. [深度学习理论与实战：提高篇](http://fancyerii.github.io/2019/03/14/dl-book/)
 	- [免费中文深度学习全书：不仅有理论，还有配套代码分析](https://mp.weixin.qq.com/s/RgvcbLZbg0bj6BKxgTzDrg)
 	- [免费！中文深度学习全书：配套理论分析及代码分析（附资源）](https://mp.weixin.qq.com/s/bdi2J8C3wwTaMusXhWAzdQ)
