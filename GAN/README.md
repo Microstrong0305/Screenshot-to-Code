@@ -2,7 +2,7 @@
 1. [王飞跃教授：生成式对抗网络GAN的研究进展与展望](https://mp.weixin.qq.com/s/gvzZaXe6gxD6r5Rn7qiDBQ)
 1. 王坤峰, 苟超, 段艳杰, 林懿伦, 郑心湖, 王飞跃. 生成式对抗网络GAN 的研究进展与展望. 自动化学报, 2017,43(3): 321-332
 1. 林懿伦, 戴星原, 李力, et al. 人工智能研究的新前线:生成式对抗网络[J]. 自动化学报, 2018, v.44(05):10-27.
-1. [【专知荟萃11】GAN生成式对抗网络知识资料全集（理论/报告/教程/综述/代码等）]()
+1. [【专知荟萃11】GAN生成式对抗网络知识资料全集（理论/报告/教程/综述/代码等）](https://mp.weixin.qq.com/s/Q_-0fdYv_9MT5VDtIyhCyw)
 1. Liu X, Kong X, Liu L, et al. TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks[C]//2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018: 1140-1145.
 	- [TreeGAN：为序列生成任务构建有句法意识的GAN](https://www.jiqizhixin.com/articles/2018-10-06)
 1. [涂鸦涂出摄影大片：英伟达「高更」GAN让简笔画秒变逼真图像](https://mp.weixin.qq.com/s/n55dKiekvIw-Ewvie3L5kw)
@@ -32,8 +32,12 @@
 1. [通俗理解生成对抗网络GAN](https://zhuanlan.zhihu.com/p/33752313?utm_source=wechat_session&utm_medium=social&utm_oi=743812915018104832)
 1. [GAN原理学习笔记](https://zhuanlan.zhihu.com/p/27295635?utm_source=wechat_session&utm_medium=social&utm_oi=743812915018104832)
 1. [一文了解下 GANs可以做到的事情](https://mp.weixin.qq.com/s/twDS3pNo_WGm1Ka2_2RuQA)
-1. [【专知荟萃11】GAN生成式对抗网络知识资料全集（理论/报告/教程/综述/代码等）](https://mp.weixin.qq.com/s/Q_-0fdYv_9MT5VDtIyhCyw)
 1. [GAN的五大有趣应用](https://mp.weixin.qq.com/s/Fj5InqOMZaW37BbvHJ1NAQ)
 1. [从泛化性到Mode Collapse：关于GAN的一些思考](https://zhuanlan.zhihu.com/p/36410443)
 1. [必读的10篇关于GAN的论文](https://zhuanlan.zhihu.com/p/72745900?utm_source=wechat_session&utm_medium=social&utm_oi=743812915018104832)
 1. [【GAN模型结构】从最简单的全卷积GAN一起开始玩转GAN](https://mp.weixin.qq.com/s/1T_5pmXckF4GS6sv4RMO0g)
+1. Xu Q , Huang G , Yuan Y , et al. An empirical study on evaluation metrics of generative adversarial networks[J]. 2018.
+	-生成对抗网络的评估目前仍以定性评估和一些可靠性较差的指标为主，这阻碍了问题的细化，并具有误导性的风险。本文讨论了多个GAN评估指标，并从多个方面对评估指标进行了实验评估，包括 Inception Score、Mode Score、Kernel MMD、Wasserstein 距离、Fréchet Inception Distance、1-NN分类器。实验得出了综合性的结论，选出了两个表现优越的指标，
+	该研究在定量评估、对比、改进 GAN 的方向上迈出了重要的一步。
+
+
