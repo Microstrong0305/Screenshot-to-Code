@@ -5,9 +5,16 @@
 
 # [Convolutional Neural Network(CNN)](./Convolutional%20Neural%20Network)
 
+1. CNN基本概念
+1. 关于CNN中容易困惑问题总结
+
 # [Recurrent Neural Network(RNN)](./Recurren%20Neural%20Network)
 
+1. RNN及其变体
+
 # [Generative Adversarial Networks(GAN)](./GAN)
+
+1. GAN学习资料总结
 
 # [Graph Neural Network(GNN)](./Graph%20Neural%20Network)
 
@@ -17,13 +24,15 @@
 
 # [Natural Language Processing(NLP)](./Natural%20Language%20Processing)
 
-# [Recommendation System](Recommendation%20System)
+# [Recommendation System(RS)](Recommendation%20System)
 
 # [智能风控](./智能风控)
 
 # [Algorithm Competition（ML/DL）](./Algorithm%20Competition)
 
 # [Linux](./Linux)
+
+# [Python](./Python)
 
 # [Data Structure and Algorithm](./Data%20Structure%20and%20Algorithm)
 
@@ -70,6 +79,7 @@
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
 		- [GitHub](https://github.com/datawhalechina/pumpkin-book) | [在线阅读地址](https://datawhalechina.github.io/pumpkin-book/#/)
+	- [周志华《机器学习》西瓜书精炼版笔记来了！16 章完整版](https://mp.weixin.qq.com/s/2a182fMfdNuAyw1hfvn7jg)
 1. 《百面机器学习》，诸葛越主编、葫芦娃著
 1. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm)
 1. 林轩田《机器学习》视频
@@ -147,6 +157,7 @@
 1. [【综述】一文览尽计算机视觉各研究方向](https://mp.weixin.qq.com/s/6NEhwfmMe0NY1o16ZiWH1Q)
 1. [一文带你读懂计算机视觉](https://zhuanlan.zhihu.com/p/52116081)
 1. [一文带你搞懂计算机视觉，从技术基础到RNN、GAN！](https://mp.weixin.qq.com/s/FSGpBcuT6j4r-yU7fYW6LQ)
+1. [有三AI发布360页11万字深度学习CV算法工程师成长指导手册，可下载收藏打印，未完待续](https://mp.weixin.qq.com/s/qTdD6AnNaqn8HYl_7ySQBQ)
 
 ### Natural Language Processing（NLP）
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
