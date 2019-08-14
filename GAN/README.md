@@ -37,7 +37,7 @@
 1. [必读的10篇关于GAN的论文](https://zhuanlan.zhihu.com/p/72745900?utm_source=wechat_session&utm_medium=social&utm_oi=743812915018104832)
 1. [【GAN模型结构】从最简单的全卷积GAN一起开始玩转GAN](https://mp.weixin.qq.com/s/1T_5pmXckF4GS6sv4RMO0g)
 1. Xu Q , Huang G , Yuan Y , et al. An empirical study on evaluation metrics of generative adversarial networks[J]. 2018.
-	-生成对抗网络的评估目前仍以定性评估和一些可靠性较差的指标为主，这阻碍了问题的细化，并具有误导性的风险。本文讨论了多个GAN评估指标，并从多个方面对评估指标进行了实验评估，包括 Inception Score、Mode Score、Kernel MMD、Wasserstein 距离、Fréchet Inception Distance、1-NN分类器。实验得出了综合性的结论，选出了两个表现优越的指标，
+	- 生成对抗网络的评估目前仍以定性评估和一些可靠性较差的指标为主，这阻碍了问题的细化，并具有误导性的风险。本文讨论了多个GAN评估指标，并从多个方面对评估指标进行了实验评估，包括 Inception Score、Mode Score、Kernel MMD、Wasserstein 距离、Fréchet Inception Distance、1-NN分类器。实验得出了综合性的结论，选出了两个表现优越的指标，
 	该研究在定量评估、对比、改进 GAN 的方向上迈出了重要的一步。
 
 
