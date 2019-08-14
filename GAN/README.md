@@ -6,8 +6,8 @@
 1. Liu X, Kong X, Liu L, et al. TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks[C]//2018 IEEE International Conference on Data Mining (ICDM). IEEE, 2018: 1140-1145.
 	- [TreeGAN：为序列生成任务构建有句法意识的GAN](https://www.jiqizhixin.com/articles/2018-10-06)
 1. [涂鸦涂出摄影大片：英伟达「高更」GAN让简笔画秒变逼真图像](https://mp.weixin.qq.com/s/n55dKiekvIw-Ewvie3L5kw)
-1. **[万字综述之生成对抗网络（GAN）](https://mp.weixin.qq.com/s/ZIJAdOGgdrOKCdXkEBDyMA)
-	- [GAN万字长文综述](https://zhuanlan.zhihu.com/p/58812258)**
+1. **已读** [万字综述之生成对抗网络（GAN）](https://mp.weixin.qq.com/s/ZIJAdOGgdrOKCdXkEBDyMA)
+	- [GAN万字长文综述](https://zhuanlan.zhihu.com/p/58812258)
 1. Hong, Y., Hwang, U., Yoo, J., & Yoon, S. (2019). How Generative Adversarial Networks and Their Variants Work: An Overview. ACM Comput. Surv., 52, 10:1-10:43.
 1. [到底什么是生成式对抗网络GAN？](https://mp.weixin.qq.com/s/e1mysL4DlL0RiHQBmXHNOg)
 1. [干货 | 论文解读：GAN在网络特征学习中的应用](https://mp.weixin.qq.com/s?__biz=MzAwMTA3MzM4Nw==&mid=2649442783&idx=1&sn=7263a483b50ac01ca29c8ee07caa852b&chksm=82c0a05bb5b7294d7bfa8b1d5522a21cc126825f3eeb0428c7551452b0437e13182d102b0945&scene=21#wechat_redirect)
