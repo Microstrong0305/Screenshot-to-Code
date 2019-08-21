@@ -22,6 +22,7 @@
 1. [21. 包含min函数的栈](剑指offer代码/min.py)
 1. [22. 栈的压入、弹出序列](剑指offer代码/isPopOrder.py)
 1. [23. 从上往下打印二叉树](剑指offer代码/PrintFromTopToBottom.py)
+1. [24. 二叉搜索树的后续遍历序列](剑指offer代码/VerifySquenceOfBST.py)
 1. [30. 最小的K个数](剑指offer代码/java/GetLeastNumbers_30_1.java) | [code2](剑指offer代码/java/GetLeastNumbers_30_2.java)
 1. [31. 连续子数组的最大和](剑指offer代码/java/greatestSumOfSubArray_31.java)
 1. [34. 丑数](剑指offer代码/java/ugleNum_34.java) | [code2](剑指offer代码/java/ugleNum_34_2.java)
