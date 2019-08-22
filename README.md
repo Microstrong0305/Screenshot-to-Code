@@ -193,6 +193,7 @@
 1. 比赛实战
 	- [阿里天池竞赛](https://tianchi.aliyun.com/competition/gameList/activeList)
 	- [Kaggle](https://www.kaggle.com/)
+	- [这两年：我的数据竞赛之路](https://mp.weixin.qq.com/s/bpKNWjIXuXsUKclunbJvVQ)
 
 1. 项目实战
 1. 有趣项目
