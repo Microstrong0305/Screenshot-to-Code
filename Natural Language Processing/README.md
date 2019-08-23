@@ -101,3 +101,6 @@
 1. [seq2seq中的beam search算法过程](https://zhuanlan.zhihu.com/p/28048246)
 1. [beam search原理以及在NLP中应用](https://www.jianshu.com/p/bc3beb101885)
 1. [Beam Search](https://mp.weixin.qq.com/s/57yovUUAoWiiMoxMMQWB_A)
+
+### Quality Assessment of Articles
+1. [Aili Shen, Jianzhong Qi and Timothy Baldwin. 2017. A Hybrid Model for Quality Assessment of Wikipedia Articles. In Proceedings of Australasian Language Technology Association Workshop, pages 43](./A%20Hybrid%20Model%20for%20Quality%20Assessment%20of%20Wikipedia%20Articles)
