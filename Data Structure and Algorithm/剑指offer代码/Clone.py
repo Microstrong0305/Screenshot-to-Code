@@ -23,11 +23,106 @@ class Solution:
         self.ConnectSiblingNodes(pHead)
         return self.ReconnectNodes(pHead)
 
+    # 复制复杂链表的第一步
     def CloneNodes(self, pHead):
-        return
+        pNode = pHead
+        while(pNode != None):
+            pCloned = RandomListNode(None)
+            pCloned.label = pNode.label
+            pCloned.next = pNode.next
+            pCloned.random = None
 
+            pNode.next = pCloned
+            pNode = pCloned.next
+
+    # 复制复杂链表的第二步
     def ConnectSiblingNodes(self, pHead):
-        return
+        pNode = pHead
+        while pNode != None:
+            pCloned = pNode.next
+            if pNode.random != None:
+                pCloned.random = pNode.random.next
+            pNode = pCloned.next
 
+    # 复制复杂链表的第三步
     def ReconnectNodes(self, pHead):
-        return
+        pNode = pHead
+        pClonedHead = None
+        pClonedNode = None
+
+        if pNode != None:
+            pClonedHead = pClonedNode = pNode.next
+            pNode.next = pClonedNode.next
+            pNode = pNode.next
+
+        while pNode != None:
+            pClonedNode.next = pNode.next
+            pClonedNode = pClonedNode.next
+            pNode.next = pClonedNode.next
+            pNode = pNode.next
+
+        return pClonedHead
+
+class Tool:
+
+    def printList(self, pHead):
+        '''
+        输出链表信息
+        :param pHead:
+        :return:
+        '''
+        while pHead != None:
+            print(str(pHead.label) + "->")
+            pHead = pHead.next
+        print("NULL")
+
+    def isSame(self, pHead1, pHead2):
+        '''
+        判断两个链表是否是同一个链表，不是值相同
+        :param pHead1: 链表头1
+        :param pHead2: 链表头2
+        :return:
+        '''
+        while pHead1 != None and pHead2 != None:
+            if pHead1 == pHead2:
+                pHead1 = pHead1.next
+                pHead2 = pHead2.next
+            else:
+                return False
+        return pHead1 == None and pHead2 == None
+
+if __name__ == "__main__":
+    #            -----------------
+    #          \|/               |
+    #  1--------2-------3-------4-------5
+    #  |        |     / |\             /|\
+    #  ---------+-------                |
+    #           ------------------------
+    head = RandomListNode(1)
+    # head.label = 1
+    head.next = RandomListNode(2)
+    # head.next.label = 2
+    head.next.next = RandomListNode(3)
+    # head.next.next.label = 3
+    head.next.next.next = RandomListNode(4)
+    # head.next.next.next.label = 4
+    head.next.next.next.next = RandomListNode(5)
+    # head.next.next.next.next.label = 5
+    head.random = head.next.next
+    head.next.random = head.next.next.next.next.next
+    head.next.next.next.random = head.next
+
+    tmp = head
+    tool = Tool()
+    tool.printList(head)
+    print(tool.isSame(head, tmp))
+
+    sol = Solution()
+    newHead = sol.Clone(head)
+    tool.printList(newHead)
+    print(tool.isSame(head, newHead))
+
+# Reference :
+# 【1】https://blog.csdn.net/gatieme/article/details/51227939
+# 【2】https://wiki.jikexueyuan.com/project/for-offer/question-twenty-six.html
+
