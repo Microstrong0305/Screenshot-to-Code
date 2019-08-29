@@ -1,6 +1,9 @@
 # Computer Vision
 Description: Classic papers in the field of computer vision
 
+## 计算机视觉学习路线
+1. [收藏 | 帮你精选CV方向经典+顶会论文，科研看这些就够了！](https://mp.weixin.qq.com/s/GU9p1OI-fvtuuzs6UXBN2Q)
+
 ##  image recognition and image classficiation
 1. AlexNet(2012)：Krizhevsky A, Sutskever I, Hinton G E. Imagenet classification with deep convolutional neural networks[C]//Advances in neural information processing systems. 2012: 1097-1105.
 1. ZFNet(2013)：Zeiler M D, Fergus R. Visualizing and understanding convolutional networks[C]//European conference on computer vision. Springer, Cham, 2014: 818-833.

@@ -1,5 +1,9 @@
 # NLP
 
+## NLP学习路线
+1. [收藏 | 帮你精选NLP方向经典+顶会论文，科研看这些就够了！](https://mp.weixin.qq.com/s/GU9p1OI-fvtuuzs6UXBN2Q)
+
+## NLP优质文章
 1. [NLP不同任务Tensorflow深度学习模型大全](https://mp.weixin.qq.com/s/HwSCij5U0JzzD4xXUU5JDQ)
 1. [自然语言生成的演变史](https://mp.weixin.qq.com/s/WF7UmEHjYMUL9n4TasWXqA)
 1. Melis G, Dyer C, Blunsom P. On the state of the art of evaluation in neural language models[J]. arXiv preprint arXiv:1707.05589, 2017.
