@@ -25,6 +25,7 @@
 1. [24. 二叉搜索树的后序遍历序列](剑指offer代码/VerifySquenceOfBST.py)
 1. [25. 二叉树中和为某一值的路径](剑指offer代码/FindPath.py)
 1. [26. 复杂链表的复制](剑指offer代码/Clone.py)
+1. [27. 二叉搜索树与双向链表](剑指offer代码/Convert.py)
 1. [30. 最小的K个数](剑指offer代码/java/GetLeastNumbers_30_1.java) | [code2](剑指offer代码/java/GetLeastNumbers_30_2.java)
 1. [31. 连续子数组的最大和](剑指offer代码/java/greatestSumOfSubArray_31.java)
 1. [34. 丑数](剑指offer代码/java/ugleNum_34.java) | [code2](剑指offer代码/java/ugleNum_34_2.java)
