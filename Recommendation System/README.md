@@ -19,3 +19,4 @@
 1. Github项目推荐 | 推荐系统实例与最佳实践 by 微软
 	- [Github项目推荐 | 推荐系统实例与最佳实践 by 微软](https://ai.yanxishe.com/page/blogDetail/9765)
 	- [GitHub](https://github.com/Microsoft/Recommenders)
+1. He X, Liao L, Zhang H, et al. Neural Collaborative Filtering[C]// International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017:173-182. [知乎解读](https://zhuanlan.zhihu.com/p/31122667)
