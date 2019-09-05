@@ -11,26 +11,26 @@ class TreeNode:
 
 class Solution:
 
-    def Convert(self, root):
+    def Convert(self, pRootOfTree):
         '''
-        :param root: 二叉树的根节点
+        :param pRootOfTree: 二叉树的根节点
         :return: 双向链表的头节点
         '''
         # 用于保存处理过程中的双向链表的尾结点
-        pLastNodeInList = None
-        pLastNodeInList = self.ConvertNode(root, pLastNodeInList)
+        self.pLastNodeInList = None
+        self.ConvertNode(pRootOfTree)
 
         # pLastNodeInList指向双向链表的尾节点, 我们需要返回头节点
-        pHeadOfList = pLastNodeInList
+        pHeadOfList = self.pLastNodeInList
         while pHeadOfList != None and pHeadOfList.left != None:
             pHeadOfList = pHeadOfList.left
 
         return pHeadOfList
 
-    def ConvertNode(self, pNode, pLastNodeInList):
+    def ConvertNode(self, pNode):
         '''
         :param pNode: 当前的根结点
-        :param pLastNodeInList: 已经处理好的双向链表的尾结点
+        :pLastNodeInList: 已经处理好的双向链表的尾结点
         :return:
         '''
         #  结点不为空
@@ -40,17 +40,17 @@ class Solution:
         pCurrent = pNode
         # 如果有左子树就先处理左子树
         if pCurrent.left != None:
-            self.ConvertNode(pCurrent.left, pLastNodeInList)
+            self.ConvertNode(pCurrent.left)
         # 将当前结点的前驱指向已经处理好的双向链表（由当前结点的左子树构成）的尾结点
-        pCurrent.left = pLastNodeInList
+        pCurrent.left = self.pLastNodeInList
         # 如果左子树转换成的双向链表不为空，设置尾结点的后继
-        if pLastNodeInList != None:
-            pLastNodeInList.right = pCurrent
+        if self.pLastNodeInList != None:
+            self.pLastNodeInList.right = pCurrent
         # 记录当前结点为尾结点
-        pLastNodeInList = pCurrent
+        self.pLastNodeInList = pCurrent
         # 处理右子树
         if pCurrent.right != None:
-            self.ConvertNode(pCurrent.right, pLastNodeInList)
+            self.ConvertNode(pCurrent.right)
 
 class Painter:
     def printList(self, head):
