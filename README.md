@@ -117,6 +117,7 @@
 1. [重磅 | 完备的 AI 学习路线，最详细的资源整理！](https://mp.weixin.qq.com/s/uR99CyiU5fEdYlqdeu75uQ)
 1. 特征工程
 	- [特征工程的宝典-《Feature Engineering for Machine Learning》翻译及代码实现](https://mp.weixin.qq.com/s/DnJLqsNojvZoLvnLyVNNTw)
+1. [AI算法面试难度升级，该如何应对？](https://mp.weixin.qq.com/s/yrxxjy48FDvqn1XlA04wVg)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
@@ -173,6 +174,7 @@
 1. [写给NLP研究者的编程指南](https://zhuanlan.zhihu.com/p/48504619)
 1. [NLP研究入门之道：NLP推荐书目](https://mp.weixin.qq.com/s/N-6CjOLvL3p11v9dU85Gow)
 1. [如何学习自然语言处理（综合版）](https://mp.weixin.qq.com/s/lJYp4hUZVsp-Uj-5NqoaYQ)
+1. [初入NLP领域的一些小建议](https://mp.weixin.qq.com/s/zKEICTCYsUFduWxzBFUp_A) | [知乎](https://zhuanlan.zhihu.com/p/59184256)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
