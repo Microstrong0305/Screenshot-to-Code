@@ -10,31 +10,85 @@ class TreeNode:
         self.right = None
 
 class Solution:
+
     def Convert(self, root):
+        '''
+        :param root: 二叉树的根节点
+        :return: 双向链表的头节点
+        '''
+        # 用于保存处理过程中的双向链表的尾结点
         pLastNodeInList = None
-        self.ConvertNode(root, pLastNodeInList)
+        pLastNodeInList = self.ConvertNode(root, pLastNodeInList)
 
         # pLastNodeInList指向双向链表的尾节点, 我们需要返回头节点
         pHeadOfList = pLastNodeInList
-        while pHeadOfList != None and pHeadOfList.left != null:
+        while pHeadOfList != None and pHeadOfList.left != None:
             pHeadOfList = pHeadOfList.left
 
         return pHeadOfList
 
     def ConvertNode(self, pNode, pLastNodeInList):
+        '''
+        :param pNode: 当前的根结点
+        :param pLastNodeInList: 已经处理好的双向链表的尾结点
+        :return:
+        '''
+        #  结点不为空
         if pNode == None:
             return
 
         pCurrent = pNode
-
+        # 如果有左子树就先处理左子树
         if pCurrent.left != None:
             self.ConvertNode(pCurrent.left, pLastNodeInList)
-
+        # 将当前结点的前驱指向已经处理好的双向链表（由当前结点的左子树构成）的尾结点
         pCurrent.left = pLastNodeInList
+        # 如果左子树转换成的双向链表不为空，设置尾结点的后继
         if pLastNodeInList != None:
             pLastNodeInList.right = pCurrent
-
+        # 记录当前结点为尾结点
         pLastNodeInList = pCurrent
-
+        # 处理右子树
         if pCurrent.right != None:
             self.ConvertNode(pCurrent.right, pLastNodeInList)
+
+class Painter:
+    def printList(self, head):
+        while head != None:
+            print(str(head.val) + '->', end='')
+            head = head.right
+
+    def printTree(self, root):
+        if root != None:
+            self.printTree(root.left)
+            print(str(root.val) + '->', end='')
+            self.printTree(root.right)
+
+if __name__ == "__main__":
+    # //            10
+    # //         /      \
+    # //        6        14
+    # //       /\        /\
+    # //      4  8     12  16
+    node10 = TreeNode(10)
+    node6 = TreeNode(6)
+    node14 = TreeNode(14)
+    node4 = TreeNode(4)
+    node8 = TreeNode(8)
+    node12 = TreeNode(12)
+    node16 = TreeNode(16)
+    node10.left = node6
+    node10.right = node14
+    node6.left = node4
+    node6.right = node8
+    node14.left = node12
+    node14.right = node16
+    print("Before convert: ")
+    pinter = Painter()
+    pinter.printTree(node10)
+    print("")
+    sol  = Solution()
+    head = sol.Convert(node10)
+    print("After convert : ")
+    pinter.printList(head)
+    print()
