@@ -157,12 +157,15 @@
 1. [【深度学习自学指南】微软&头条实习生现身说法：我是这样进大厂的](https://mp.weixin.qq.com/s/yZoiEN5Nj0O-AyMU-SSBew)
 1. [O'Reilly 新书：《生成式深度学习》，近 5 年最先进 GAN 一网打全！](https://mp.weixin.qq.com/s/YZRC-fuRVVafEIOFbvN8-g)
 1. [认真推荐一份深度学习笔记：简约而不简单](https://mp.weixin.qq.com/s/pezyz0iKPS_yZDWHWIurew) | [GitHub](https://github.com/jianzhu/dl-notes) | [PDF](https://github.com/jianzhu/dl-notes/blob/master/deep_learning.pdf)
+1. [一文看懂各种神经网络优化算法：从梯度下降到Adam方法](https://mp.weixin.qq.com/s/USZUutgtLTswMVSOH1Q22g) | [原文-量子位](https://mp.weixin.qq.com/s/ww34XE9xW5zjvCCR0QDTyA)
  
 ### Computer Vision（CV）
 1. [【综述】一文览尽计算机视觉各研究方向](https://mp.weixin.qq.com/s/6NEhwfmMe0NY1o16ZiWH1Q)
 1. [一文带你读懂计算机视觉](https://zhuanlan.zhihu.com/p/52116081)
 1. [一文带你搞懂计算机视觉，从技术基础到RNN、GAN！](https://mp.weixin.qq.com/s/FSGpBcuT6j4r-yU7fYW6LQ)
 1. [有三AI发布360页11万字深度学习CV算法工程师成长指导手册，可下载收藏打印，未完待续](https://mp.weixin.qq.com/s/qTdD6AnNaqn8HYl_7ySQBQ)
+1. [在计算机视觉方向如何快速提升自己？](https://mp.weixin.qq.com/s/RdBN7K3244Rfi2KKxpI3nQ) | [知乎](https://www.zhihu.com/question/337889115/answer/770797118)
+1. [《解析深度学习-卷积神经网络原理与视觉实践》，魏秀参，电子工业出版社。](http://www.weixiushen.com/)
 
 ### Natural Language Processing（NLP）
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
