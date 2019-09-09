@@ -3,3 +3,4 @@
 1. [Github上的图神经网络必读论文和最新进展列表（附链接）](https://mp.weixin.qq.com/s/wotN4_EtZxRk7vlg6pOsZg)
 1. [GNN 系列：Graph 基础知识介绍](https://mp.weixin.qq.com/s/sJB4N_ObUqKM8H65yU_1sg)
 1. [Graph Neural Networks 综述](https://mp.weixin.qq.com/s/FsEmowFNq-5Din1PEaNDEg)
+1. Yao L , Mao C , Luo Y . Graph Convolutional Networks for Text Classification[J]. 2018. | [CSDN-博客](https://blog.csdn.net/r1254/article/details/88399485)
