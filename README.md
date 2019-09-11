@@ -119,6 +119,7 @@
 	- [特征工程的宝典-《Feature Engineering for Machine Learning》翻译及代码实现](https://mp.weixin.qq.com/s/DnJLqsNojvZoLvnLyVNNTw)
 1. [AI算法面试难度升级，该如何应对？](https://mp.weixin.qq.com/s/yrxxjy48FDvqn1XlA04wVg)
 1. [珍藏版 | 20道XGBoost面试题，你会几个？(下篇)](https://mp.weixin.qq.com/s/BbelOsYgsiOvwfwYs5QfpQ)
+1. [【资源】强化学习实践教程](https://mp.weixin.qq.com/s/LJbpDls06jH5xL3Kbh-eBw) | [GitHub](https://github.com/yandexdataschool/Practical_RL)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
@@ -179,6 +180,7 @@
 1. [NLP研究入门之道：NLP推荐书目](https://mp.weixin.qq.com/s/N-6CjOLvL3p11v9dU85Gow)
 1. [如何学习自然语言处理（综合版）](https://mp.weixin.qq.com/s/lJYp4hUZVsp-Uj-5NqoaYQ)
 1. [初入NLP领域的一些小建议](https://mp.weixin.qq.com/s/zKEICTCYsUFduWxzBFUp_A) | [知乎](https://zhuanlan.zhihu.com/p/59184256)
+1. [【复旦大学邱锡鹏老师】199页PPT面向自然语言处理的深度学习基础](https://mp.weixin.qq.com/s/iYEabOTYLu1PN7TxAUj_kw) | [pdf](https://xpqiu.github.io/slides/20190712-%E9%9D%A2%E5%90%91%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.pdf)
 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
