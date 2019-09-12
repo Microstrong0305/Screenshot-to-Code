@@ -66,6 +66,8 @@
 ## Neural Machine Translation
 
 1. [清华大学自然语言处理组年度巨献：370+篇机器翻译必读论文，一文收尽](https://mp.weixin.qq.com/s/65r_8GQLAFkKmxKPVzkz-A)
+1. Wu Y, Schuster M, Chen Z, et al. Google's neural machine translation system: Bridging the gap between human and machine translation[J]. arXiv preprint arXiv:1609.08144, 2016.
+1. [【专知荟萃14】机器翻译 Machine Translation知识资料全集（入门/进阶/综述/视频/代码/专家，附PDF下载）](https://mp.weixin.qq.com/s/tKP6UcGRHU4dS1GgXn-YNw)
 
 ### Seq-to-Seq
 1. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
