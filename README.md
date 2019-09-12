@@ -152,6 +152,9 @@
 	- [免费中文深度学习全书：不仅有理论，还有配套代码分析](https://mp.weixin.qq.com/s/RgvcbLZbg0bj6BKxgTzDrg)
 	- [免费！中文深度学习全书：配套理论分析及代码分析（附资源）](https://mp.weixin.qq.com/s/bdi2J8C3wwTaMusXhWAzdQ)
 1. [资源|547页的《动手学深度学习》推荐（附最新PDF，源码下载）](https://mp.weixin.qq.com/s/d2c2hUAYECIQN6KF3olzvA)
+	- [中文版《动手学深度学习》9月最新版、代码、ppt、视频分享](https://mp.weixin.qq.com/s/Ej0ffhpmPcTKGUW0INFfaA)
+	- 《动手学深度学习》书籍、代码、视频教程及ppt等资源下载地址：
+		- 书籍下载地址: [链接](https://pan.baidu.com/s/1eK4Gewv1CKYjPfwad4Xc7w) 提取码: gy45 | [随书pytorch代码](https://github.com/dsgiitr/d2l-pytorchppt) | [课件](https://github.com/d2l-ai/berkeley-stat-157/tree/master/slides-zh) | [视频教程](https://space.bilibili.com/209599371/channel/detail?cid=23541)
 1. [GitHub-AILearning（机器学习实战）](https://github.com/apachecn/AiLearning) | [AILearning（机器学习实战）](https://ailearning.apachecn.org/#/)
 	- [GitHub万星的中文机器学习资源：路线图、视频、电子书、学习建议全在这](https://mp.weixin.qq.com/s/7tnx6THtazHwSMoxuo6aVA)
 1. [深度学习算法地图](https://mp.weixin.qq.com/s/fRBdRo8eI1N_bUqh7k7I3A)
