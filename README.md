@@ -77,6 +77,7 @@
 	- [机器学习必备宝典-《统计学习方法》的python代码实现、电子书及课件](https://mp.weixin.qq.com/s/N7meogGSfU5ZYDhJ4oj86w)
 	- [重磅！李航《统计学习方法》最新资源，笔记、Python 代码一应俱全！](https://mp.weixin.qq.com/s/tZgJRI3zNz7jV8nfMYa5Kg) | [GitHub](https://github.com/SmirkCao/Lihang)
 	- [超全！李航《统计学习方法》读书笔记](https://mp.weixin.qq.com/s/EPy_g08ATMNpRvXzBNDNqw)
+	- [统计学习方法训练营课程作业及答案](https://github.com/Relph1119/StatisticalLearningMethod-Camp)
 1. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
@@ -184,7 +185,8 @@
 1. [如何学习自然语言处理（综合版）](https://mp.weixin.qq.com/s/lJYp4hUZVsp-Uj-5NqoaYQ)
 1. [初入NLP领域的一些小建议](https://mp.weixin.qq.com/s/zKEICTCYsUFduWxzBFUp_A) | [知乎](https://zhuanlan.zhihu.com/p/59184256)
 1. [【复旦大学邱锡鹏老师】199页PPT面向自然语言处理的深度学习基础](https://mp.weixin.qq.com/s/iYEabOTYLu1PN7TxAUj_kw) | [pdf](https://xpqiu.github.io/slides/20190712-%E9%9D%A2%E5%90%91%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.pdf)
-
+1. [【Github】ML-NLP：机器学习、NLP面试中常考到的知识点和代码实现](https://mp.weixin.qq.com/s/k8JsOWT5mnEeLET10DPE1g) | [GitHub](https://github.com/NLP-LOVE/ML-NLP)
+ 
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
 1. [TensorFlow](./TensorFlow)
