@@ -78,13 +78,14 @@
 	- [重磅！李航《统计学习方法》最新资源，笔记、Python 代码一应俱全！](https://mp.weixin.qq.com/s/tZgJRI3zNz7jV8nfMYa5Kg) | [GitHub](https://github.com/SmirkCao/Lihang)
 	- [超全！李航《统计学习方法》读书笔记](https://mp.weixin.qq.com/s/EPy_g08ATMNpRvXzBNDNqw)
 	- [统计学习方法训练营课程作业及答案](https://github.com/Relph1119/StatisticalLearningMethod-Camp)
+	- [《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)
 1. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
 		- [GitHub](https://github.com/datawhalechina/pumpkin-book) | [在线阅读地址](https://datawhalechina.github.io/pumpkin-book/#/)
 	- [周志华《机器学习》西瓜书精炼版笔记来了！16 章完整版](https://mp.weixin.qq.com/s/2a182fMfdNuAyw1hfvn7jg)
 1. 《百面机器学习》，诸葛越主编、葫芦娃著
-1. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm)
+1. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm) | [中文课程笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 1. 林轩田《机器学习》视频
 	- [林轩田课程主页](https://www.csie.ntu.edu.tw/~htlin/)
 	- [机器学习基石]
@@ -133,7 +134,7 @@
 1. 斯坦福CS224n基于深度学习的自然语言处理课程 [斯坦福大学主页](http://web.stanford.edu/class/cs224n/) [B站中转](http://space.bilibili.com/23852932?spm_id_from=333.338.viewbox_report.7#/channel/detail?cid=11177)
 1. AlphaGo之父强化学习
 	- CV和NLP的高级阶段都会过渡到强化学习，未来的学习趋势
-1. 吴恩达《deeplearning.ai》视频 [网易云课堂视频](https://mooc.study.163.com/smartSpec/detail/1001319001.htm)
+1. 吴恩达《deeplearning.ai》视频 [网易云课堂视频](https://mooc.study.163.com/smartSpec/detail/1001319001.htm) | [中文课程笔记](https://github.com/fengdu78/deeplearning_ai_books)
 1. [台湾大学李宏毅老师《深度学习课程》](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 	- [中文课程！台大李宏毅机器学习公开课2019版上线](https://mp.weixin.qq.com/s/-KO5ZWA9kTx9HuXUrFyp1A)
 	- [李宏毅深度学习课](https://www.bilibili.com/video/av9770302?from=search&seid=9066694202064136038)
