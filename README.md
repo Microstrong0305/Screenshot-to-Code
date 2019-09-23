@@ -122,6 +122,7 @@
 1. [AI算法面试难度升级，该如何应对？](https://mp.weixin.qq.com/s/yrxxjy48FDvqn1XlA04wVg)
 1. [珍藏版 | 20道XGBoost面试题，你会几个？(下篇)](https://mp.weixin.qq.com/s/BbelOsYgsiOvwfwYs5QfpQ)
 1. [【资源】强化学习实践教程](https://mp.weixin.qq.com/s/LJbpDls06jH5xL3Kbh-eBw) | [GitHub](https://github.com/yandexdataschool/Practical_RL)
+1. [经验分享|AI领域：如何做优秀研究并写高水平论文？](https://mp.weixin.qq.com/s/GLS1MbZKIMYC31eCBO-49w)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
