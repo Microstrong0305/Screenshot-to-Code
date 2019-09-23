@@ -7,7 +7,7 @@
 1. [6. 重建二叉树](剑指offer代码/java/ConstructTree_6.java)
 1. [7. 用两个栈来实现队列](剑指offer代码/java/stackAchieveQueue_7.java)
 1. 8. 旋转数组的最小数字 | [牛客网在线编程专题《剑指offer-面试题8》旋转数组的最小数字](https://blog.csdn.net/program_developer/article/details/82425076)
-1. [9. 斐波那契数列](剑指offer代码/java/fibonacci_9.java)
+1. 9. 斐波那契数列[Java](剑指offer代码/java/fibonacci_9.java) | [Python](剑指offer代码/Fibonacic.py)
 1. [面试题9：题目二 跳台阶](剑指offer代码/java/jumpFloor_9_2.java)
 1. [面试题9：相关题目 矩形覆盖](剑指offer代码/java/rectangleCover_9.java)
 1. [10. 二进制中1的个数](剑指offer代码/numberof1.py)
