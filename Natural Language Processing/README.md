@@ -70,15 +70,13 @@
 1. [【专知荟萃14】机器翻译 Machine Translation知识资料全集（入门/进阶/综述/视频/代码/专家，附PDF下载）](https://mp.weixin.qq.com/s/tKP6UcGRHU4dS1GgXn-YNw)
 
 ### Seq-to-Seq
-1. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
+1. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014. | [pdf](https://www.aclweb.org/anthology/D14-1179) 
 	- Encoder-Decoder结构最初是在论文《Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation》中提出并应用到机器翻译系统中的。
+	- 这篇论文中提出了一种新的模型，叫做RNN Encoder-Decoder，并将它用来进行机器翻译和比较不同语言的短语/词组之间的语义近似程度。这个模型由两个RNN组成，其中Encoder用来将输入的序列表示成一个固定长度的向量，Decoder则使用这个向量重建出目标序列，另外该论文提出了GRU的基本结构，为后来的研究奠定了基础。
+	- 本文的贡献：(1)提出一种类似LSTM的GRU结构，并且具有比LSTM更少的参数，更不容易过拟合。(2)将其应用到机器翻译领域，并且取得不错的效果。
 2. Sutskever I, Vinyals O, Le Q V. Sequence to sequence learning with neural networks[C]//Advances in neural information processing systems. 2014: 3104-3112.
 	- 与Cho等人[1]提出模型最大的区别在于其source编码后的向量C直接作为Decoder阶段RNN的初始化state，而不是在每次decode时都作为RNN cell的输入。此外，decode时RNN的输入是目标值，而不是前一时刻的输出。
 	- [pdf](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks)
-3. Cho K, Van Merriënboer B, Gulcehre C, et al. Learning phrase representations using RNN encoder-decoder for statistical machine translation[J]. arXiv preprint arXiv:1406.1078, 2014.
-	- [pdf](https://www.aclweb.org/anthology/D14-1179) 
-	- 这篇论文中提出了一种新的模型，叫做RNN Encoder-Decoder，并将它用来进行机器翻译和比较不同语言的短语/词组之间的语义近似程度。这个模型由两个RNN 组成，其中Encoder用来将输入的序列表示成一个固定长度的向量，Decoder则使用这个向量重建出目标序列，另外该论文提出了GRU的基本结构，为后来的研究奠定了基础。
-	- 本文的贡献：(1)提出一种类似LSTM的GRU结构，并且具有比LSTM更少的参数，更不容易过拟合。(2)将其应用到机器翻译领域，并且取得不错的效果。
 4. [从Encoder到Decoder实现Seq2Seq模型](https://zhuanlan.zhihu.com/p/27608348)
 	- [code-TensorFlow](https://github.com/NELSONZHAO/zhihu/blob/master/basic_seq2seq/Seq2seq_char.ipynb)
 5. [基于TensorFlow框架的Seq2Seq英法机器翻译模型](https://zhuanlan.zhihu.com/p/37148308)
