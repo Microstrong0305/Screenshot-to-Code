@@ -101,6 +101,15 @@ Description:对图像进行分类并给出分类目标物体的位置。
 ## 基于文本的图像检索
 1. Gu J, Cai J, Joty S R, et al. Look, imagine and match: Improving textual-visual cross-modal retrieval with generative models[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018: 7181-7189.
 
+## Image Translation(图像翻译或图像风格迁移)
+1. Johnson J, Alahi A, Fei-Fei L. Perceptual losses for real-time style transfer and super-resolution[C]//European conference on computer vision. Springer, Cham, 2016: 694-711.
+	- 在看pix2pix，Cycle-GAN，pix2pix HD等Image Translation的文章时常有提到Perceptual Losses for Real-Time Style Transfer and Super-Resolution的Perceptual Loss, 而且李飞飞是文章的作者之一，文章应该不错。
+1. pix2pix
+1. Cycle-GAN
+1. pix2pix HD
+1. Gatys L A, Ecker A S, Bethge M. A neural algorithm of artistic style[J]. arXiv preprint arXiv:1508.06576, 2015.
+	- 最早在A Neural Algorithm of Artistic Style中提出了Perceptual Loss。	
+
 ## 自动驾驶领域
 1. [GitHub：车道线检测最全资料集锦](https://mp.weixin.qq.com/s?__biz=MzUxNjcxMjQxNg==&mid=2247486508&idx=1&sn=9164c7331acd81de86c02c5ed3c15c9a&chksm=f9a27ea3ced5f7b5137a66e699c0c481e4215bb0548a46935a6e801295043932114daad65226&scene=21#wechat_redirect)
 
