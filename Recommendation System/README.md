@@ -1,4 +1,5 @@
 # Recommendation System
+
 1. [jadianes/spark-movie-lens](https://github.com/jadianes/spark-movie-lens)
 1. [在线图书推荐系统的实现含源码（协同过滤）](https://zhuanlan.zhihu.com/p/31473161)
 	- [XuefengHuang/RecommendationSystem](https://github.com/XuefengHuang/RecommendationSystem)
@@ -20,3 +21,4 @@
 	- [Github项目推荐 | 推荐系统实例与最佳实践 by 微软](https://ai.yanxishe.com/page/blogDetail/9765)
 	- [GitHub](https://github.com/Microsoft/Recommenders)
 1. He X, Liao L, Zhang H, et al. Neural Collaborative Filtering[C]// International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017:173-182. [知乎解读](https://zhuanlan.zhihu.com/p/31122667)
+1. [华为诺亚方舟实验室—推荐系统中的前沿技术研究与落地报告](https://mp.weixin.qq.com/s/i2qhAZ7DymnscC4TYAJkFA)
