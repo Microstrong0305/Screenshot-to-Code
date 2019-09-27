@@ -84,6 +84,7 @@
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
 		- [GitHub](https://github.com/datawhalechina/pumpkin-book) | [在线阅读地址](https://datawhalechina.github.io/pumpkin-book/#/)
 	- [周志华《机器学习》西瓜书精炼版笔记来了！16 章完整版](https://mp.weixin.qq.com/s/2a182fMfdNuAyw1hfvn7jg)
+	- [周志华《机器学习》手推笔记正式开源！持续更新中...](https://mp.weixin.qq.com/s/Szk9c2xKoR3uHuxKX1KjZw) | [GitHub](https://github.com/Sophia-11/Machine-Learning-Notes/blob/master/README.md)
 1. 《百面机器学习》，诸葛越主编、葫芦娃著
 1. 吴恩达《机器学习》视频 [Coursera视频](https://www.coursera.org/learn/machine-learning) [网易云课堂视频](https://study.163.com/course/introduction/1004570029.htm) | [中文课程笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 1. 林轩田《机器学习》视频
@@ -176,6 +177,7 @@
 
 ### Natural Language Processing（NLP）
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
+	- [GitHub-中文笔记](https://github.com/learning511/cs224n-learning-camp)
 1. [NLP研究入门之道](https://github.com/zibuyu/research_tao)
 1. [word2vec 中的数学原理详解（一）目录和前言](https://blog.csdn.net/itplus/article/details/37969519)
 1. [【资源推荐】复旦大学NLP上手教程](https://mp.weixin.qq.com/s/mxMFucqIqNVUgWlWmrdZ3Q)

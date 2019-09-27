@@ -21,4 +21,5 @@
 	- [Github项目推荐 | 推荐系统实例与最佳实践 by 微软](https://ai.yanxishe.com/page/blogDetail/9765)
 	- [GitHub](https://github.com/Microsoft/Recommenders)
 1. He X, Liao L, Zhang H, et al. Neural Collaborative Filtering[C]// International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017:173-182. [知乎解读](https://zhuanlan.zhihu.com/p/31122667)
-1. [华为诺亚方舟实验室—推荐系统中的前沿技术研究与落地报告](https://mp.weixin.qq.com/s/i2qhAZ7DymnscC4TYAJkFA)
+1. [华为诺亚方舟实验室—推荐系统中的前沿技术研究与落地报告](https://mp.weixin.qq.com/s/i2qhAZ7DymnscC4TYAJkFA) | [PPT](https://download.csdn.net/meeting/meeting_detail/50)
+1. [【原创】推荐广告入门：DeepCTR-Torch，基于深度学习的CTR预测算法库](https://mp.weixin.qq.com/s/vmGkk9dr_19Kj9x43JSaXQ) | [GitHub](https://github.com/shenweichen/DeepCTR-Torch)
