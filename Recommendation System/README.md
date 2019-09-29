@@ -23,3 +23,5 @@
 1. He X, Liao L, Zhang H, et al. Neural Collaborative Filtering[C]// International Conference on World Wide Web. International World Wide Web Conferences Steering Committee, 2017:173-182. [知乎解读](https://zhuanlan.zhihu.com/p/31122667)
 1. [华为诺亚方舟实验室—推荐系统中的前沿技术研究与落地报告](https://mp.weixin.qq.com/s/i2qhAZ7DymnscC4TYAJkFA) | [PPT](https://download.csdn.net/meeting/meeting_detail/50)
 1. [【原创】推荐广告入门：DeepCTR-Torch，基于深度学习的CTR预测算法库](https://mp.weixin.qq.com/s/vmGkk9dr_19Kj9x43JSaXQ) | [GitHub](https://github.com/shenweichen/DeepCTR-Torch)
+1. [5种常用的推荐系统算法](https://zhan-bin.github.io/2018/10/14/5%E7%A7%8D%E5%B8%B8%E7%94%A8%E7%9A%84%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E7%AE%97%E6%B3%95/)
+1. [推荐系统丨完整的架构设计和算法（协同过滤、隐语义）](https://mp.weixin.qq.com/s/nXpcV_mRdqyXOYthoJQ9vQ)
