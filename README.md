@@ -204,6 +204,7 @@
 		+ 深度学习中的Normalization模型 [张俊林-知乎](https://zhuanlan.zhihu.com/p/43200897) | [张俊林文章-微信公众号](https://mp.weixin.qq.com/s/BPPGr7_5nVQXXYC5omHRTA)
 		+ [详解深度学习中的Normalization，BN/LN/WN](https://zhuanlan.zhihu.com/p/33173246)
 		+ [回顾 | Facebook人工智能实验室研究工程师吴育昕：Devils in BatchNorm](https://mp.weixin.qq.com/s/Tr023HjlCTvYA0xYXCAVEA)
+		+ [常用的 Normalization 方法：BN、LN、IN、GN](https://mp.weixin.qq.com/s/GveZUIoFtyKpbpEtSbSvCg)
 	- Dropout
 	- 注意力机制
 	- DropConnect：Wan L, Zeiler M, Zhang S, et al. Regularization of neural networks using dropconnect[C]//International conference on machine learning. 2013: 1058-1066.
