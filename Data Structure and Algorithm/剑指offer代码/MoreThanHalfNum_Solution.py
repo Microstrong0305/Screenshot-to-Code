@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
 
-# 方法一：快排+查找
+# 方法一：快排+查找O(nlogn)
 # class Solution:
 #     def MoreThanHalfNum_Solution(self, numbers):
 #         # write code here
@@ -34,7 +34,7 @@
 #         numList[high] = key
 #         return high
 
-# 方法二：
+# 方法二：基于Partition函数的O(n)算法
 class Solution:
 
     def MoreThanHalfNum_Solution(self, numbers):
@@ -56,8 +56,6 @@ class Solution:
             return result
         else:
             return 0
-
-        return middle
 
     def partition(self, numList, low, high):
         key = numList[low]
@@ -82,6 +80,7 @@ class Solution:
             return False
         else:
             return True
+
 
 if __name__ == "__main__":
     sol = Solution()
