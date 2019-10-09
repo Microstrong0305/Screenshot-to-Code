@@ -35,6 +35,53 @@
 #         return high
 
 # 方法二：基于Partition函数的O(n)算法
+# class Solution:
+#
+#     def MoreThanHalfNum_Solution(self, numbers):
+#         # 空列表
+#         if numbers == None or len(numbers) == 0:
+#             return 0
+#
+#         middle = len(numbers) >> 1
+#         index = self.partition(numbers, 0, len(numbers) - 1)
+#         while index != middle:
+#             if index > middle:
+#                 index = self.partition(numbers, 0, index - 1)
+#             else:
+#                 index = self.partition(numbers, index + 1, len(numbers) - 1)
+#
+#         result = numbers[middle]
+#
+#         if self.CheckMoreThanHalf(numbers, result):
+#             return result
+#         else:
+#             return 0
+#
+#     def partition(self, numList, low, high):
+#         key = numList[low]
+#         while low < high:
+#             while low < high and numList[high] >= key:
+#                 high -= 1
+#             numList[low] = numList[high]
+#
+#             while low < high and numList[low] <= key:
+#                 low += 1
+#             numList[high] = numList[low]
+#
+#         numList[high] = key
+#         return high
+#
+#     def CheckMoreThanHalf(self, numbers, result):
+#         count = 0
+#         for i in numbers:
+#             if i == result:
+#                 count += 1
+#         if count * 2 <= len(numbers):
+#             return False
+#         else:
+#             return True
+
+# 方法三：根据数组特点找出O(n)的算法
 class Solution:
 
     def MoreThanHalfNum_Solution(self, numbers):
@@ -42,34 +89,21 @@ class Solution:
         if numbers == None or len(numbers) == 0:
             return 0
 
-        middle = len(numbers) >> 1
-        index = self.partition(numbers, 0, len(numbers) - 1)
-        while index != middle:
-            if index > middle:
-                index = self.partition(numbers, 0, index - 1)
+        result = numbers[0]
+        count = 1
+        for i in numbers:
+            if count == 0:
+                result = i
+                count = 1
+            elif i == result:
+                count += 1
             else:
-                index = self.partition(numbers, index + 1, len(numbers) - 1)
-
-        result = numbers[middle]
+                count -= 1
 
         if self.CheckMoreThanHalf(numbers, result):
             return result
         else:
             return 0
-
-    def partition(self, numList, low, high):
-        key = numList[low]
-        while low < high:
-            while low < high and numList[high] >= key:
-                high -= 1
-            numList[low] = numList[high]
-
-            while low < high and numList[low] <= key:
-                low += 1
-            numList[high] = numList[low]
-
-        numList[high] = key
-        return high
 
     def CheckMoreThanHalf(self, numbers, result):
         count = 0
@@ -81,9 +115,8 @@ class Solution:
         else:
             return True
 
-
 if __name__ == "__main__":
     sol = Solution()
-    # list = [1, 2, 3, 2, 2, 2, 5, 4, 2]
-    list = [1]
+    list = [1, 2, 3, 2, 2, 2, 5, 4, 2]
+    # list = [1]
     print(sol.MoreThanHalfNum_Solution(list))
