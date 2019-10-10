@@ -61,3 +61,4 @@
 ## 算法好文 
 1. [盘点互联网公司最常见的面试编程题](https://mp.weixin.qq.com/s/_Jnbay3J6qGOB_aSfAXUJQ)
 1. [算法和编程面试题精选TOP50！(附代码+解题思路+答案)](https://mp.weixin.qq.com/s/ABSgO36dGLa1_d5daN2c8A)
+1. [leetcode 刷500道题，笔试/面试稳吗？谈谈算法的学习](https://mp.weixin.qq.com/s/fhQB9Hvdmr3ISF2xDx5pZA)
