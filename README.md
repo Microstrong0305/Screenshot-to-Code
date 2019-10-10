@@ -251,6 +251,7 @@
 1. [应届生，一口气拿下微软、Hulu、Amazon、腾讯、百度、网易、美团、华为等18家公司SP Offer面经](https://mp.weixin.qq.com/s/T238085r8HOr0GXCh7ME6w) | [牛客](https://www.nowcoder.com/discuss/52516)
 1. [想去面试？这10道最高频的手撕代码题都会了吗？](https://mp.weixin.qq.com/s/KRkXtKmgSE2CfAMVyls4fA)
 1. [算法工程师(人工智能CV方向)面试问题及相关资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview) | [微信](https://mp.weixin.qq.com/s/gFVBA1BArtemLFqJguGYRg)
+1. [不可错过的2019秋招CV岗心得！原来拿offer也是有套路的](https://mp.weixin.qq.com/s/iE84wJ3PZfNf_f-H8Um5aw) | [CSDN](https://blog.csdn.net/weixin_37627840/article/details/101536344)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
