@@ -3,6 +3,9 @@
 ## NLP学习路线
 1. [收藏 | 帮你精选NLP方向经典+顶会论文，科研看这些就够了！](https://mp.weixin.qq.com/s/GU9p1OI-fvtuuzs6UXBN2Q)
 
+## NLP基础知识点
+1. [图解word2vec](https://mp.weixin.qq.com/s/Yq_-1eS9UuiUBhNNAIxC-Q) | [原文](https://jalammar.github.io/illustrated-word2vec/) | [GitHub](https://github.com/fengdu78/machine_learning_beginner/tree/master/word2vec)
+
 ## NLP优质文章
 1. [NLP不同任务Tensorflow深度学习模型大全](https://mp.weixin.qq.com/s/HwSCij5U0JzzD4xXUU5JDQ)
 1. [自然语言生成的演变史](https://mp.weixin.qq.com/s/WF7UmEHjYMUL9n4TasWXqA)
@@ -62,6 +65,9 @@
 9. [收藏 | 中文公开聊天语料库及使用方法（附链接）](https://mp.weixin.qq.com/s/-vM8LlqrRJUAGUBhgUBQhw)
 10. [对话系统近期进展](https://mp.weixin.qq.com/s/oBdyM5wLy3y4w1DQ_HEuuQ)
 11. Maali Mnasri. Recent advances in conversational NLP : Towards the standardization of Chatbot building. arXiv:1903.09025.
+
+### 对话系统的语料库
+1. [用于训练中英文对话系统的语料库](https://github.com/candlewill/Dialog_Corpus)
 
 ## Neural Machine Translation
 
