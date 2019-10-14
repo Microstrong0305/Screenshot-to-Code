@@ -125,6 +125,7 @@
 1. [【资源】强化学习实践教程](https://mp.weixin.qq.com/s/LJbpDls06jH5xL3Kbh-eBw) | [GitHub](https://github.com/yandexdataschool/Practical_RL)
 1. [经验分享|AI领域：如何做优秀研究并写高水平论文？](https://mp.weixin.qq.com/s/GLS1MbZKIMYC31eCBO-49w)
 1. [吴恩达新书《Machine Learning Yearning》完整中文版开源](https://zhuanlan.zhihu.com/p/86274697) | [GitHub](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | [在线阅读](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/) | [中文版](https://link.zhihu.com/?target=https%3A//github.com/deeplearning-ai/machine-learning-yearning-cn/releases/download/v0.5.0/MLY-zh-cn.pdf)
+1. [Github中文项目排行榜，你永远想不到开发者都用它干了什么](https://mp.weixin.qq.com/s/ExIUslFyu9xDn1UH77sTrQ) | [GitHub](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
