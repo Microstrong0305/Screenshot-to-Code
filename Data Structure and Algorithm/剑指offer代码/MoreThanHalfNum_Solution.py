@@ -91,11 +91,11 @@ class Solution:
 
         result = numbers[0]
         count = 1
-        for i in numbers:
+        for i in range(1, len(numbers) - 1):
             if count == 0:
-                result = i
+                result = numbers[i]
                 count = 1
-            elif i == result:
+            elif numbers[i] == result:
                 count += 1
             else:
                 count -= 1
@@ -118,5 +118,5 @@ class Solution:
 if __name__ == "__main__":
     sol = Solution()
     list = [1, 2, 3, 2, 2, 2, 5, 4, 2]
-    # list = [1]
+    list = [1]
     print(sol.MoreThanHalfNum_Solution(list))
