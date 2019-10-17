@@ -18,6 +18,24 @@
 1. [面试题：预训练方法 BERT和OpenAI GPT有什么区别？](https://mp.weixin.qq.com/s/e40kjKwgESBsePz8onmSXw)
 1. [BERT_Paper_Chinese_Translation: BERT论文中文翻译版](https://mp.weixin.qq.com/s/HhW7PcFhrVWjWt1qNx-anQ)
 
+## 语言模型(Language Model)
+
+1. N-gram
+	- N-gram数学本质就是马尔科夫链: $P(W_{n}|W_{1}W_{2}...W_{n-1})=P(W_{n}|W_{n-1}W_{n-2}...W_{n-k})$
+1. BOW/LDA
+	- BOW:假设文档的意义跟次序无关; LDA:词义跟所处文档有关。
+
+1. word2vec
+	- 1. CBOW，周边词预测中心词。2. SkipGram，中心词预测周边词。显然这两者都是LM，很多人会问在用word2vector的时候你选择什么模型，所以word2vec是包含两者LM的。但是很明显，不论CBOW或是SkipGram，它们都是在做同样的假设，词与上下窗口的内的词有关。这样一说，word2vector也是一种LM。至于大众所使用的word vector，或是embedding layer，它只是这个模型中的表示层而已，并不是word2vector模型本身。
+
+1. ELMo(2018年的NAACL上outstanding paper award)
+	 - 那ELMo的LM假设是啥? 简单点就是类似完形填空，只不过只有一个空而言，这个空来又是通过又前向后和由后向前进行推测，数学表达式：$p(t_{n}|t_{1},...,t_{n-1},t_{n+1}) = p(t_{n}|t_{1},t_{2},...t_{n-1}) + p(t_{n}|t_{N},t_{N-1},...t_{n+1})$这里没有N-gram的强假设，所以建模上更精确。跟word2vector不同的是，ELMo再被用于transform learn的时候，是将整个网络进行transform。而word2vector仅仅是embedding layer。
+
+1. BERT
+
+1. [请问word2vec、emlo、bert都是language model吗？ - wzl的回答 - 知乎](https://www.zhihu.com/question/319687322/answer/648803634)
+
+
 ## Attention Mechanism
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
 2. [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)
