@@ -30,3 +30,5 @@
 1. [深度学习在花椒直播中的应用—神经网络与协同过滤篇](https://mp.weixin.qq.com/s/Iddu4zs3EGv20fPbBpISdA)
 1. [基于标签的实时短视频推荐系统](https://mp.weixin.qq.com/s?__biz=MzI1NjM1ODEyMg==&mid=2247484465&idx=1&sn=523c249a933f9c839c987f024294b9ed&chksm=ea26a7b4dd512ea2ca14bc15904b0a39a9a33433104fea0e64253dd8f348872c2166ad95e6ea&mpshare=1&scene=23&srcid=&sharer_sharetime=1571030621061&sharer_shareid=86df526ea8cfcae64c325025fe11e72a#rd)
 1. [推荐系统数据集大列表](https://mp.weixin.qq.com/s/Ev7-mEQZASmfxE48Sf6cLQ)
+1. [Online Learning算法理论与实践](https://tech.meituan.com/2016/04/21/online-learning.html)
+	- Online Learning是工业界比较常用的机器学习算法，在很多场景下都能有很好的效果。本文主要介绍Online Learning的基本原理和两种常用的Online Learning算法：FTRL（Follow The Regularized Leader）和BPR（Bayesian Probit Regression），以及Online Learning在美团移动端推荐重排序的应用。
