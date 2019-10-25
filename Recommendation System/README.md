@@ -33,3 +33,5 @@
 1. [Online Learning算法理论与实践](https://tech.meituan.com/2016/04/21/online-learning.html)
 	- Online Learning是工业界比较常用的机器学习算法，在很多场景下都能有很好的效果。本文主要介绍Online Learning的基本原理和两种常用的Online Learning算法：FTRL（Follow The Regularized Leader）和BPR（Bayesian Probit Regression），以及Online Learning在美团移动端推荐重排序的应用。
 1. [糖豆推荐系统第一期开发与评估报告 - ventlam的文章 - 知乎](https://zhuanlan.zhihu.com/p/24945454)
+1. [一步步构建推荐系统](https://mp.weixin.qq.com/s/fxwRGqZ0JzObgg9NWaWlyQ) | [英文](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
+1. [Python推荐系统库Surprise](https://zhuanlan.zhihu.com/p/44381354)
