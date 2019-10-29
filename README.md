@@ -193,6 +193,7 @@
 1. [【复旦大学邱锡鹏老师】199页PPT面向自然语言处理的深度学习基础](https://mp.weixin.qq.com/s/iYEabOTYLu1PN7TxAUj_kw) | [pdf](https://xpqiu.github.io/slides/20190712-%E9%9D%A2%E5%90%91%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.pdf)
 1. [【Github】ML-NLP：机器学习、NLP面试中常考到的知识点和代码实现](https://mp.weixin.qq.com/s/k8JsOWT5mnEeLET10DPE1g) | [GitHub](https://github.com/NLP-LOVE/ML-NLP)
 1. [NLP中文面试学习资料：面向算法面试，理论代码俱全，登上GitHub趋势榜](https://mp.weixin.qq.com/s/NcUn5CP4RUViDSYLE9G-8g) | [GitHub](https://github.com/NLP-LOVE/ML-NLP)
+1. [【GitHub】NLPer-Interview-主要记录 NLP 算法工程师相关的面试题](https://github.com/songyingxin/NLPer-Interview)
  
 ### 需要掌握框架
 记录自己在学习这些框架的时候遇到的一些问题。
