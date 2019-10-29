@@ -28,7 +28,7 @@
 1. [27. 二叉搜索树与双向链表](剑指offer代码/Convert.py)
 1. [28. 字符串的排列](剑指offer代码/Permutation.py)
 1. [29. 数组中出现次数超过一半的数字](剑指offer代码/MoreThanHalfNum_Solution.py)
-1. [30. 最小的K个数](剑指offer代码/java/GetLeastNumbers_30_1.java) | [code2](剑指offer代码/java/GetLeastNumbers_30_2.java)
+1. [30. 最小的K个数-java](剑指offer代码/java/GetLeastNumbers_30_1.java) | [code2-java](剑指offer代码/java/GetLeastNumbers_30_2.java) | [code3-Python](剑指offer代码/GetLeastNumbers_Solution.py)
 1. [31. 连续子数组的最大和](剑指offer代码/java/greatestSumOfSubArray_31.java)
 1. [34. 丑数](剑指offer代码/java/ugleNum_34.java) | [code2](剑指offer代码/java/ugleNum_34_2.java)
 1. [36. 数组中的逆序对](剑指offer代码/java/ArrayInversePairs_36.java)

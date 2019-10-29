@@ -67,22 +67,27 @@ heapq.heappush(res, -i) 意为：向堆res中添加一个元素-i
 heapq.heappushpop(res, -i)意为：将元素-i与堆顶的元素比较。如果该元素值大于堆顶元素，则将该元素与堆顶元素替换。否则不改变堆元素。
 """
 
+
 # 方法三：最大堆，O(nlogk)
 class Solution:
+    # def GetLeastNumbers_Solution(self, tinput, k):
+    #     if len(tinput) < k:
+    #         return []
+    #     res = []
+    #     for i in tinput:
+    #         heapq.heappush(res, -i) if len(res) < k else heapq.heappushpop(res, -i)
+    #     return sorted(list(map(lambda x: -x, res)))
     def GetLeastNumbers_Solution(self, tinput, k):
         if len(tinput) < k:
             return []
-        res = []
-        for i in tinput:
-            heapq.heappush(res, -i) if len(res) < k else heapq.heappushpop(res, -i)
-        return sorted(list(map(lambda x: -x, res)))
+        return heapq.nsmallest(k, tinput)
+
 
 '''
 Reference:
 [1] https://blog.csdn.net/u010005281/article/details/80084994
 [2] https://blog.csdn.net/fuxuemingzhu/article/details/79637795
 '''
-
 
 if __name__ == '__main__':
     tinput = [4, 5, 1, 6, 2, 7, 3, 8]
