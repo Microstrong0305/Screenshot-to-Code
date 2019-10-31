@@ -36,3 +36,4 @@
 1. [一步步构建推荐系统](https://mp.weixin.qq.com/s/fxwRGqZ0JzObgg9NWaWlyQ) | [英文](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
 1. [Python推荐系统库Surprise](https://zhuanlan.zhihu.com/p/44381354)
 1. [分享 | 蘑菇街内容信息流排序实践 - MOGU-LEANER的文章 - 知乎](https://zhuanlan.zhihu.com/p/86190872)
+1. [360展示广告召回系统的演进](https://mp.weixin.qq.com/s/QqWGdVGVxSComuJT1SDo0Q) | [知乎](https://zhuanlan.zhihu.com/p/88397924)
