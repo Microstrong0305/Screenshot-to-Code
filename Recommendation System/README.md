@@ -41,3 +41,7 @@
 	- 简单的实现推荐系统的召回模型和排序模型，其中召回模型使用协同过滤算法，排序模型使用gbdt+lr算法。
 1. [GitHub-Eleanoryuyuyu/RecommendRelative](https://github.com/Eleanoryuyuyu/RecommendRelative)
 	- 推荐系统相关模型 包括召回和排序。
+
+
+## 数据集
+1. [MovieLens 100k数据集](https://grouplens.org/datasets/movielens/100k/)
