@@ -37,3 +37,7 @@
 1. [Python推荐系统库Surprise](https://zhuanlan.zhihu.com/p/44381354)
 1. [分享 | 蘑菇街内容信息流排序实践 - MOGU-LEANER的文章 - 知乎](https://zhuanlan.zhihu.com/p/86190872)
 1. [360展示广告召回系统的演进](https://mp.weixin.qq.com/s/QqWGdVGVxSComuJT1SDo0Q) | [知乎](https://zhuanlan.zhihu.com/p/88397924)
+1. [GitHub-wuxinping1992/cf_gbdt_lr](https://github.com/wuxinping1992/cf_gbdt_lr)
+	- 简单的实现推荐系统的召回模型和排序模型，其中召回模型使用协同过滤算法，排序模型使用gbdt+lr算法。
+1. [GitHub-Eleanoryuyuyu/RecommendRelative](https://github.com/Eleanoryuyuyu/RecommendRelative)
+	- 推荐系统相关模型 包括召回和排序。
