@@ -5,8 +5,10 @@
 1. [【必读】2019年深度学习自然语言处理最新十大发展趋势, 附报告下载](https://mp.weixin.qq.com/s/TVCiH3PcQc4uzgcey9D_VA) | [Floydhub](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)
 1. RoBERTa中文预训练模型: RoBERTa for Chinese | [GitHub](https://github.com/brightmart/roberta_zh)
 	-   RoBERTa是BERT的改进版，通过改进训练任务和数据生成方式、训练更久、使用更大批次、使用更多数据等获得了State of The Art的效果；可以用Bert直接加载。本项目是用TensorFlow实现了在大规模中文上RoBERTa的预训练，也会提供PyTorch的预训练模型和加载方式。
+
 ## NLP基础知识点
 1. [图解word2vec](https://mp.weixin.qq.com/s/Yq_-1eS9UuiUBhNNAIxC-Q) | [原文](https://jalammar.github.io/illustrated-word2vec/) | [GitHub](https://github.com/fengdu78/machine_learning_beginner/tree/master/word2vec)
+1. [Word2Vec详解-公式推导以及代码](https://blog.csdn.net/kejizuiqianfang/article/details/99838249) | [知乎](https://zhuanlan.zhihu.com/p/86445394)
 
 ## NLP优质文章
 1. [NLP不同任务Tensorflow深度学习模型大全](https://mp.weixin.qq.com/s/HwSCij5U0JzzD4xXUU5JDQ)
