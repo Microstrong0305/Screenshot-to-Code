@@ -9,6 +9,8 @@
 ## NLP基础知识点
 1. [图解word2vec](https://mp.weixin.qq.com/s/Yq_-1eS9UuiUBhNNAIxC-Q) | [原文](https://jalammar.github.io/illustrated-word2vec/) | [GitHub](https://github.com/fengdu78/machine_learning_beginner/tree/master/word2vec)
 1. [Word2Vec详解-公式推导以及代码](https://blog.csdn.net/kejizuiqianfang/article/details/99838249) | [知乎](https://zhuanlan.zhihu.com/p/86445394)
+1. [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
+
 
 ## NLP优质文章
 1. [NLP不同任务Tensorflow深度学习模型大全](https://mp.weixin.qq.com/s/HwSCij5U0JzzD4xXUU5JDQ)
