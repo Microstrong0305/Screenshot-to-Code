@@ -79,6 +79,7 @@
 	- [超全！李航《统计学习方法》读书笔记](https://mp.weixin.qq.com/s/EPy_g08ATMNpRvXzBNDNqw)
 	- [统计学习方法训练营课程作业及答案](https://github.com/Relph1119/StatisticalLearningMethod-Camp)
 	- [《统计学习方法》的代码实现](https://github.com/fengdu78/lihang-code)
+	- [学它！李航《统计学习方法》课件，清华大学深圳研究院教授制作](https://zhuanlan.zhihu.com/p/91249599) | [微信公众号](https://mp.weixin.qq.com/s/KJSh0NxoPml7Ss4w8sSbbA)
 1. 《机器学习》，周志华著
 	- [机器学习(周志华西瓜书) 参考答案 总目录](https://blog.csdn.net/icefire_tyh/article/details/52064910)
 	- [《周志华机器学习详细公式推导版》发布，Datawhale开源项目pumpkin-book](https://mp.weixin.qq.com/s/YtW_PYb_SqtOiYNqrDZ2TA)
