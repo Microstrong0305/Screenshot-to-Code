@@ -41,6 +41,8 @@
 	- 简单的实现推荐系统的召回模型和排序模型，其中召回模型使用协同过滤算法，排序模型使用gbdt+lr算法。
 1. [GitHub-Eleanoryuyuyu/RecommendRelative](https://github.com/Eleanoryuyuyu/RecommendRelative)
 	- 推荐系统相关模型 包括召回和排序。
+1. [GitHub-mJackie/RecSys](https://github.com/mJackie/RecSys)
+	- 本仓库主要汇集推荐系统/计算广告/机器学习/CTR预估相关学习资料，欢迎一起补充更新。
 
 
 ## 数据集
