@@ -10,6 +10,7 @@
 1. [图解word2vec](https://mp.weixin.qq.com/s/Yq_-1eS9UuiUBhNNAIxC-Q) | [原文](https://jalammar.github.io/illustrated-word2vec/) | [GitHub](https://github.com/fengdu78/machine_learning_beginner/tree/master/word2vec)
 1. [Word2Vec详解-公式推导以及代码](https://blog.csdn.net/kejizuiqianfang/article/details/99838249) | [知乎](https://zhuanlan.zhihu.com/p/86445394)
 1. [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
+1. [李宏毅-ELMO、BERT、GPT视频笔记](https://mp.weixin.qq.com/s/UoRzkXpZ6LC0MsJdYQ3Oyw)
 
 
 ## NLP优质文章
@@ -21,6 +22,7 @@
 1. [Bert时代的创新：Bert应用模式比较及其它 | 技术头条](https://mp.weixin.qq.com/s/s1bQFdA6gtoHeeQMJKQ8UQ)
 1. [面试题：预训练方法 BERT和OpenAI GPT有什么区别？](https://mp.weixin.qq.com/s/e40kjKwgESBsePz8onmSXw)
 1. [BERT_Paper_Chinese_Translation: BERT论文中文翻译版](https://mp.weixin.qq.com/s/HhW7PcFhrVWjWt1qNx-anQ)
+1. [【NLP】文本自动摘要任务的心得总结](https://zhuanlan.zhihu.com/p/83596443) | [微信公众号](https://mp.weixin.qq.com/s/FxJpwVpmyLkwXNvXrzh_Pg)
 
 ## 语言模型(Language Model)
 

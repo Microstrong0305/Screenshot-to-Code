@@ -20,6 +20,8 @@
 [《阿里达摩院发布2019十大科技趋势》-趋势4：超大规模图神经网络系统将赋予机器常识。](https://mp.weixin.qq.com/s/Iu08egr1CZ75BRl0Z-IYDw)  
 单纯的深度学习已经成熟，而结合了深度学习的图神经网络将端到端学习与归纳推理相结合，有望解决深度学习无法处理的关系推理、可解释性等一系列问题。强大的图神经网络将会类似于由神经元等节点所形成网络的人的大脑，机器有望成为具备常识，具有理解、认知能力的AI。
 
+# [Reinforcement Learning(RL)](./Reinforcement%20Learning)
+
 # [Deep Neural Networks(DNN)](./Deep%20Neural%20Networks)
 
 # [Computer Vision(CV)](./Computer%20Vision)
