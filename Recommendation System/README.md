@@ -43,6 +43,7 @@
 	- 推荐系统相关模型 包括召回和排序。
 1. [GitHub-mJackie/RecSys](https://github.com/mJackie/RecSys)
 	- 本仓库主要汇集推荐系统/计算广告/机器学习/CTR预估相关学习资料，欢迎一起补充更新。
+1. [GitHub-wzhe06/Ad-papers](https://github.com/wzhe06/Ad-papers)
 
 
 ## 数据集
