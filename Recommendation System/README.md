@@ -29,7 +29,6 @@
 1. [如何解决推荐系统工程难题——深度学习推荐模型线上serving？](https://zhuanlan.zhihu.com/p/77664408)
 1. [深度学习在花椒直播中的应用—神经网络与协同过滤篇](https://mp.weixin.qq.com/s/Iddu4zs3EGv20fPbBpISdA)
 1. [基于标签的实时短视频推荐系统](https://mp.weixin.qq.com/s?__biz=MzI1NjM1ODEyMg==&mid=2247484465&idx=1&sn=523c249a933f9c839c987f024294b9ed&chksm=ea26a7b4dd512ea2ca14bc15904b0a39a9a33433104fea0e64253dd8f348872c2166ad95e6ea&mpshare=1&scene=23&srcid=&sharer_sharetime=1571030621061&sharer_shareid=86df526ea8cfcae64c325025fe11e72a#rd)
-1. [推荐系统数据集大列表](https://mp.weixin.qq.com/s/Ev7-mEQZASmfxE48Sf6cLQ)
 1. [Online Learning算法理论与实践](https://tech.meituan.com/2016/04/21/online-learning.html)
 	- Online Learning是工业界比较常用的机器学习算法，在很多场景下都能有很好的效果。本文主要介绍Online Learning的基本原理和两种常用的Online Learning算法：FTRL（Follow The Regularized Leader）和BPR（Bayesian Probit Regression），以及Online Learning在美团移动端推荐重排序的应用。
 1. [糖豆推荐系统第一期开发与评估报告 - ventlam的文章 - 知乎](https://zhuanlan.zhihu.com/p/24945454)
@@ -44,7 +43,9 @@
 1. [GitHub-mJackie/RecSys](https://github.com/mJackie/RecSys)
 	- 本仓库主要汇集推荐系统/计算广告/机器学习/CTR预估相关学习资料，欢迎一起补充更新。
 1. [GitHub-wzhe06/Ad-papers](https://github.com/wzhe06/Ad-papers)
+1. [Learning to rank基本算法小结](https://zhuanlan.zhihu.com/p/26539920)
 
 
 ## 数据集
 1. [MovieLens 100k数据集](https://grouplens.org/datasets/movielens/100k/)
+1. [推荐系统数据集大列表](https://mp.weixin.qq.com/s/Ev7-mEQZASmfxE48Sf6cLQ)

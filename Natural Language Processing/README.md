@@ -9,6 +9,7 @@
 ## NLP基础知识点
 1. [图解word2vec](https://mp.weixin.qq.com/s/Yq_-1eS9UuiUBhNNAIxC-Q) | [原文](https://jalammar.github.io/illustrated-word2vec/) | [GitHub](https://github.com/fengdu78/machine_learning_beginner/tree/master/word2vec)
 1. [Word2Vec详解-公式推导以及代码](https://blog.csdn.net/kejizuiqianfang/article/details/99838249) | [知乎](https://zhuanlan.zhihu.com/p/86445394)
+1. [word2vec 相关论文](https://zhuanlan.zhihu.com/p/39751353)
 1. [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
 1. [李宏毅-ELMO、BERT、GPT视频笔记](https://mp.weixin.qq.com/s/UoRzkXpZ6LC0MsJdYQ3Oyw)
 
@@ -46,9 +47,12 @@
 1. Hu D. An Introductory Survey on Attention Mechanisms in NLP Problems[J]. arXiv preprint arXiv:1811.05544, 2018.
 2. [完全图解RNN、RNN变体、Seq2Seq、Attention机制](https://zhuanlan.zhihu.com/p/28054589)
 3. Vaswani A, Shazeer N, Parmar N, et al. Attention is all you need[C]//Advances in Neural Information Processing Systems. 2017: 5998-6008.
-	- 2017年，Google机器翻译团队发表的《Attention is all you need》中大量使用了自注意力（self-attention）机制来学习文本表示。自注意力机制成为了大家近期的研究热点，并在各种NLP任务上进行探索，纷纷都取得了很好的性能。
+	- 2017年，Google机器翻译团队发表的《Attention is all you need》中大量使用了自注意力（self-attention）机制来学习文本表示。自注意力机制成为了大家近期的研究热点，并在各种NLP任务上进行探索，纷纷都取得了很好的性能。**本文两大特色：Transformer网络结构和Self-Attention机制。**
 	- 《Attention is All You Need》[中文解读](https://mp.weixin.qq.com/s/7RgCIFxPGnREiBk8PcxOBg)
 	-  [[论文笔记]Attention is All You Need](https://qianqianqiao.github.io/2018/10/23/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0-Attention-is-All-You-Need/)
+	- [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | [中文-翻译](https://blog.csdn.net/yujianmin1990/article/details/85221271)
+	- [详解Transformer （Attention Is All You Need）](https://zhuanlan.zhihu.com/p/48508221)
+	- [深度学习-论文阅读-Transformer-20191117](https://zhuanlan.zhihu.com/p/92234185)
 4. [深度学习对话系统理论篇--seq2seq+Attention机制模型详解](https://zhuanlan.zhihu.com/p/32092871)【推荐阅读】
 5. [深度学习中的注意力机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzc0NjkwNA==&mid=2650783542&idx=1&sn=3846652d54d48e315e31b59507e34e9e&chksm=87fad601b08d5f17f41b27bb21829ed2c2e511cf2049ba6f5c7244c6e4e1bd7144715faa8f67&mpshare=1&scene=1&srcid=1113JZIMxK3XhM9ViyBbYR76#rd)
 6. Mnih V, Heess N, Graves A. Recurrent models of visual attention[C]//Advances in neural information processing systems. 2014: 2204-2212.
