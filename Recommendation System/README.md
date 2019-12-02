@@ -46,6 +46,7 @@
 1. [Learning to rank基本算法小结](https://zhuanlan.zhihu.com/p/26539920)
 1. [文章推荐系统 | 一、推荐流程设计](https://www.jianshu.com/p/0688c78d0366)
 1. [2019最新 Python黑马头条推荐系统项目](https://www.bilibili.com/video/av68356229) | [百度云盘](https://pan.baidu.com/s/1-uvGJ-mEskjhtaial0Xmgw) EakP
+1. [NLP与推荐系统的比较、联系与未来](https://mp.weixin.qq.com/s/D8o8uUoAqjN7X9LBIhl7kA)
 
 
 ## 数据集

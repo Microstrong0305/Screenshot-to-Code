@@ -5,6 +5,7 @@
 1. [【必读】2019年深度学习自然语言处理最新十大发展趋势, 附报告下载](https://mp.weixin.qq.com/s/TVCiH3PcQc4uzgcey9D_VA) | [Floydhub](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)
 1. RoBERTa中文预训练模型: RoBERTa for Chinese | [GitHub](https://github.com/brightmart/roberta_zh)
 	-   RoBERTa是BERT的改进版，通过改进训练任务和数据生成方式、训练更久、使用更大批次、使用更多数据等获得了State of The Art的效果；可以用Bert直接加载。本项目是用TensorFlow实现了在大规模中文上RoBERTa的预训练，也会提供PyTorch的预训练模型和加载方式。
+1. [【哈工大车万翔教授】自然语言处理NLPer的核心竞争力是什么？19页ppt](https://mp.weixin.qq.com/s/2tmBM1-2WdQk4RWgPWoB7w)
 
 
 ## NLP基础知识点
