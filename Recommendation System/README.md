@@ -44,6 +44,8 @@
 	- 本仓库主要汇集推荐系统/计算广告/机器学习/CTR预估相关学习资料，欢迎一起补充更新。
 1. [GitHub-wzhe06/Ad-papers](https://github.com/wzhe06/Ad-papers)
 1. [Learning to rank基本算法小结](https://zhuanlan.zhihu.com/p/26539920)
+1. [文章推荐系统 | 一、推荐流程设计](https://www.jianshu.com/p/0688c78d0366)
+1. [2019最新 Python黑马头条推荐系统项目](https://www.bilibili.com/video/av68356229) | [百度云盘](https://pan.baidu.com/s/1-uvGJ-mEskjhtaial0Xmgw) EakP
 
 
 ## 数据集
