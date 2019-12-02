@@ -132,6 +132,7 @@
 1. [吴恩达新书《Machine Learning Yearning》完整中文版开源](https://zhuanlan.zhihu.com/p/86274697) | [GitHub](https://github.com/deeplearning-ai/machine-learning-yearning-cn) | [在线阅读](https://deeplearning-ai.github.io/machine-learning-yearning-cn/docs/home/) | [中文版](https://link.zhihu.com/?target=https%3A//github.com/deeplearning-ai/machine-learning-yearning-cn/releases/download/v0.5.0/MLY-zh-cn.pdf)
 1. [Github中文项目排行榜，你永远想不到开发者都用它干了什么](https://mp.weixin.qq.com/s/ExIUslFyu9xDn1UH77sTrQ) | [GitHub](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
 1. [王晋东等. 迁移学习简明手册. 2018.- Github](https://github.com/jindongwang/transferlearning-tutorial) | [pdf](http://jd92.wang/assets/files/transfer_learning_tutorial_wjd.pdf)
+1. [清华大学、中国人工智能学会重磅发布《2019人工智能发展报告》！两大亮点抢先看（附报告下载）](https://mp.weixin.qq.com/s/9pRfRvqRLZcAxSJQ4KAcZQ) | [pdf](https://static.aminer.cn/misc/pdf/pdf/caai2019.pdf) | [唐杰PPT](https://static.aminer.cn/misc/pdf/caaiReport2019.pdf)
 
 ## 深度学习
 人工智能领域，现在是CV的，未来是NLP。学习CV最好的时间是2年前，而学习NLP最好的时间就是现在。
