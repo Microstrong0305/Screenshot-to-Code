@@ -47,6 +47,9 @@
 1. [文章推荐系统 | 一、推荐流程设计](https://www.jianshu.com/p/0688c78d0366)
 1. [2019最新 Python黑马头条推荐系统项目](https://www.bilibili.com/video/av68356229) | [百度云盘](https://pan.baidu.com/s/1-uvGJ-mEskjhtaial0Xmgw) EakP
 1. [NLP与推荐系统的比较、联系与未来](https://mp.weixin.qq.com/s/D8o8uUoAqjN7X9LBIhl7kA)
+1. [小王子特洛伊-文章推荐系统](https://www.jianshu.com/u/ac833cc5146e)
+	- [文章推荐系统 | 一、推荐流程设计](https://www.jianshu.com/p/0688c78d0366) | [《文章推荐系统》系列之推荐流程设计-微信公众号](https://mp.weixin.qq.com/s/rPna-9POJrFTkwfdbL1t6g)
+1. [2019黑马头条推荐系统项目实战](https://www.bilibili.com/video/av68356229?p=30)
 
 
 ## 数据集
