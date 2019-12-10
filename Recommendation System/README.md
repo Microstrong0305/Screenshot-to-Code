@@ -50,6 +50,9 @@
 1. [小王子特洛伊-文章推荐系统](https://www.jianshu.com/u/ac833cc5146e)
 	- [文章推荐系统 | 一、推荐流程设计](https://www.jianshu.com/p/0688c78d0366) | [《文章推荐系统》系列之推荐流程设计-微信公众号](https://mp.weixin.qq.com/s/rPna-9POJrFTkwfdbL1t6g)
 1. [2019黑马头条推荐系统项目实战](https://www.bilibili.com/video/av68356229?p=30)
+1. [基于协同的ALS算法原理介绍与实现](https://blog.csdn.net/Gamer_gyt/article/details/98897829)
+		- [终于搞明白了什么是交替最小二乘法(ALS算法)](https://mp.weixin.qq.com/s/WCRPv3Fl8vlpl9cVh4-xwQ)
+		- [Spark排序算法系列之ALS算法实现分析](https://mp.weixin.qq.com/s/3mXF5R-Cs8g7KKCdJhW1xg)
 
 
 ## 数据集
