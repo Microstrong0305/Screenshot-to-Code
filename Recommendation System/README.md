@@ -53,6 +53,9 @@
 1. [基于协同的ALS算法原理介绍与实现](https://blog.csdn.net/Gamer_gyt/article/details/98897829)
 		- [终于搞明白了什么是交替最小二乘法(ALS算法)](https://mp.weixin.qq.com/s/WCRPv3Fl8vlpl9cVh4-xwQ)
 		- [Spark排序算法系列之ALS算法实现分析](https://mp.weixin.qq.com/s/3mXF5R-Cs8g7KKCdJhW1xg)
+1. [混合推荐系统介绍](https://mp.weixin.qq.com/s/NJIEqlW4oKfEon3YXc1U6g)
+1. [清华大学张敏老师，个性化推荐的基础与趋势，145页ppt](https://mp.weixin.qq.com/s/i_WzDWfkJ99bfTowcX6ppg) | [Min Zhang. Foundations and Trends for Personalized Recommendation. NLPCC 2019 Tutorials /CCF Advanced Disciplines Lectures (ADL 107)](http://www.thuir.cn/group/~mzhang/publications/NLPCC2019-Tutorial.pdf)
+1. [从零到一构建58招聘个性化推荐](https://mp.weixin.qq.com/s/DLMcN_nrtWldySGoEXNy4g)
 
 
 ## 数据集
