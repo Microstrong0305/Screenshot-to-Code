@@ -56,6 +56,9 @@
 1. [混合推荐系统介绍](https://mp.weixin.qq.com/s/NJIEqlW4oKfEon3YXc1U6g)
 1. [清华大学张敏老师，个性化推荐的基础与趋势，145页ppt](https://mp.weixin.qq.com/s/i_WzDWfkJ99bfTowcX6ppg) | [Min Zhang. Foundations and Trends for Personalized Recommendation. NLPCC 2019 Tutorials /CCF Advanced Disciplines Lectures (ADL 107)](http://www.thuir.cn/group/~mzhang/publications/NLPCC2019-Tutorial.pdf)
 1. [从零到一构建58招聘个性化推荐](https://mp.weixin.qq.com/s/DLMcN_nrtWldySGoEXNy4g)
+1. [今日头条、抖音推荐算法原理全文详解！](https://mp.weixin.qq.com/s/7O2tTEsD4bNlpIw4h8iMlQ)
+1. [有赞推荐系统关键技术](https://mp.weixin.qq.com/s/QceRXoEuUWSauynDDMV5GA)
+1. [腾讯信息流内容理解技术实践](https://mp.weixin.qq.com/s/spQfuary3ovCLw5ZgeLH8A)
 
 
 ## 数据集
