@@ -53,6 +53,7 @@
 1. [基于协同的ALS算法原理介绍与实现](https://blog.csdn.net/Gamer_gyt/article/details/98897829)
 		- [终于搞明白了什么是交替最小二乘法(ALS算法)](https://mp.weixin.qq.com/s/WCRPv3Fl8vlpl9cVh4-xwQ)
 		- [Spark排序算法系列之ALS算法实现分析](https://mp.weixin.qq.com/s/3mXF5R-Cs8g7KKCdJhW1xg)
+		- [机器学习套路--协同过滤推荐ALS](http://sharkdtu.com/posts/ml-als.html)
 1. [混合推荐系统介绍](https://mp.weixin.qq.com/s/NJIEqlW4oKfEon3YXc1U6g)
 1. [清华大学张敏老师，个性化推荐的基础与趋势，145页ppt](https://mp.weixin.qq.com/s/i_WzDWfkJ99bfTowcX6ppg) | [Min Zhang. Foundations and Trends for Personalized Recommendation. NLPCC 2019 Tutorials /CCF Advanced Disciplines Lectures (ADL 107)](http://www.thuir.cn/group/~mzhang/publications/NLPCC2019-Tutorial.pdf)
 1. [从零到一构建58招聘个性化推荐](https://mp.weixin.qq.com/s/DLMcN_nrtWldySGoEXNy4g)
@@ -60,6 +61,10 @@
 1. [有赞推荐系统关键技术](https://mp.weixin.qq.com/s/QceRXoEuUWSauynDDMV5GA)
 1. [腾讯信息流内容理解技术实践](https://mp.weixin.qq.com/s/spQfuary3ovCLw5ZgeLH8A)
 1. [图解抖音推荐算法](https://mp.weixin.qq.com/s/IoDFL2Dh3aJpNbeZAKaVbQ)
+1. [为什么一定要重视隐式反馈？](https://mp.weixin.qq.com/s/lidie27y4obx4St3uHb8CA) | [GitHub-xingwudao/learning-to-rank-with-implicit-matrix](https://github.com/xingwudao/learning-to-rank-with-implicit-matrix)
+1. Hu Y, Koren Y, Volinsky C. Collaborative filtering for implicit feedback datasets[C]//2008 Eighth IEEE International Conference on Data Mining. Ieee, 2008: 263-272.
+1. He X, Liao L, Zhang H, et al. Neural collaborative filtering[C]//Proceedings of the 26th international conference on world wide web. International World Wide Web Conferences Steering Committee, 2017: 173-182.
+1. He X, Pan J, Jin O, et al. Practical lessons from predicting clicks on ads at facebook[C]//Proceedings of the Eighth International Workshop on Data Mining for Online Advertising. ACM, 2014: 1-9.
 
 
 ## 数据集
