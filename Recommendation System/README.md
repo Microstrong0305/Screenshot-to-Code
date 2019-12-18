@@ -59,6 +59,7 @@
 1. [今日头条、抖音推荐算法原理全文详解！](https://mp.weixin.qq.com/s/7O2tTEsD4bNlpIw4h8iMlQ)
 1. [有赞推荐系统关键技术](https://mp.weixin.qq.com/s/QceRXoEuUWSauynDDMV5GA)
 1. [腾讯信息流内容理解技术实践](https://mp.weixin.qq.com/s/spQfuary3ovCLw5ZgeLH8A)
+1. [图解抖音推荐算法](https://mp.weixin.qq.com/s/IoDFL2Dh3aJpNbeZAKaVbQ)
 
 
 ## 数据集

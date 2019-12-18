@@ -183,6 +183,7 @@
 1. [有三AI发布360页11万字深度学习CV算法工程师成长指导手册，可下载收藏打印，未完待续](https://mp.weixin.qq.com/s/qTdD6AnNaqn8HYl_7ySQBQ)
 1. [在计算机视觉方向如何快速提升自己？](https://mp.weixin.qq.com/s/RdBN7K3244Rfi2KKxpI3nQ) | [知乎](https://www.zhihu.com/question/337889115/answer/770797118)
 1. [《解析深度学习-卷积神经网络原理与视觉实践》，魏秀参，电子工业出版社。](http://www.weixiushen.com/)
+1. [知乎火爆问题：CV和NLP哪个前景更好？](https://mp.weixin.qq.com/s/DKfnTfVrEGmvl5nnsJ8lyQ)
 
 ### Natural Language Processing（NLP）
 1. [斯坦福CS224n自然语言处理课](https://mp.weixin.qq.com/s/8NFYHFbKiWNJGMd5xnEUpA)
@@ -262,6 +263,7 @@
 1. [想去面试？这10道最高频的手撕代码题都会了吗？](https://mp.weixin.qq.com/s/KRkXtKmgSE2CfAMVyls4fA)
 1. [算法工程师(人工智能CV方向)面试问题及相关资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview) | [微信](https://mp.weixin.qq.com/s/gFVBA1BArtemLFqJguGYRg)
 1. [不可错过的2019秋招CV岗心得！原来拿offer也是有套路的](https://mp.weixin.qq.com/s/iE84wJ3PZfNf_f-H8Um5aw) | [CSDN](https://blog.csdn.net/weixin_37627840/article/details/101536344)
+1. [2019年字节跳动招聘算法岗，他们最看重哪些新技术能力？](https://mp.weixin.qq.com/s/uuVC75vwRBnPV3fEoRq-bw)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
@@ -271,3 +273,4 @@
 1. [独家 | 2019年互联网校招求职指南-上海篇](https://mp.weixin.qq.com/s/D1lqvlpLAR2L2NL0ljskXw)
 1. [独家 | 2019年互联网校招求职指南-杭州篇](https://mp.weixin.qq.com/s/4xTq1lXNeYDRxANNLB70fg)
 1. [独家 | 2019年互联网校招求职指南-北京篇](https://mp.weixin.qq.com/s/rAiCQj7PirDwpikQfer-MQ)
+1. [2020互联网大厂薪资出炉！看完我酸了~](https://mp.weixin.qq.com/s/3L5Yy3zToI9UuTfdo61oLA)
