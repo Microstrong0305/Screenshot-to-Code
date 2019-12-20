@@ -66,6 +66,7 @@
 1. He X, Liao L, Zhang H, et al. Neural collaborative filtering[C]//Proceedings of the 26th international conference on world wide web. International World Wide Web Conferences Steering Committee, 2017: 173-182.
 1. He X, Pan J, Jin O, et al. Practical lessons from predicting clicks on ads at facebook[C]//Proceedings of the Eighth International Workshop on Data Mining for Online Advertising. ACM, 2014: 1-9.
 1. [GitHub-apachecn/RecommenderSystems(介绍推荐系统基本知识，相关算法以及实现)](https://github.com/apachecn/RecommenderSystems)
+1. Kula M. Metadata embeddings for user and item cold-start recommendations[J]. arXiv preprint arXiv:1507.08439, 2015.
 
 ## 数据集
 1. [MovieLens 100k数据集](https://grouplens.org/datasets/movielens/100k/)
