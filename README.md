@@ -274,3 +274,4 @@
 1. [独家 | 2019年互联网校招求职指南-杭州篇](https://mp.weixin.qq.com/s/4xTq1lXNeYDRxANNLB70fg)
 1. [独家 | 2019年互联网校招求职指南-北京篇](https://mp.weixin.qq.com/s/rAiCQj7PirDwpikQfer-MQ)
 1. [2020互联网大厂薪资出炉！看完我酸了~](https://mp.weixin.qq.com/s/3L5Yy3zToI9UuTfdo61oLA)
+1. [2020 互联网应届硕士的薪资情况](https://mp.weixin.qq.com/s/c5--qvyN3RD6vTOBlZp2Xg)
