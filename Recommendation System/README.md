@@ -67,6 +67,11 @@
 1. He X, Pan J, Jin O, et al. Practical lessons from predicting clicks on ads at facebook[C]//Proceedings of the Eighth International Workshop on Data Mining for Online Advertising. ACM, 2014: 1-9.
 1. [GitHub-apachecn/RecommenderSystems(介绍推荐系统基本知识，相关算法以及实现)](https://github.com/apachecn/RecommenderSystems)
 1. Kula M. Metadata embeddings for user and item cold-start recommendations[J]. arXiv preprint arXiv:1507.08439, 2015.
+1. [推荐系统老司机的十条经验](https://mp.weixin.qq.com/s/977IENRpIUEV9KvYqWDfUA)
+1. [GitHub-benfred/implicit](https://github.com/benfred/implicit)
+1. Takács, G., Pilászy, I., & Tikk, D. (2011). Applications of the conjugate gradient method for implicit feedback collaborative filtering. RecSys '11.
+1. Johnson C C. Logistic matrix factorization for implicit feedback data[J]. Advances in Neural Information Processing Systems, 2014, 27.
+1. [PySpark推荐模型之基于隐式反馈的矩阵分解ALS](https://mp.weixin.qq.com/s/_WtLf6JONPGKP6RoAszInw)
 
 ## 数据集
 1. [MovieLens 100k数据集](https://grouplens.org/datasets/movielens/100k/)
