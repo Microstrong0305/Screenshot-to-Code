@@ -264,6 +264,8 @@
 1. [算法工程师(人工智能CV方向)面试问题及相关资料](https://github.com/lcylmhlcy/Awesome-algorithm-interview) | [微信](https://mp.weixin.qq.com/s/gFVBA1BArtemLFqJguGYRg)
 1. [不可错过的2019秋招CV岗心得！原来拿offer也是有套路的](https://mp.weixin.qq.com/s/iE84wJ3PZfNf_f-H8Um5aw) | [CSDN](https://blog.csdn.net/weixin_37627840/article/details/101536344)
 1. [2019年字节跳动招聘算法岗，他们最看重哪些新技术能力？](https://mp.weixin.qq.com/s/uuVC75vwRBnPV3fEoRq-bw)
+1. [万字长文！推荐系统岗面试经验&学习心得](https://mp.weixin.qq.com/s/uaBRxHZOGChLKrCopJOIAQ)
+1. [秋招总结：非机器学习科班学生漫长的算法工程师上岸之旅](https://www.nowcoder.com/discuss/326300)
 
 # 找工作
 1. [独家 | 2019年互联网校招求职指南-广州篇](https://mp.weixin.qq.com/s/4CLs6bcgnTJvd584ee-K3A)
