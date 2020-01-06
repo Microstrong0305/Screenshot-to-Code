@@ -15,6 +15,7 @@
 1. [从Word Embedding到Bert模型—自然语言处理中的预训练技术发展史](https://zhuanlan.zhihu.com/p/49271699)
 1. [李宏毅-ELMO、BERT、GPT视频笔记](https://mp.weixin.qq.com/s/UoRzkXpZ6LC0MsJdYQ3Oyw)
 1. [Transformer (变形金刚，大雾) 三部曲：RNN 的继承者](https://mp.weixin.qq.com/s/owOY9udWFjK0PnPOqoJMhA)
+1. [从词袋到transfomer，梳理十年Kaggle竞赛，看自然语言处理的变迁史](https://mp.weixin.qq.com/s/KK4_xaHt7_x8Zah5Q5FC9w)
 
 
 ## NLP优质文章
