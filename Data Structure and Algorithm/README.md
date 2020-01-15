@@ -30,6 +30,8 @@
 1. [29. 数组中出现次数超过一半的数字](剑指offer代码/MoreThanHalfNum_Solution.py)
 1. [30. 最小的K个数-java](剑指offer代码/java/GetLeastNumbers_30_1.java) | [code2-java](剑指offer代码/java/GetLeastNumbers_30_2.java) | [code3-Python](剑指offer代码/GetLeastNumbers_Solution.py)
 1. [31. 连续子数组的最大和](剑指offer代码/java/greatestSumOfSubArray_31.java) | [code2-Python](剑指offer代码/FindGreatestSumOfSubArray.py)
+1. [32. 整数中1出现的次数](剑指offer代码/整数中1出现的次数/NumberOf1Between1AndN.py)
+1. [33. 把数组排成最小的数](剑指offer代码/把数组排成最小的数/PrintMinNumber.py)
 1. [34. 丑数](剑指offer代码/java/ugleNum_34.java) | [code2](剑指offer代码/java/ugleNum_34_2.java)
 1. [36. 数组中的逆序对](剑指offer代码/java/ArrayInversePairs_36.java)
 1. [37. 两个链表的第一个公共结点](剑指offer代码/java/firstCommonNode_37.java)
