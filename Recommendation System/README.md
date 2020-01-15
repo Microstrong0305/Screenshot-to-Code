@@ -74,6 +74,8 @@
 1. [PySpark推荐模型之基于隐式反馈的矩阵分解ALS](https://mp.weixin.qq.com/s/_WtLf6JONPGKP6RoAszInw)
 1. [使用ALS算法音乐推荐](https://xsscss.cn/2019/01/23/%E5%A4%A7%E6%95%B0%E6%8D%AE/%E4%BD%BF%E7%94%A8ALS%E7%AE%97%E6%B3%95%E9%9F%B3%E4%B9%90%E6%8E%A8%E8%8D%90/)
 1. [推荐系统的发展与简单回顾](https://mp.weixin.qq.com/s/AkKTsPQm8NnFliHsNLy7kg)
+1. [技术干货 | 推荐系统中的冷启动问题和探索利用问题](https://mp.weixin.qq.com/s/ycxigg0HbiOTRUBPAWk21Q)
+1. [【推荐系统】笔记 — Bandit 算法](https://zhuanlan.zhihu.com/p/80261581)
 
 
 ## 数据集
