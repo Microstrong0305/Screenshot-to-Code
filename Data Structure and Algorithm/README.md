@@ -33,6 +33,7 @@
 1. [32. 整数中1出现的次数](剑指offer代码/整数中1出现的次数/NumberOf1Between1AndN.py)
 1. [33. 把数组排成最小的数](剑指offer代码/把数组排成最小的数/PrintMinNumber.py)
 1. [34. 丑数](剑指offer代码/java/ugleNum_34.java) | [code2](剑指offer代码/java/ugleNum_34_2.java)
+1. [35. 第一个只出现一次的字符](剑指offer代码/第一个只出现一次的字符/FirstNotRepeatingChar.py)
 1. [36. 数组中的逆序对](剑指offer代码/java/ArrayInversePairs_36.java)
 1. [37. 两个链表的第一个公共结点](剑指offer代码/java/firstCommonNode_37.java)
 1. [38. 数字在排序数组中出现的次数](剑指offer代码/java/K_GetNumber_38.java)
