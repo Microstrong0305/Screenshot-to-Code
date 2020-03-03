@@ -149,3 +149,10 @@
 
 ### Quality Assessment of Articles
 1. [Aili Shen, Jianzhong Qi and Timothy Baldwin. 2017. A Hybrid Model for Quality Assessment of Wikipedia Articles. In Proceedings of Australasian Language Technology Association Workshop, pages 43](./A%20Hybrid%20Model%20for%20Quality%20Assessment%20of%20Wikipedia%20Articles)
+
+### BERT相关文章
+1. Sun C, Myers A, Vondrick C, et al. Videobert: A joint model for video and language representation learning[C]//Proceedings of the IEEE International Conference on Computer Vision. 2019: 7464-7473.
+1. Chen Sun and Fabien Baradel and Kevin Murphy and Cordelia Schmid. Learning Video Representations using Contrastive Bidirectional Transformer. https://arxiv.org/abs/1906.05743, 201906 First Submission.
+1. [如何让BERT拥有视觉感知能力？两种方式将视频信息注入BERT](https://mp.weixin.qq.com/s/M3VRlz8-McbTbp9VcctU0w)
+1. Li L H, Yatskar M, Yin D, et al. Visualbert: A simple and performant baseline for vision and language[J]. arXiv preprint arXiv:1908.03557, 2019.
+1. Su W, Zhu X, Cao Y, et al. Vl-bert: Pre-training of generic visual-linguistic representations[J]. arXiv preprint arXiv:1908.08530, 2019.
