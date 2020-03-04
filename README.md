@@ -104,6 +104,7 @@
 1. [Pattern Recognition and Machine Learning(PRML)](https://weibo.com/1768582942/Ef2CZporc?type=comment)
 	- [重磅 | AI 圣经 PRML《模式识别与机器学习》官方开源了！](https://mp.weixin.qq.com/s/qSe_GzV5RhhY7TGTMQdWQA)
 	- [GitHub-PRML algorithms implemented in Python](https://github.com/ctgk/PRML)
+	- [【干货】机器学习经典书PRML 最新 Python 3 代码实现，附最全 PRML 笔记视频学习资料](https://mp.weixin.qq.com/s/5ElYikwgT5vZkiRQfmpOtQ)
 1. [汇总 | 机器学习算法优缺点 & 如何选择](https://mp.weixin.qq.com/s/g3nLEOmRHe6iAY9_E3zpGw)
 1. [Github 十个小时狂揽千赞：机器学习完整路线图](https://mp.weixin.qq.com/s/_ZW2IdpFj2nkX9ZzCrKauA)
 1. [8000 星！GitHub 高赞机器学习路线图，有人把它翻译成了中文版！](https://mp.weixin.qq.com/s/FR51Y7nyHmb4f7c2lJw7iA)
@@ -175,6 +176,7 @@
 1. [O'Reilly 新书：《生成式深度学习》，近 5 年最先进 GAN 一网打全！](https://mp.weixin.qq.com/s/YZRC-fuRVVafEIOFbvN8-g)
 1. [认真推荐一份深度学习笔记：简约而不简单](https://mp.weixin.qq.com/s/pezyz0iKPS_yZDWHWIurew) | [GitHub](https://github.com/jianzhu/dl-notes) | [PDF](https://github.com/jianzhu/dl-notes/blob/master/deep_learning.pdf)
 1. [一文看懂各种神经网络优化算法：从梯度下降到Adam方法](https://mp.weixin.qq.com/s/USZUutgtLTswMVSOH1Q22g) | [原文-量子位](https://mp.weixin.qq.com/s/ww34XE9xW5zjvCCR0QDTyA)
+1. [超全整理深度学习相关学习资料，提供系统化的深度学习路径](https://mp.weixin.qq.com/s/_OqUDpkhIX5JbFZTm-eEkA) | [超全整理深度学习相关学习资料，提供系统化的深度学习路线](https://mp.weixin.qq.com/s/VaAZrBhLbl9MTwwZxZIXmg)
  
 ### Computer Vision（CV）
 1. [【综述】一文览尽计算机视觉各研究方向](https://mp.weixin.qq.com/s/6NEhwfmMe0NY1o16ZiWH1Q)
