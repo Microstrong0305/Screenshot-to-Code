@@ -1,7 +1,3 @@
-# -*- coding:utf-8 -*-
-class Solution:
-
-
 # 返回[a,b] 其中ab是出现一次的两个数字
 # def FindNumsAppearOnce(self, array):
 #     # write code here
@@ -19,7 +15,6 @@ class Solution:
 #
 #     return result_list
 
-
 # def FindNumsAppearOnce(self, array):
 #     # write code here
 #     result_list = []
@@ -30,6 +25,8 @@ class Solution:
 #
 #     return result_list
 
+# -*- coding:utf-8 -*-
+class Solution:
 
     def FindNumsAppearOnce(self, array):
         # write code here
@@ -39,15 +36,31 @@ class Solution:
         # 对数据进行异或运算
         resultExclusiveOR = 0
         for i in array:
-            resultExclusiveOR ^=i
+            resultExclusiveOR ^= i
 
         # 在异或结果中找出从右向左第一个为1的索引
-        indexOf1 = self.FindFirstBitIs1()
+        indexOf1 = self.FindFirstBitIs1(resultExclusiveOR)
+
+        num1 = 0
+        num2 = 0
+        for j in array:
+            if self.IsBit1(j, indexOf1):
+                num1 ^= j
+            else:
+                num2 ^= j
+
+        return [num1, num2]
 
     def FindFirstBitIs1(self, num):
         indexBit = 0
-        while
+        while num & 1 == 0:
+            num = num >> 1
+            indexBit += 1
+        return indexBit
 
+    def IsBit1(self, num, indexBit):
+        num = num >> indexBit
+        return (num & 1)
 
 
 if __name__ == "__main__":
