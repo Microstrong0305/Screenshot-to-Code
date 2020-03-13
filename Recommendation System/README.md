@@ -76,6 +76,11 @@
 1. [推荐系统的发展与简单回顾](https://mp.weixin.qq.com/s/AkKTsPQm8NnFliHsNLy7kg)
 1. [技术干货 | 推荐系统中的冷启动问题和探索利用问题](https://mp.weixin.qq.com/s/ycxigg0HbiOTRUBPAWk21Q)
 1. [【推荐系统】笔记 — Bandit 算法](https://zhuanlan.zhihu.com/p/80261581)
+1. 有许多专门为了推荐目的而创建的 python 库可供使用。以下是最受欢迎的几个：
+	- Surprise：python scikit 构建和分析推荐的系统。
+	- Implicit：针对隐式数据集的快速 Python 协同过滤。
+	- LightFM：针对隐式和显式反馈，通过 Python 实现的很多流行推荐算法。
+	- pyspark.mlibz*.*recommendation：Apache Spark 的机器学习 API。
 
 
 ## 数据集
