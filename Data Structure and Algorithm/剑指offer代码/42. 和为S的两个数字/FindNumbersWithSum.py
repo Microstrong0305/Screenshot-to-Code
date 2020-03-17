@@ -15,13 +15,30 @@ class Solution:
         return result_list
 
     def FindNumbersWithSum2(self, array, tsum):
+        if array is None or len(array) < 1:
+            return []
+
+        start = 0
+        end = len(array) - 1
+        result_list = []
+        while start <= end:
+            if array[start] + array[end] > tsum:
+                end -= 1
+            elif array[start] + array[end] < tsum:
+                start += 1
+            elif len(result_list) == 2:
+                break
+            elif array[start] + array[end] == tsum:
+                result_list.append(array[start])
+                result_list.append(array[end])
+        return result_list
 
 
 if __name__ == "__main__":
     sol = Solution()
     array = [1, 3, 5, 15, 17]
     tsum = 20
-    print(sol.FindNumbersWithSum(array, tsum))
+    print(sol.FindNumbersWithSum2(array, tsum))
 
 '''
 Reference：
