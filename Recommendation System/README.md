@@ -81,6 +81,8 @@
 	- Implicit：针对隐式数据集的快速 Python 协同过滤。
 	- LightFM：针对隐式和显式反馈，通过 Python 实现的很多流行推荐算法。
 	- pyspark.mlibz*.*recommendation：Apache Spark 的机器学习 API。
+1. [AI干货 | 爱奇艺多模态短视频内容标签技术及应用](https://mp.weixin.qq.com/s/TLEJllv0t-sC1Yv_1q56ww)
+1. [基于矩阵分解的推荐算法](https://lumingdong.cn/recommendation-algorithm-based-on-matrix-decomposition.html)
 
 
 ## 数据集
