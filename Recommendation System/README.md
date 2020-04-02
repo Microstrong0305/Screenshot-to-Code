@@ -83,6 +83,7 @@
 	- pyspark.mlibz*.*recommendation：Apache Spark 的机器学习 API。
 1. [AI干货 | 爱奇艺多模态短视频内容标签技术及应用](https://mp.weixin.qq.com/s/TLEJllv0t-sC1Yv_1q56ww)
 1. [基于矩阵分解的推荐算法](https://lumingdong.cn/recommendation-algorithm-based-on-matrix-decomposition.html)
+1. [汽车之家推荐系统排序算法迭代之路](https://mp.weixin.qq.com/s/FYghBvkye8J7BqPje4JhFw) | [video](https://mp.weixin.qq.com/s/3wAR3evFAeKfsCYJ6WLTHQ) | [文章](https://www.6aiq.com/article/1582903309416)
 
 
 ## 数据集
