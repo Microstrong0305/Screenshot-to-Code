@@ -17,12 +17,14 @@ class Solution:
             if not node:
                 return 0
 
-            left_depth = getDepth(node.left)
-            right_depth = getDepth(node.right)
+            if not node.left:
+                return getDepth(node.right) + 1
 
-            print((left_depth, right_depth))
+            elif not node.right:
+                return getDepth(node.left) + 1
 
-            return min(left_depth, right_depth) + 1
+            else:
+                return min(getDepth(node.left), getDepth(node.right)) + 1
 
         return getDepth(root)
 
