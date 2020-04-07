@@ -20,7 +20,7 @@ class Solution:
         pivotkey = nums[low]
 
         while low < high:
-            while low < high and nums[high] > pivotkey:
+            while low < high and nums[high] >= pivotkey:
                 high -= 1
             nums[low] = nums[high]
             while low < high and nums[low] < pivotkey:
