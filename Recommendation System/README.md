@@ -85,6 +85,8 @@
 1. [基于矩阵分解的推荐算法](https://lumingdong.cn/recommendation-algorithm-based-on-matrix-decomposition.html)
 1. [汽车之家推荐系统排序算法迭代之路](https://mp.weixin.qq.com/s/FYghBvkye8J7BqPje4JhFw) | [video](https://mp.weixin.qq.com/s/3wAR3evFAeKfsCYJ6WLTHQ) | [文章](https://www.6aiq.com/article/1582903309416)
 1. [58招聘推荐排序算法实战与探索](https://mp.weixin.qq.com/s/DKyt4trKkYT-Z-sdLivALw)
+1. [Transformer 在美团搜索排序中的实践](https://mp.weixin.qq.com/s/Oixc46P9rQeiMDjI-0j0cw)
+1. [用户行为序列推荐模型](https://mp.weixin.qq.com/s/nqCJOstJlZv6CrMST-tH8g)
 
 
 ## 数据集
