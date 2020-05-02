@@ -46,8 +46,53 @@ class Solution:
         nums[i] = nums[j]
         nums[j] = temp
 
+    def findKthLargest2(self, nums: List[int], k: int) -> int:
+        from heapq import heappush, heapreplace
+        # 使用大顶堆
+        heap = []
+        for i in range(len(nums)):
+            if i < k:
+                heappush(heap, nums[i])  # 将 nums[i] 压入堆中
+            else:
+                if nums[i] > heap[0]:
+                    m = heapreplace(heap, nums[i])  # 弹出最小的元素，并将nums[i]压入堆中，返回弹出的元素
+        return heap[0]
+
+    def findKthLargest3(self, nums: List[int], k: int) -> int:
+
+        low, high = 0, len(nums) - 1
+
+        def select_k(nums, low, high, k):
+            if low == high:
+                return nums[low]
+            partitionIndex = self.partition(nums, low, high)
+            index = high - partitionIndex + 1  # 找到的是第几大的值
+            if index == k:
+                return nums[partitionIndex]
+            elif index < k:
+                # 此时向左查找
+                return select_k(nums, low, partitionIndex - 1, k - index)
+            else:
+                return select_k(nums, partitionIndex + 1, high, k)
+
+        return select_k(nums, low, high, k)
+
+    def partition(self, nums, low, high):
+        pivot = nums[low]
+        while low < high:
+            while low < high and pivot <= nums[high]:
+                high -= 1
+            nums[low] = nums[high]
+            while low < high and pivot > nums[low]:
+                low += 1
+            nums[high] = nums[low]
+
+        nums[high] = pivot
+
+        return high
+
 
 if __name__ == "__main__":
     nums = [3, 2, 1, 5, 6, 4]
     sol = Solution()
-    print(sol.findKthLargest(nums, 2))
+    print(sol.findKthLargest3(nums, 2))
