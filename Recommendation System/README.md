@@ -88,6 +88,7 @@
 1. [Transformer 在美团搜索排序中的实践](https://mp.weixin.qq.com/s/Oixc46P9rQeiMDjI-0j0cw)
 1. [用户行为序列推荐模型](https://mp.weixin.qq.com/s/nqCJOstJlZv6CrMST-tH8g)
 1. [图推荐算法在E&E问题上的应用](https://mp.weixin.qq.com/s/KSW47hbNLaHTw9Ib0wMO8g) | [video](https://mp.weixin.qq.com/s/RTAHBIAPQMqCM8WF6trwug)
+1. [深度学习技术在美图个性化推荐的应用实践](https://mp.weixin.qq.com/s/b8DkQWZbUc5-jzWKBd8iUA) | [video](https://mp.weixin.qq.com/s/sboWpGTuf8rpRUz4G7PdKw)
 
 
 ## 数据集
