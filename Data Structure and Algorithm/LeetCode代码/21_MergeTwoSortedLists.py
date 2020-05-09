@@ -5,46 +5,41 @@ class ListNode:
 
 
 class Solution:
+    # 暴力解法
     def mergeTwoLists(self, l1: ListNode, l2: ListNode) -> ListNode:
+        dummy = ListNode(-1)
+        prev = dummy
+
+        while l1 and l2:
+            if l1.val < l2.val:
+                prev.next = l1
+                l1 = l1.next
+            else:
+                prev.next = l2
+                l2 = l2.next
+
+            prev = prev.next
+
+        if not l1:
+            prev.next = l2
+        else:
+            prev.next = l1
+
+        return dummy.next
+
+    # 递归解法
+    def mergeTwoLists2(self, l1: ListNode, l2: ListNode) -> ListNode:
         if not l1:
             return l2
         if not l2:
             return l1
-        head1 = l1
-        head2 = l2
-        while head2:
-            a = head2.val
-            b = head1.val
-            if head2.val < head1.val:
-                tempNode1 = head1
-                tempNext2 = head2.next
-                if head1 == l1:
-                    l1 = head2
-                while tempNext2 and tempNext2.val < head1.val:
-                    if tempNext2.next == None:
-                        break
-                    tempNext2 = tempNext2.next
-                if tempNext2:
-                    head2 = tempNext2.next
-                    tempNext2.next = tempNode1
-                    head1 = tempNode1.next
-                else:
-                    head2.next = tempNode1
-                    head2 = tempNext2
-                    head1 = tempNode1.next
-            else:
-                tempNext1 = head1.next
-                while tempNext1.val >= head2.val:
-                    if tempNext1.next == None:
-                        break
-                    tempNext1 = tempNext1.next
-                if tempNext1:
-                    tempNext2 = head2.next
-                    tempNext1.next = head2
-                    head1 = tempNext1
-                    head2 = tempNext2
 
-        return l1
+        if l1.val < l2.val:
+            l1.next = self.mergeTwoLists2(l1.next, l2)
+            return l1
+        else:
+            l2.next = self.mergeTwoLists2(l1, l2.next)
+            return l2
 
 
 if __name__ == "__main__":
@@ -63,7 +58,7 @@ if __name__ == "__main__":
     l2_node2.next = l2_node3
 
     sol = Solution()
-    l1 = sol.mergeTwoLists(l1, l2)
+    l1 = sol.mergeTwoLists2(l1, l2)
 
     while l1:
         print(l1.val)
