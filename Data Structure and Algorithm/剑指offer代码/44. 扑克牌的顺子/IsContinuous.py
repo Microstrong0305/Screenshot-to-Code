@@ -136,12 +136,37 @@ class Solution:
         else:
             return False
 
+    # 方法三： 剑指offer上方法
+    def IsContinuous3(self, numbers):
+        if not numbers or len(numbers) < 1:
+            return False
+
+        numbers.sort()
+
+        # 统计数组中0的个数
+        numberOfZero = numbers.count(0)
+        numberOfGap = 0
+
+        # 统计数组中的间隔数目
+        small = numberOfZero
+        big = small + 1
+        while big < len(numbers):
+            # 两个数相等，有对子，不可能是顺子
+            if numbers[small] == numbers[big]:
+                return False
+            numberOfGap += (numbers[big] - numbers[small] - 1)
+            small = big
+            big += 1
+
+        return False if numberOfGap > numberOfZero else True
+
 
 if __name__ == '__main__':
     sol = Solution()
     # numbers = [1, 3, 5, 0, 0]
     # numbers = [1, 3, 0, 7, 0]
-    numbers = [1, 0, 0, 5, 0]
+    # numbers = [1, 0, 0, 5, 0]
     # numbers = [1, 3, 5, 2, 4]
     # numbers = [3, 0, 0, 0, 0]
-    print(sol.IsContinuous(numbers))
+    numbers = [1, 3, 2, 6, 4]
+    print(sol.IsContinuous3(numbers))
