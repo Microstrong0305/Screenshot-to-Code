@@ -91,6 +91,7 @@
 1. [深度学习技术在美图个性化推荐的应用实践](https://mp.weixin.qq.com/s/b8DkQWZbUc5-jzWKBd8iUA) | [video](https://mp.weixin.qq.com/s/sboWpGTuf8rpRUz4G7PdKw)
 1. [美图个性化推送的 AI 探索之路](https://mp.weixin.qq.com/s/HRGk5bfaOdj-6X4opEYA-w) | [video](https://mp.weixin.qq.com/s/w6GK-Rqn7FlUXmzk3QKRyw)
 1. [深度学习在花椒直播中的应用—推荐系统冷启动算法](https://mp.weixin.qq.com/s/70FuX6qyDPa47qGiDvI-7Q) | [知乎](https://zhuanlan.zhihu.com/p/115781834)
+1. [「回顾」饿了么推荐算法演进及在线学习实践](https://mp.weixin.qq.com/s/1u9LBm0niHlgBpZG1K5i2A) | [video](https://mp.weixin.qq.com/s/Er8g4ETXkOpZPrSxFLEHqQ)
 
 
 ## 数据集
